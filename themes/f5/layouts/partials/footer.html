@@ -1,0 +1,74 @@
+
+            <footer id="pageFooter" class="row">
+
+                <hr>
+
+                <div class="medium-6 columns">
+
+                    <h3>Refresh Annapolis Valley</h3>
+
+                    <p>
+                        <strong>Refresh</strong> is a community of designers and developers working to refresh the creative, technical, and professional culture of New Media endeavors in the Annapolis Valley while promoting design, technology, usability, and standards.
+                    </p>
+
+                    <p>
+                        <strong>Refresh meets the second Tuesday evening of each month</strong> in the Wolfville area. These are casual affairs with short, member-interest talks followed by an opportunity to mingle.
+                    </p>
+
+                    <p>All are welcome!</p>
+
+                    <ul class="menu">
+                        <li><a href="https://www.facebook.com/RefreshAnnapolisValley/"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/refreshav"><i class="fa fa-twitter-square" aria-hidden="true"></i></a></li>
+                        <li><a href="https://www.linkedin.com/groups/5171504"><i class="fa fa-linkedin-square" aria-hidden="true"></i></a></li>
+                        <li><a href="https://plus.google.com/116547663777969965231/posts"><i class="fa fa-google-plus-square" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+                <div class="medium-6 columns">
+
+                    <h3>Subscribe to our mailing list</h3>
+
+                    <form action="https://refreshannapolisvalley.us6.list-manage.com/subscribe/post" method="POST" data-abide>
+                        <input type="hidden" name="u" value="541eedc014006742efdd2ed17">
+                        <input type="hidden" name="id" value="ceb11b34fb">
+
+                        <div data-abide-error class="alert callout" style="display: none;">
+                            <p><i class="fa fa-bell-o" aria-hidden="true"></i> Errors!  Errors in your form!</p>
+                        </div>
+
+                        <label>
+                            Email
+                            <input type="email" placeholder="your@domain.com" name="MERGE0" required pattern="email">
+                            <span class="form-error">Hello?</span>
+                        </label>
+                        <label>
+                            First Name
+                            <input type="text" placeholder="Given Name" name="MERGE1">
+                        </label>
+                        <label>
+                            Last Name
+                            <input type="text" placeholder="Family Name" name="MERGE2">
+                        </label>
+                        <input type="submit" class="button expanded" value="Don&apos;t Miss a Beat">
+
+                    </form>
+
+
+                </div>
+            </footer>
+            <div class="js-off-canvas-exit"></div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/foundation/6.2.3/foundation.min.js"></script>
+<script src="https://npmcdn.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
+{{ if .Site.Params.googleAPIKey }}
+<script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ .Site.Params.googleAPIKey }}"></script>
+{{ end }}
+<script src="{{ .Site.BaseURL }}js/f5.js"></script>
+{{ template "_internal/google_analytics_async.html" . }}
+
+</body>
+</html>

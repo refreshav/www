@@ -1,0 +1,187 @@
+dl.inline {
+    padding: 0.5em;
+}
+dl.inline dt {
+    float: left;
+    clear: left;
+    width: 140px;
+    text-align: left;
+    font-weight: bold;
+}
+dl.inline dt:after {
+    content: ":";
+}
+dl.inline dd {
+    margin: 0 0 0 150px;
+    padding: 0 0 0.5em 0;
+}
+
+.off-canvas-wrapper {
+    background: #e6e6e6;
+}
+
+.off-canvas-wrapper-inner {
+    overflow: hidden;
+}
+
+.off-canvas-content {
+    box-shadow: none;
+}
+
+.off-canvas {
+    padding-top: .9375rem;
+}
+
+footer .menu {
+    font-size: 300%;
+}
+
+details dl {
+    font-size: 85%;
+}
+
+details dl ul {
+    margin-bottom: 0px;
+}
+
+summary {
+    font-size: 1.25rem;
+}
+
+article header span.label {
+    cursor: inherit;
+    font-size: .6rem;
+}
+
+details i.fa {
+    width: 1.2em;
+}
+
+article.article header {
+    width: 100%;
+    height: 33vh;
+    line-height: 33vh;
+    text-align: center;
+    margin: 0 0 1.5em 0;
+    position: relative;
+}
+
+article.article header img {
+    max-width: 100%;
+    max-height: 100%;
+    vertical-align: top;
+}
+
+article.article header h1 a {
+    color: inherit;
+}
+
+article.article header h1 {
+    position: absolute;
+    bottom: 10px;
+    z-index: 1;
+    background-color: hsla(0,0%,100%,.65);
+    width: 100%;
+    text-align: left;
+    padding: .1rem 0;
+    text-shadow: 2px 2px 2px rgba(254, 254, 254, 1);
+}
+
+img.thumbnail {
+    margin: 0 1rem 1rem 0;
+    width: 100px;
+}
+
+.thumbnail img {
+    width: 85px;
+}
+
+#past .thumbnail img {
+    max-width: 4em;
+}
+
+#list header {
+    padding-bottom: 1.5em;
+}
+
+#404 p {
+    font-size: 25em;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+#pageFooter {
+    margin-top: 4em;
+}
+
+.carousel {
+    margin-bottom: 5em;
+}
+
+.carousel-cell {
+    width: 90%;
+    height: 350px;
+    margin-right: 10px;
+}
+
+.carousel-cell-image {
+    display: block;
+    max-height: 100%;
+    max-width: 100%;
+    opacity: 0;
+    -webkit-transition: opacity 0.4s;
+    transition: opacity 0.4s;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+.flickity-prev-next-button {
+    width: 32px;
+    height: 32px;
+}
+
+
+/* fade in lazy loaded image */
+.carousel-cell-image.flickity-lazyloaded,
+.carousel-cell-image.flickity-lazyerror {
+    opacity: 1;
+}
+
+@media screen and (min-width: 40em) {
+    summary {
+        font-size: 2.0rem;
+    }
+
+    .thumbnail img {
+        width: 170px;
+    }
+
+    img.thumbnail {
+        width: 170px;
+    }
+
+    .flickity-prev-next-button {
+        width: 44px;
+        height: 44px;
+    }
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {
+    .carousel-cell {
+        height: 550px;
+    }
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+    .carousel-cell {
+        height: 750px;
+    }
+}

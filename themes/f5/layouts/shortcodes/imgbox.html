@@ -1,0 +1,11 @@
+<div class="media-object">
+    <div class="media-object-section">
+        <div class="thumbnail">
+            <img style="max-width: 100px" src= "{{ .Site.BaseURL }}{{ .Get "thumbnail" }}">
+        </div>
+    </div>
+    <div class="media-object-section">
+        <h4>{{ .Get "title" | markdownify }}</h4>
+        <p>{{ .Inner }}</p>
+    </div>
+</div>

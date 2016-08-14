@@ -1,0 +1,10 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<nav class="ui pagination menu">
+    {{ if .Paginator.HasPrev }}
+    <a class="item" href="{{ .Site.BaseURL }}{{ .Paginator.Prev.URL }}">« Previous</a>
+    {{ end }}
+    {{ if .Paginator.HasNext }}
+    <a class="item" href="{{ .Site.BaseURL }}{{ .Paginator.Next.URL }}">Next »</a>
+    {{ end }}
+</nav>
+{{ end }}

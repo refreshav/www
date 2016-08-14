@@ -1,0 +1,37 @@
+{{ partial "header.html" . }}
+
+<article class="article" id="terms">
+
+    <header>
+
+        <img data-interchange="[http://placehold.it/960x540, small], [http://placehold.it/960x540, medium], [http://placehold.it/1280x720, large]" title="Events New and Old" alt="Events New and Old">
+
+        <div class="row columns small-up-2 medium-up-3 large-up-4">
+            <h1>
+                <i class="fa fa-comments-o" aria-hidden="true"></i>
+                {{ .Title }}
+            </h1>
+        </div>
+    </header>
+
+    <section class="row">
+
+        <div class="columns small-up-2 medium-up-3 large-up-4">
+
+            {{ $data := .Data }}
+            {{ range $key, $value := .Data.Terms }}
+            <a href="/{{ $data.Plural }}/{{ $key | urlize }}" class="button large hollow">
+                {{ $key }}
+                <span class="badge">{{ len $value }}</span>
+            </a>
+
+            {{ end }}
+
+        </div>
+    </section>
+
+</article>
+
+
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,169 @@
+{{ partial "header.html" . }}
+
+
+<main role="main">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+        <header>
+
+            {{ if .Params.banner }}
+            <img data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+            {{end}}
+
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 itemprop="name">
+                    {{ .Title }}
+                </h1>
+            </div>
+
+
+        </header>
+
+        <div class="row columns small-up-2 medium-up-3 large-up-4">
+
+            <details class="callout secondary" role="group" open>
+
+                <summary role="button" aria-expanded="false">Event Details</summary>
+
+                <dl class="inline">
+                    {{ if .Date }}
+                    <dt><i class="fa fa-clock-o" aria-hidden="true"></i> Date</dt>
+                    <dd>
+                        {{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}
+                        {{ if lt "Date" .Now }}
+                        <span class="warning label">Archived</span>
+                        {{ end }}
+                    </dd>
+                    {{ end }}
+
+                    {{ if .Params.event_location }}
+                    <dt><i class="fa fa-map-marker" aria-hidden="true"></i> Location</dt>
+                    <dd id="location">{{ .Params.event_location }}</dd>
+                    {{ end }}
+
+                    {{ if .Params.event_facebook }}
+                    <dt><i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+                        {{ if lt "Date" .Now }}
+                        Event Page
+                        {{ else }}
+                        RSVP
+                        {{ end }}
+                    </dt>
+                    <dd><a href="{{ .Params.event_facebook }}">Facebook</a></dd>
+                    {{ end }}
+
+                    {{ if .Params.event_eventbright }}
+                    <dt><i class="fa fa-ticket" aria-hidden="true"></i> Get Tickets</dt>
+                    <dd><a href="{{ .Params.event_eventbright }}">Eventbright</a></dd>
+                    {{ end }}
+
+                    {{ if .Params.people }}
+                    <dt>
+                        {{ if gt (len .Params.people) 1 }}
+                        <i class="fa fa-users" aria-hidden="true"></i>
+                        {{ else }}
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                        {{ end }}
+                        Presenter{{ if gt (len .Params.people) 1 }}s{{ end }}
+                    </dt>
+                    <dd>
+                        {{ range $index, $person := .Params.people }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}person/{{ . | urlize }}">{{ . }}</a>{{ end }}
+                    </dd>
+                    {{ end }}
+
+                    {{ if .Params.organizations }}
+                    <dt><i class="fa fa-building-o" aria-hidden="true"></i> Organization{{ if gt (len .Params.organizations) 1 }}s{{ end }}</dt>
+                    <dd>{{ range $index, $organization := .Params.organizations }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
+                    {{ end }}
+
+                    {{ if .Params.resources }}
+                    <dt><i class="fa fa-wrench" aria-hidden="true"></i> Resources</dt>
+                    <dd>
+                        <ul>
+                        {{ range $index, $resource := .Params.resources }}
+                            <li>
+                            {{ range $key, $value := . }}
+                                {{ if eq $key "title"}}
+                                    {{ $.Scratch.Set "title" $value }}
+                                {{ end }}
+                                {{ if eq $key "url"}}
+                                    {{ $.Scratch.Set "url" $value }}
+                                {{ end }}
+                            {{ end }}
+
+                                <a href="{{ $.Scratch.Get "url" }}">
+                                    {{ $.Scratch.Get "title" }}
+                                </a>
+                            </li>
+
+                        {{ end }}
+                        </ul>
+                    </dd>
+                    {{ end }}
+                </dl>
+
+            </details>
+
+        </div>
+
+        <main class="row columns small-up-2 medium-up-3 large-up-4">
+            {{ .Content }}
+        </main>
+
+        <footer class="row columns small-up-2 medium-up-3 large-up-4">
+
+            {{ if gt "Date" .Now }}
+
+            <h3 class="text-center">{{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}</h3>
+
+            {{ if .Params.event_location }}
+            <p class="text-center">
+                {{ replace .Params.event_location "," "<br>" | safeHTML }}
+            </p>
+            {{ end }}
+
+            {{ if .Params.event_facebook }}
+                {{ if gt "Date" .Now }}
+                <p class="text-center">
+                    <a class="large button" href="{{ .Params.event_facebook }}">
+                        <i class="fa fa-calendar-check-o" aria-hidden="true"></i> RSVP
+                    </a>
+
+                </p>
+                {{ end }}
+            {{ end }}
+
+            {{ end }}
+
+            {{ if .Params.event_sponsors }}
+            <p class="text-center">
+                Organized in cooperation with
+                {{ range $index, $person := .Params.event_sponsors }}{{ if gt $index 0 }} & {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}
+            </p>
+            {{ end }}
+
+            {{ if .Params.pics }}
+            <div class="callout secondary carousel" data-flickity='{ "lazyLoad": true, "wrapAround": true }'>
+
+                {{ range $index, $pic := .Params.pics }}
+                    <div class="carousel-cell">
+                        <img class="carousel-cell-image" data-flickity-lazyload="{{ . }}" />
+                    </div>
+                {{ end }}
+
+            </div>
+            {{ end }}
+
+
+            <section id="map"></section>
+
+        </footer>
+    </article>
+
+    {{ if .Site.Params.disqusShortname }}
+    <section>
+        {{ template "_internal/disqus.html" . }}
+    </section>
+    {{ end }}
+
+</main>
+{{ partial "footer.html" . }}

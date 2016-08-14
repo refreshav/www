@@ -1,0 +1,102 @@
+{{ partial "header.html" . }}
+
+
+<main role="main">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+        <header>
+
+            {{ if .Params.banner }}
+            <img data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+            {{end}}
+
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 itemprop="name">{{ .Title }}</h1>
+            </div>
+
+        </header>
+
+        <div class="row">
+
+
+            <main class="columns small-up-2 medium-up-3 large-up-4">
+                {{ if .Params.icon }}
+                <img class="thumbnail" src="{{ .Params.icon | absURL }}" alt="{{ .Title }}" align="left">
+                {{ end }}
+                {{ .Content }}
+            </main>
+
+            <footer>
+
+                <details class="columns small-up-2 medium-up-3 large-up-4" role="group" open>
+                    <summary role="button" aria-expanded="false">Meta</summary>
+
+                    <dl class="inline">
+
+                        {{ if .Params.topics }}
+                        <dt><i class="fa fa fa-comments-o" aria-hidden="true"></i> Topic{{ if gt (len .Params.topics) 1 }}s{{ end }}</dt>
+                        <dd>{{ range $index, $topic := .Params.topics }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}topics/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
+                        {{ end }}
+
+                        {{ if .Params.email }}
+                        <dt><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</dt>
+                        <dd><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.facebook }}
+                        <dt><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</dt>
+                        <dd><a href="https://www.facebook.com/{{ .Params.facebook }}">@Facebook</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.twitter }}
+                        <dt><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</dt>
+                        <dd><a href="https://twitter.com/{{ .Params.twitter }}">@{{ .Params.twitter }}</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.linkedin }}
+                        <dt><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</dt>
+                        <dd><a href="{{ .Params.linkedin }}">@LinkedIn</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.website }}
+                        <dt><i class="fa fa-link" aria-hidden="true"></i> Website</dt>
+                        <dd><a href="{{ .Params.website }}">@www</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.phone }}
+                        <dt><i class="fa fa-phone" aria-hidden="true"></i> Phone</dt>
+                        <dd><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></dd>
+                        {{ end }}
+
+                        {{ if .Params.organizations }}
+                        <dt><i class="fa fa-building-o" aria-hidden="true"></i> Organization{{ if gt (len .Params.organizations) 1 }}s{{ end }}</dt>
+                        <dd>{{ range $index, $organization := .Params.organizations }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
+                        {{ end }}
+
+                        <dt><i class="fa fa-calendar" aria-hidden="true"></i> Talks</dt>
+                        <dd>
+
+                            {{ $person := .Title }}
+                            {{ range where .Site.Pages "Type" "=" "event" }}
+                                {{ if in .Params.people $person }}
+                                    <a href="{{ .Permalink }}">{{ .Title }}</a><br>
+                                {{ end }}
+                            {{ end }}
+
+                        </dd>
+
+                    </dl>
+
+                </details>
+
+            </footer>
+        </div>
+    </article>
+
+    {{ if .Site.Params.disqusShortname }}
+    <section>
+        {{ template "_internal/disqus.html" . }}
+    </section>
+    {{ end }}
+
+</main>
+{{ partial "footer.html" . }}

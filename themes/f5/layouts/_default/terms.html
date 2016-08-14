@@ -1,0 +1,21 @@
+{{ partial "header.html" . }}
+
+<section class="row">
+
+    <div class="columns small-up-2 medium-up-3 large-up-4">
+
+        <h1 id="title">{{ .Title }}</h1>
+
+        <ul>
+            {{ $data := .Data }}
+            {{ range $key, $value := .Data.Terms }}
+            <li>
+                <a href="/{{ $data.Plural }}/{{ $key | urlize }}">{{ $key }}</a>
+                <span class="badge">{{ len $value }}</span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+</section>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,101 @@
+{{ partial "header.html" . }}
+
+{{ range first 1 (where .Data.Pages "Type" "event") }}
+
+    <article class="article">
+
+        <header>
+
+            {{ if .Params.banner }}
+            <img data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+            {{end}}
+
+            <h1 class="article-title">
+                <a href="{{ .Permalink }}" itemprop="url">
+                    {{ .Title }}
+                </a>
+            </h1>
+
+        </header>
+
+        <div class="row columns small-up-2 medium-up-3 large-up-4">
+
+            <div class="media-object">
+                <div class="media-object-section">
+                    <div class="thumbnail">
+                        {{ if .Params.icon }}
+                        <a href="{{ .Permalink }}">
+                            <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                        </a>
+                        {{end}}
+                    </div>
+                </div>
+                <div class="media-object-section">
+                    <p><strong>{{ dateFormat "January 2, 2006 at 3:04pm" .Date }}</strong></p>
+
+                    <p class="article-style">
+                        {{ if .Truncated }}
+                        {{ .Summary }}
+                        {{ else }}
+                        {{ .Content }}
+                        {{ end }}
+                    </p>
+                    <p class="read-more">
+                        <strong><a href="{{ .Permalink }}">
+                            Get the deets...
+                        </a></strong>
+                    </p>
+                </div>
+            </div>
+
+
+        </div>
+    </article>
+
+{{ end }}
+
+<div class="row">
+    <div id="past" class="large-6 columns">
+        <h3>Past Events</h3>
+
+        {{ range (where (where .Data.Pages "Type" "event") "Date" "<" .Now) }}
+
+        <div class="media-object">
+            <div class="media-object-section">
+                <div class="thumbnail">
+                    {{ if .Params.icon }}
+                    <a href="{{ .Permalink }}" itemprop="url">
+                        <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                    </a>
+                    {{end}}
+                </div>
+            </div>
+            <div class="media-object-section">
+                <h5 class="article-title">
+                    <a href="{{ .Permalink }}" itemprop="url">
+                        {{ .Title }}
+                    </a>
+                </h5>
+            </div>
+        </div>
+        {{ end }}
+
+    </div>
+    <div id="topics" class="large-6 columns">
+
+        <h3>Topics</h3>
+
+            {{ $data := .Site.Taxonomies.topics }}
+            {{ range $key, $value := .Site.Taxonomies.topics }}
+            <a href="/topics{{ $data.Plural }}/{{ $key | urlize }}" class="small button hollow">
+                {{ $key }}
+                <span class="badge">{{ len $value }}</span>
+            </a>
+
+            {{ end }}
+
+    </div>
+</div>
+
+
+{{ partial "footer.html" . }}
