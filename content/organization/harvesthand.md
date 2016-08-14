@@ -24,3 +24,5 @@ Our Mandate is to:
  - Make it easy for citizens to locate, join and remain a member of a CSA farm
  - Create a space for exploration of ideas, identification of problems and creation of solutions related to local food systems
  - Build out best of regional food tooling
+ 
+ {{< vid width="560" height="315" src="https://www.youtube.com/embed/qNxWThFGa5M" >}}
