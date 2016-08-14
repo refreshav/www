@@ -2,26 +2,34 @@
 date = 2016-08-10T19:00:00Z
 draft = false
 title = "HUB Kentville"
-location = "Acadia Entrepreneurship Centre, Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
-banner = "images/event/test/banner"
-icon = "images/event/test/icon.jpg"
-facebook = "michaelisraelcaplan"
-twitter = "refreshav"
-email = "michael@eggplant.ws"
-topics = ["Beer", "Chatter"]
-people = ["Michael Caplan"]
-website = "http://refreshannapolisvalley.org/"
-linkedin = "https://www.linkedin.com/groups/5171504"
+location = "440 Main Street, Kentville, NS"
+banner = "images/organization/hub-kentville/banner"
+icon = "images/organization/hub-kentville/icon.jpg"
+facebook = "TheHubAnnapolisValley"
+twitter = "thevalleyhub"
+topics = ["Coworking"]
+people = ["Frances Schagen"]
+website = "http://www.thehubannapolisvalley.ca/"
 +++
 
-I read **Good to Great in January 2016**. An awesome read sharing detailed analysis on how good companies became great.
+Get Inspired, Get Connected, Get involved. HUB spaces provide an inspirational home to members and are a focal point for change within the local communities.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec vehicula odio, vitae interdum ligula. Nam pharetra, enim non blandit lobortis, quam nulla lacinia justo, vitae pulvinar ante ipsum vitae ligula. Vivamus tempus nisl a quam rhoncus, tincidunt gravida velit aliquet. Mauris vel pharetra metus. Mauris euismod magna vitae mi cursus, ut vestibulum massa pharetra. Pellentesque convallis pretium nisi. Duis non lectus pretium, aliquet eros quis, luctus eros. Ut rutrum tortor in pharetra semper. Mauris in quam felis. Nunc et libero ante. Praesent iaculis dui at condimentum pretium. Nam molestie turpis nulla, vitae dapibus felis ultricies non.
+### What is the Hub?
 
-Suspendisse mollis turpis vel scelerisque rutrum. Curabitur ac lacus dignissim, viverra ex ac, volutpat tortor. Nullam et malesuada lectus. Donec id felis a metus fringilla condimentum eu non nulla. Aenean sit amet mauris eget erat tincidunt interdum eu dictum sapien. Nullam tellus nulla, malesuada et varius egestas, dignissim vel risus. Curabitur ullamcorper, massa ac lacinia iaculis, ex turpis ullamcorper tortor, at vestibulum ipsum ante non dolor. Nulla facilisi. Suspendisse in enim id nibh cursus interdum.
+The HUB is about the power of innovation through collaboration.
 
-Curabitur convallis odio eu metus pretium rutrum. Praesent dictum mattis consequat. Quisque vulputate interdum magna, at porttitor tortor pulvinar non. Maecenas nibh neque, feugiat a dolor at, eleifend bibendum odio. Etiam in leo vel tellus ullamcorper lobortis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam et tincidunt sapien. Nullam eget turpis massa. Praesent vel justo sed nisl molestie tincidunt non a nisl. Fusce tincidunt et leo nec congue.
+We believe there is no shortage of good ideas to solve the issues of our time. But there is an acute lack of collaboration and support structures to help make them happen. The HUB was founded to address this need.
 
-Pellentesque eget magna nulla. Aenean pretium erat tellus, vitae pretium neque dictum at. Nunc vehicula urna metus, vel aliquet tellus mollis sagittis. Vivamus nec elementum eros, a venenatis elit. Quisque elementum tempor neque. Vestibulum auctor, eros eleifend malesuada facilisis, ex magna rhoncus turpis, ac fringilla erat erat vel lorem. Nunc non efficitur turpis. Vivamus consectetur velit metus, eu imperdiet leo laoreet sed. Praesent congue, purus eu facilisis imperdiet, tortor elit mattis turpis, eu placerat velit dui ac orci. Etiam ut justo ut ex mollis scelerisque. Vestibulum hendrerit nunc nisl, elementum molestie magna porttitor non. Integer ac metus tempus, tincidunt risus quis, pretium nunc. Mauris ex eros, eleifend vel metus id, molestie auctor magna. Pellentesque vehicula bibendum ornare. In nisl lorem, molestie sed aliquam vel, elementum sit amet odio.
+We set out to create spaces that combine the best of a trusted community, innovation lab, business incubator and the comforts of home.
 
-Donec fermentum, est non sollicitudin imperdiet, nulla diam tristique ex, eu maximus lacus lorem ut risus. Cras suscipit ligula nisl, non porttitor augue malesuada a. Etiam in neque ut augue bibendum mattis. Aenean quis nisl molestie, vestibulum lacus et, facilisis dui. Pellentesque id nibh justo. Donec nec viverra urna. Ut vel lacus sed purus tincidunt semper eget quis elit. Nulla pellentesque nulla pellentesque ullamcorper feugiat. Aliquam et velit nec nibh lobortis ornare ac quis augue. Nam vestibulum, velit non semper iaculis, purus nisl maximus libero, sit amet fermentum diam nisi a sem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec vel tortor justo. Vivamus mauris orci, interdum sed augue ac, posuere malesuada ex. Etiam imperdiet varius est et ultrices.
+Spaces with all the tools and trimmings needed to grow and develop innovative ventures for the world. But above all, spaces for meaningful encounters, exchange and inspiration, full of diverse people doing amazing things.
+
+The idea has been spreading like wildfire and resulted in the emergence of a global movement. To date, there are 25+ open HUBs and many more in the making, from London to San Francisco, Johannesburg, Melbourne and Sao Paulo.
+
+### Mission
+
+To become a global network of connected communities that enable collaborative ventures for a better world.
+
+At the HUB, people from every profession, background and culture are being united by one thing: the imagination and drive to pursue enterprising ideas for the world. These are the people who see and do things differently and have entrepreneurial passion to create sustainable impact.
+
+The HUB is becoming the place they call home.
