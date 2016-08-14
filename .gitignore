@@ -70,7 +70,6 @@ _testmain.go
 *.test
 *.prof
 
-.gitignore
-archetypes/
-data/
-layouts/
+.idea/copyright/
+.idea/f5.iml
+.idea/modules.xml
