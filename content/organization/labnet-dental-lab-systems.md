@@ -8,7 +8,7 @@ icon = "images/organization/labnet-dental-lab-systems/icon.png"
 facebook = "DDXDental"
 twitter = "ddxdental"
 email = "michael.caplan@henryschein.com"
-topics = ["Web Apps"]
+topics = ["Web Apps", "Software"]
 people = ["Michael Caplan"]
 website = "http://labnet.net/"
 +++
