@@ -12,4 +12,4 @@ organizations = ["Progeny Genealogy"]
 linkedin = "https://www.linkedin.com/in/pierre-clouthier-5107551"
 +++
 
-Co-founder, CTO Progeny Software, specialising in computer graphics software for genealogy.
+Co-founder, President, Progeny Genealogy Inc., specialising in computer graphics software for genealogy.
