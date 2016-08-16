@@ -16,20 +16,11 @@ dl.inline dd {
     padding: 0 0 0.5em 0;
 }
 
-.off-canvas-wrapper {
-    background: #e6e6e6;
-}
-
 .off-canvas-wrapper-inner {
-    overflow: hidden;
+    min-height: 100vh;
 }
-
-.off-canvas-content {
-    box-shadow: none;
-}
-
 .off-canvas {
-    padding-top: .9375rem;
+    bottom: 0;
 }
 
 footer .menu {
