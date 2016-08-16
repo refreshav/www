@@ -3,11 +3,7 @@
 
 <main role="main">
     <article class="article" itemscope itemtype="http://schema.org/Article">
-        <header>
-
-            {{ if .Params.banner }}
-            <img data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
-            {{end}}
+        <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]">
 
             <div class="row columns small-up-2 medium-up-3 large-up-4">
                 <h1 itemprop="name">{{ .Title }}</h1>
