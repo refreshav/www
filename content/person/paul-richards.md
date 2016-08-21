@@ -18,3 +18,5 @@ Paul spent over 10 years working with the Acadia Centre for Social and Business 
 Prior to joining Innovacorp, Paul worked with the Atlantic Canadian Opportunities Agency, where he worked with several priority industry sectors, provided commercialization advice to academic researchers, and developed many innovative community projects designed to stimulate economic improvement across Nova Scotia.
 
 Paul holds an economics degree from Acadia University.
+
+Unknown to Paul, his profile pic was reinterpreted by a computer who studied the works of the famous Nova Scotia artist Maud Lewis.  Kashi Go Lean waffles inspired by Paul's teachings on Lean business concepts.

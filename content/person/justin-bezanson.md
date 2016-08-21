@@ -7,7 +7,7 @@ icon = "images/person/justin-bezanson/icon.jpg"
 facebook = "justin.bezanson"
 twitter = "justinbezanson"
 email = "justinbezanson@gmail.com"
-topics = ["Software", "Web Apps"]
+topics = ["Software", "Web Dev"]
 organizations = ["Labnet Dental Lab Systems"]
 linkedin = "https://www.linkedin.com/in/justinbezanson"
 +++
@@ -19,3 +19,5 @@ I enjoy meeting challenges and working hard to find creative and user friendly s
 My goal is to continually improve my development process, delivering higher quality and efficiency.
 
 Specialties: PHP, ASP.NET MVC, HTML, CSS, JavaScript, jQuery, CodeIgniter, Zend Framework, AJAX, Windows, Linux, MySQL, SQL Server, WordPress, ASP.NET
+
+Justin, pictured here, _is_ The Thing from the Fantastic Four.

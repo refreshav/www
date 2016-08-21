@@ -18,3 +18,5 @@ Frances is a small business innovator. She geeks out over business strategy, bus
 Business innovation is essential for us to solve our biggest issues and to succeed in the world today. Business theory was developed for large business and small business is not a little big business. Frances has been on this quest for decades, talking to 1000's of business owners and reading 1000's of books. 
 
 Your Effortless Business is her book where she outlines how you can make your business work better and be more entrepreneurial Hint:you don't need an MBA to succeed in small business, in fact it will get in the way.
+
+Frances' profile picture was created by software trained in the fine art of pastels.  Header image a pic of Jacob Epstein's sculpture _The Rush of Green or The Bowater House Group_. 
