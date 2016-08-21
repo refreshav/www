@@ -32,7 +32,7 @@ url = "https://www.flickr.com/photos/12836528@N00/3132476481"
 Come join us for "**Local Projects Roundup - Round Two**," a discussion about interesting local web projects, platforms, business, and techies.
 
 {{< imgbox thumbnail="images/organization/valley-family-fun/icon.jpg" title="**Online Community Engagement** with Laura Churchill Duke" >}}
-    Laura is the owner and operator of {{< organization "Valley Family Fun" >}} which is a website for families living in the Annapolis Valley. It includes resources, ideas, information and a calendar of family-friendly events. Started in January 2012, it has grown to include a Facebook and Twitter site to form a web-based network of over 2000 followers.
+    Laura is the owner and operator of {{< organization "Valley Family Fun" >}} which is a website for families living in the Annapolis Valley. It includes resources, ideas, information and a calendar of family-friendly events. Started in January 2012, it has grown to include a Facebook and Twitter site to form a web-based network of over 6000 followers.
 {{< /imgbox >}}
 
 {{< imgbox thumbnail="images/organization/scotiacom/icon.jpg" title="**Let's Build a Drupal Site in 8 Minutes, 32 Seconds!** with Geoff Crouse" >}}
