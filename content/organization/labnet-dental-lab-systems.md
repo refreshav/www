@@ -9,7 +9,7 @@ facebook = "DDXDental"
 twitter = "ddxdental"
 email = "michael.caplan@henryschein.com"
 topics = ["Web Apps", "Software"]
-people = ["Michael Caplan"]
+people = ["Michael Caplan", "Justin Bezanson", "Chris Jordan"]
 website = "http://labnet.net/"
 +++
 
