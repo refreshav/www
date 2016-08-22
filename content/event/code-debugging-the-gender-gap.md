@@ -9,7 +9,7 @@ icon = "images/event/code-debugging-the-gender-gap/icon.jpg"
 organizations = ["Digital Nova Scotia"]
 event_sponsors = [
     "Acadia Computer Science Society", 
-    "Acadia Enterprenership Centre", 
+    "Acadia Entrepreneurship Centre", 
     "Acadia Robotics Program", 
     "Digital Nova Scotia", 
     "Jodrey School of Computer Science at Acadia University",
