@@ -63,6 +63,11 @@
                         <dd><a href="{{ .Params.website }}">@www</a></dd>
                         {{ end }}
 
+                        {{ if .Params.phone }}
+                        <dt><i class="fa fa-phone" aria-hidden="true"></i> Phone</dt>
+                        <dd><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></dd>
+                        {{ end }}
+
                         {{ if .Params.organizations }}
                         <dt><i class="fa fa-building-o" aria-hidden="true"></i> Organization{{ if gt (len .Params.organizations) 1 }}s{{ end }}</dt>
                         <dd>{{ range $index, $organization := .Params.organizations }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>

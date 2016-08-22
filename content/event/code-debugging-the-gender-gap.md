@@ -22,12 +22,15 @@ title = "CODE: Debugging the Gender Gap"
 topics = ["Women in Tech"]
 +++
 
+{{< figure src="/images/event/code-debugging-the-gender-gap/poster.jpg" class="float-right" alt="CODE: Debugging the Gender Gap" >}}
+
 _CODE: Debugging The Gender Gap_ exposes the dearth of female and minority 
 software engineers and explores the reasons for this gender gap and digital divide.
 
 Tech jobs are growing three times faster than our colleges are producing computer science 
 graduates. By 2019 there will be 182,000 jobs in information and communications technology 
 that will go unfilled by homegrown Canadian talent because not enough people will have the right skills. 
+
 Through compelling interviews, artistic animation and clever flashpoints in popular culture, 
 _CODE_ examines the reasons why more girls and people of color are not seeking out 
 opportunities in computer science and explores how cultural mindsets, stereotypes, 
