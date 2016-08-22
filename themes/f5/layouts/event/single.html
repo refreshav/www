@@ -107,26 +107,36 @@
 
         <footer class="row columns small-up-2 medium-up-3 large-up-4">
 
-            {{ if gt "Date" .Now }}
+            {{ if gt .Date .Now }}
 
-            <h3 class="text-center">{{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}</h3>
+                <h3 class="text-center">{{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}</h3>
 
-            {{ if .Params.event_location }}
-            <p class="text-center">
-                {{ replace .Params.event_location "," "<br>" | safeHTML }}
-            </p>
-            {{ end }}
-
-            {{ if .Params.event_facebook }}
-                {{ if gt "Date" .Now }}
+                {{ if .Params.event_location }}
                 <p class="text-center">
-                    <a class="large button" href="{{ .Params.event_facebook }}">
-                        <i class="fa fa-calendar-check-o" aria-hidden="true"></i> RSVP
-                    </a>
-
+                    {{ replace .Params.event_location "," "<br>" | safeHTML }}
                 </p>
                 {{ end }}
-            {{ end }}
+
+                {{ if .Params.event_eventbright }}
+                    <p class="text-center">
+                        <a class="large button" href="{{ .Params.event_eventbright }}">
+                            <i class="fa fa-ticket" aria-hidden="true"></i> Get Your Tickets
+                        </a>
+
+                    </p>
+                {{ else }}
+
+                    {{ if .Params.event_facebook }}
+                        <p class="text-center">
+                            <a class="large button" href="{{ .Params.event_facebook }}">
+                                <i class="fa fa-calendar-check-o" aria-hidden="true"></i> RSVP
+                            </a>
+
+                        </p>
+                    {{ end }}
+
+                {{ end }}
+
 
             {{ end }}
 
