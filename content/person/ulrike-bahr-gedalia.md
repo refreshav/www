@@ -21,4 +21,6 @@ Ulrike has worked in executive leadership roles at the headquarters of prominent
 
 Ulrike is an elected member of the International Women’s Forum & sits on Industry Advisory Boards with Dalhousie University & the Saint Mary's University Sobey School of Business.
 
-Ulrike is married and has two children. She moved with her family from Israel to Nova Scotia in 2002.
+Ulrike is married and has two children. She moved with her family from Israel to Nova Scotia in 2002.  
+
+Ulrike's profile picture was created by a computer inspired by the painting _Green Town_ by Friedensreich Hundertwasser.  The banner image is of [a house designed by Hundertwasser](https://commons.wikimedia.org/w/index.php?curid=50628).

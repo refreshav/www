@@ -73,12 +73,14 @@
                         <dd>{{ range $index, $organization := .Params.organizations }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
                         {{ end }}
 
+                        {{ if .Params.people }}
                         <dt><i class="fa fa-users" aria-hidden="true"></i> People</dt>
                         <dd>
 
                             {{ range $index, $person := .Params.people }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}person/{{ . | urlize }}">{{ . }}</a>{{ end }}
 
                         </dd>
+                        {{ end }}
 
                     </dl>
 
