@@ -1,16 +1,27 @@
 {{ partial "header.html" . }}
 
-<div class="row" id="404">
+<main role="main">
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+        <header data-interchange="[{{ "/images/404-small.jpg" | absURL }}, small], [{{ "/images/404-medium.jpg" | absURL }}, medium], [{{ "/images/404-large.jpg" | absURL }}, large]" title="{{ .Title }}" alt="{{ .Title }}">
 
-    <div class="columns small-up-2 medium-up-3 large-up-4">
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 itemprop="name">{{ .Title }}</h1>
+            </div>
 
-        <h1 class="text-center">{{ .Title }}</h1>
+        </header>
 
-        <p class="text-center">
-            <i class="fa fa-bolt" aria-hidden="true"></i>
-        </p>
+        <div class="row" id="lost">
 
-    </div>
-</div>
+            <main class="columns small-up-2 medium-up-3 large-up-4">
+
+                <p class="text-center">
+                    <i class="fa fa-bolt" aria-hidden="true"></i>
+                </p>
+
+            </main>
+        </div>
+
+    </article>
+</main>
 
 {{ partial "footer.html" . }}
