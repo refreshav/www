@@ -23,6 +23,11 @@ dl.inline dd {
     bottom: 0;
 }
 
+#refreshav {
+    width: auto;
+    margin-top: .9375rem;
+}
+
 footer .menu {
     font-size: 300%;
 }

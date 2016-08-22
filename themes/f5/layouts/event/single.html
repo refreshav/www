@@ -25,7 +25,7 @@
                     <dt><i class="fa fa-clock-o" aria-hidden="true"></i> Date</dt>
                     <dd>
                         {{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}
-                        {{ if lt "Date" .Now }}
+                        {{ if lt .Date .Now }}
                         <span class="warning label">Archived</span>
                         {{ end }}
                     </dd>
