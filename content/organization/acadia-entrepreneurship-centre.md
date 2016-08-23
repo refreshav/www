@@ -1,7 +1,7 @@
 +++
 date = 2016-08-10T19:00:00Z
 draft = false
-title = "Acadia Entrepreneurship Center"
+title = "Acadia Entrepreneurship Centre"
 location = "24 University Avenue, Wolfville, NS"
 banner = "images/organization/acadia-entrepreneurship-centre/banner"
 icon = "images/organization/acadia-entrepreneurship-centre/icon.png"
