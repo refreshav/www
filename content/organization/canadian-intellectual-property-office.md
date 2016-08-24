@@ -2,12 +2,12 @@
 date = 2016-08-10T19:00:00Z
 draft = false
 title = "Canadian Intellectual Property Office "
-location = "1344 Summer Street, suite 114, Halifax, NS B3H 0A8"
+location = "Place du Portage I, 50 Victoria Street, Room C-114, Gatineau QC K1A 0C9"
 banner = "images/organization/canadian-intellectual-property-office/banner"
 icon = "images/organization/canadian-intellectual-property-office/icon.jpg"
 twitter = "CIPO_Canada"
-email = "info@innovacorp.ca"
-topics = ["IP", "Copyright", "Trademarks", "Patents"]
+phone = "1-866-997-1936"
+topics = ["IP", "Copyright", "Trademarks", "Patents", "Industrial Designs"]
 people = ["Catherine Vardy"]
 website = "http://www.ic.gc.ca/eic/site/cipointernet-internetopic.nsf/eng/Home"
 linkedin = "https://www.linkedin.com/company/canadian-intellectual-property-office"
