@@ -1,6 +1,6 @@
 +++
 banner = "images/event/ip-matters/banner"
-date = "2016-07-12T19:00:00-03:00"
+date = "2016-05-10T19:00:00-03:00"
 draft = false
 event_eventbright = ""
 event_facebook = "https://www.facebook.com/events/106284366445888/"
