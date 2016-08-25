@@ -8,7 +8,7 @@ facebook = "michaelisraelcaplan"
 twitter = "refreshav"
 email = "michael@eggplant.ws"
 topics = ["Web Dev", "Software"]
-organizations = ["Refresh Annapolis Valley", "HarvestHand", "Refresh Annapolis Valley"]
+organizations = ["Refresh Annapolis Valley", "HarvestHand", "Labnet Dental Lab Systems"]
 website = "http://www.eggplant.ws"
 linkedin = "https://www.linkedin.com/in/michael-caplan-40b37a1"
 +++
