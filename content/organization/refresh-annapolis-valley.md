@@ -17,3 +17,8 @@ linkedin = "https://www.linkedin.com/groups/5171504"
 ### Terminal Error
 
 **Recursive meta loop**.  Stack overflow.  Core now being dumped...
+
+
+<!--more-->
+
+<small>[Chocobot](https://www.flickr.com/photos/80845533@N00/1376527668) icon remixed with your bad dreams.</small> 
