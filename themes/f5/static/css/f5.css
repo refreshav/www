@@ -115,6 +115,10 @@ img.thumbnail {
     margin-top: 4em;
 }
 
+.off-canvas-wrapper {
+    overflow-y: hidden;
+}
+
 .carousel {
     margin-bottom: 5em;
 }
