@@ -52,7 +52,7 @@
 
 <div class="row">
     <div id="past" class="large-6 columns">
-        <h3>Past Events</h3>
+        <h3>Past Events (A Sampling)</h3>
 
         {{ range (where (where .Data.Pages "Type" "event") "Date" "<" .Now) }}
 

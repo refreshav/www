@@ -25,7 +25,6 @@ dl.inline dd {
 
 .position-left.reveal-for-large {
     overflow-x: hidden;
-    z-index: -1;
 }
 
 #refreshav {
