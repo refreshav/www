@@ -8,7 +8,7 @@ icon = "images/organization/jodrey-school-of-computer-science-at-acadia-universi
 phone = "902-585-1331"
 email = "cs@acadiau.ca"
 facebook = "Acadia-University-Jodrey-School-of-Computer-Science-360708997332569"
-topics = ["Tech-Ed"]
+topics = ["Tech-Ed", "Computer Science"]
 website = "http://cs.acadiau.ca/"
 +++
 

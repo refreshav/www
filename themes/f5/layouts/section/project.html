@@ -1,0 +1,55 @@
+{{ partial "header.html" . }}
+
+<article class="article" id="list">
+
+    <header data-interchange="[/images/projects-small.jpg, small], [/images/projects-medium.jpg, medium], [{{ "/images/projects-large.jpg" | absURL }}, large]" title="Projects" alt="Projects">
+
+        <div class="row columns small-up-2 medium-up-3 large-up-4">
+            <h1>
+                <i class="fa fa-cubes" aria-hidden="true"></i>
+                Projects
+            </h1>
+        </div>
+    </header>
+
+    <div class="row">
+        <div id="past" class="columns small-up-2 medium-up-3 large-up-4">
+
+            {{ $paginator := .Paginate .Data.Pages }}
+            {{ range $paginator.Pages }}
+            <div class="media-object">
+                <div class="media-object-section">
+                    <div class="thumbnail">
+                        {{ if .Params.icon }}
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                        </a>
+                        {{end}}
+                    </div>
+                </div>
+                <div class="media-object-section">
+                    <h4 class="article-title">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            {{ .Title }}
+                        </a>
+                    </h4>
+
+                    <p>{{ .Summary }}</p>
+
+                    <p class="read-more">
+                        <strong><a href="{{ .Permalink }}">
+                            Read all about it...
+                        </a></strong>
+                    </p>
+                </div>
+            </div>
+
+            {{ end }}
+
+            {{ partial "pagination" . }}
+
+        </div>
+    </div>
+
+</article>
+{{ partial "footer.html" . }}

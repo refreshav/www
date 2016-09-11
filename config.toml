@@ -16,6 +16,7 @@ subject = "subjects"
 person = "people"
 organization = "organizations"
 topic = "topics"
+project = "projects"
 
 [params]
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
@@ -53,3 +54,8 @@ topic = "topics"
   name = "Orgs"
   url = "organization"
   weight = 4
+
+[[menu.main]]
+  name = "Projects"
+  url = "project"
+  weight = 5

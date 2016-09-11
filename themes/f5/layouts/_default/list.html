@@ -104,7 +104,36 @@
 
                         <p class="read-more">
                             <strong><a href="{{ .Permalink }}">
-                                More...
+                                Find them here...
+                            </a></strong>
+                        </p>
+                    </div>
+                </div>
+
+                {{ end }}
+
+                {{ if eq .Type "project" }}
+
+                <div class="media-object">
+                    <div class="media-object-section">
+                        <div class="thumbnail">
+                            {{ if .Params.icon }}
+                            <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                            {{end}}
+                        </div>
+                    </div>
+                    <div class="media-object-section">
+                        <h4 class="article-title">
+                            <a href="{{ .Permalink }}" itemprop="url">
+                                <i class="fa fa-cubes" aria-hidden="true"></i> {{ .Title }}
+                            </a>
+                        </h4>
+
+                        <p>{{ .Summary }}</p>
+
+                        <p class="read-more">
+                            <strong><a href="{{ .Permalink }}">
+                                Read all about it...
                             </a></strong>
                         </p>
                     </div>
