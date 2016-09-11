@@ -23,6 +23,11 @@ dl.inline dd {
     bottom: 0;
 }
 
+.position-left.reveal-for-large {
+    overflow-x: hidden;
+    z-index: -1;
+}
+
 #refreshav {
     width: auto;
     margin-top: .9375rem;

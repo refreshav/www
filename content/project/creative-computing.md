@@ -12,4 +12,6 @@ Creative Computing is a course developed by an international network of educator
 
 We're considering offering such a course in the Annapolis Valley.  Tell us what you think!
 
+## Please fill out the below survey ##
+
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf9eMiMSuUiRhSK5PAjODApLaCfF5JiiYZiTayZ6xdBwbhD9Q/viewform?embedded=true" width="100%" height="100%" style="height: 95vh" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
