@@ -89,6 +89,10 @@ article.article header h1 {
     text-shadow: 2px 2px 2px rgba(254, 254, 254, 1);
 }
 
+article.article h2 {
+    clear: both;
+}
+
 img.thumbnail {
     margin: 0 1rem 1rem 0;
     width: 100px;
