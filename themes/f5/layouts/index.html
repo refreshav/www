@@ -6,11 +6,13 @@
 
         <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
 
-            <h1 class="article-title">
-                <a href="{{ .Permalink }}" itemprop="url">
-                    {{ .Title }}
-                </a>
-            </h1>
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 class="article-title">
+                    <a href="{{ .Permalink }}" itemprop="url">
+                        {{ .Title }}
+                    </a>
+                </h1>
+            </div>
 
         </header>
 

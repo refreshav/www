@@ -1,3 +1,10 @@
+a {
+    color: #cf7046;
+}
+a:hover, a:focus {
+    color: #395d76;
+}
+
 dl.inline {
     padding: 0.5em;
 }
@@ -30,6 +37,10 @@ dl.inline dd {
 #refreshav {
     width: auto;
     margin-top: .9375rem;
+}
+
+#my-info ul.menu li a {
+    color: #395d76;
 }
 
 footer .menu {
@@ -154,6 +165,35 @@ img.thumbnail {
 .flickity-prev-next-button {
     width: 32px;
     height: 32px;
+}
+
+.button {
+    background-color: #395d76;
+}
+.button:hover, a.button:focus {
+    background-color: #cf7046;
+}
+a.button.hollow {
+    border-color: #cf7046;
+    color: #cf7046;
+}
+a.button.hollow:hover, a.button.hollow:focus {
+    border-color: #395d76;
+    color: #395d76;
+}
+a.button.hollow > span.badge {
+    background-color: #cf7046;
+}
+a.button.hollow:focus > span.badge, a.button.hollow:hover > span.badge {
+    background-color: #395d76;
+}
+
+
+footer#pageFooter ul.menu li a {
+    color: #395d76;
+}
+footer#pageFooter ul.menu li a:hover, footer#pageFooter ul.menu li a:focus {
+    color: #cf7046;
 }
 
 
