@@ -24,7 +24,7 @@ Mike Caplan is a web application developer with over 16 years experience working
 
 {{< pic src="images/project/creative-computing/hm.jpg" title="Mrugakshee Palwe and Hayly Anne Thackeray" align="right" >}}
 
-Mrugakshee Palwe and Hayly Anne Thackeray are Co-President of the Acadia Computer Science Society. Both are students at the Acadia University Jodrey School of Computer Science in their last year of the Bachelor of Computer Science program and active members in Women In Science and Engineering Acadia. Mrugakshee and Hayly have run programs working with girls and boys on several topics within the computer sciences.
+Mrugakshee Palwe and Hayly Anne Thackeray are Co-President of the Acadia Computer Science Society. Both are students at the Acadia University Jodrey School of Computer Science in their third year of the Bachelor of Computer Science program and active members in Women In Science and Engineering Acadia. Mrugakshee and Hayly have run programs working with girls and boys on several topics within the computer sciences.
 
 We believe that offering an extracurricular course on Scratch for kids 8 to 13 will help this generation develop a fundamental literacy around the computer sciences.
 
