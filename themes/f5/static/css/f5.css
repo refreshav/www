@@ -42,6 +42,9 @@ dl.inline dd {
 #my-info ul.menu li a {
     color: #395d76;
 }
+#my-info ul.menu li a:focus, #my-info ul.menu li a:hover {
+    color: #000000;
+}
 
 footer .menu {
     font-size: 300%;
