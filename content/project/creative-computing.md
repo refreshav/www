@@ -10,7 +10,11 @@ people = ["Michael Caplan"]
 
 Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people in learning the basics software development.  Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.
 
-## Objectives ##
+What can kids do with Scratch, and why is teaching kids how to code important?  Mitchel Resnick, co-creator of Scratch, explains in this TED Talk.
+
+{{< youtube "Ok6LbV6bqaE" >}}
+
+## Course Objectives ##
 
 {{< pic src="images/project/creative-computing/objectives.jpg" title="Objectives" align="right" >}}
 
@@ -34,11 +38,11 @@ We believe that offering an extracurricular course on Scratch for kids 8 to 13 w
 
 Creative Computing will run weekly starting January 9th, 2017 following the Wolfville Elementary School academic schedule for Mondays.  Each class will run for 2 hours and 15 minutes, from 6 PM to 8:15 PM.  Snow days will bump the class to the Thursday of the same week (weather permitting).
 
-The course will be made up of 19 classes with the final Monday class taking place on June 12th.  A weekend two day "Innovation Fest" will cap off the course June 24 and 25. 
+The course will be made up of 19 classes with the final Monday class taking place on June 12th.  A weekend "Innovation Fest" will cap off the course (date TBA). 
 
 The class will follow a six unit curriculum.  Units are broken down into several exercises that range from 15 to 60 minutes a piece.   The class mentors will share teaching and mentoring responsibilities.  We will aim to have a 5 students to 1 mentor ratio.
 
-During the Innovation Fest event, participants will brainstorm an idea, develop a project, and showcase a final prototype using an iterative plan-make-reflect cycle.  It will provide an excellent opportunity for participants to invent their own relevant projects to work on, which can be developed as independent projects or in collaborative teams, and demonstrate their knowledge in Scratch within a collaborative, creative, flexible, and playful environment. 
+During the course, in addition to covering foundational exercises, participants will produce there own project using an iterative plan-make-reflect cycle.  The course project will provide an excellent opportunity for participants to invent their own relevant projects to work on, and demonstrate their knowledge in Scratch within a collaborative, creative, flexible, and playful environment. 
 
 ## Guest Speakers ##
 
