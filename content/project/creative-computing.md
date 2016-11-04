@@ -79,3 +79,7 @@ Parents will be asked to provide class snacks on a rotating as needed basis.
 Or [open the registration form directly](https://goo.gl/forms/9DrKqRJZEh4muw7y1).
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfEoGx38o70hTKTTKoG51d02L-EYeI3s7q4PD3Ic_PMWEAQ7g/viewform?embedded=true" width="100%" height="100%" style="height: 95vh" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+## Special Thanks ##
+
+Big tip of the hat to the {{< organization "Acadia Entrepreneurship Centre" >}} for hosting our class.  Also to [Campaign for Kids](http://campaignforkids.com/) for helping us to break down financial barriers and make this class available to all kids. 
