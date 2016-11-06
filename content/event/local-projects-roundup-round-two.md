@@ -1,6 +1,8 @@
 +++
 banner = "images/event/local-projects-roundup-round-two/banner"
+images = ["images/event/local-projects-roundup-round-two/banner-medium.jpg"]
 date = "2012-12-10T19:30:00-03:00"
+PublishDate = "2012-12-10T19:30:00-03:00"
 draft = false
 event_eventbright = ""
 event_facebook = "https://www.facebook.com/events/256141507844968/"

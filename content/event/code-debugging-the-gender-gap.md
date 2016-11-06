@@ -1,6 +1,8 @@
 +++
 banner = "images/event/code-debugging-the-gender-gap/banner"
+images = ["images/event/code-debugging-the-gender-gap/banner-medium.jpg"]
 date = "2016-09-20T18:30:00-03:00"
+PublishDate = "2016-09-20T18:30:00-03:00"
 draft = false
 event_eventbright = "https://www.eventbrite.ca/e/code-debugging-the-gender-gap-tickets-27255542060"
 event_facebook = "https://www.facebook.com/events/1237734266258425/"

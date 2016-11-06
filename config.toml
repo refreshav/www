@@ -23,8 +23,12 @@ project = "projects"
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "2006-01-02"
 
+  description = "Refresh is a community of designers and developers working to refresh the creative, technical, and professional culture of New Media endeavors in the Annapolis Valley while promoting design, technology, usability, and standards."
+
   # Google API key for Google Maps
   googleAPIKey = "AIzaSyCvEYk4fnzW_QfClB_mWEZPItiuHzYdw3A"
+
+  facebookAppId = "641839162645576"
 
   # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
   math = false

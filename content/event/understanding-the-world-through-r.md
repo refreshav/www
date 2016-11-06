@@ -1,6 +1,8 @@
 +++
 banner = "images/event/understanding-the-world-through-r/banner"
+images = ["images/event/understanding-the-world-through-r/banner-medium.jpg"]
 date = "2016-11-08T19:00:00-03:00"
+PublishDate = "2016-10-30T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/387558751634268/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"

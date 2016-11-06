@@ -2,7 +2,7 @@
 
 
 <main role="main">
-    <article class="article" itemscope itemtype="http://schema.org/Article">
+    <article class="article" itemscope itemtype="http://schema.org/Event">
         <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]">
 
             <div class="row columns small-up-2 medium-up-3 large-up-4">
@@ -14,6 +14,17 @@
 
         </header>
 
+        <meta itemprop="image" content="{{ (print .Params.banner "-large" ".jpg") | absURL }}"/>
+        <meta itemprop="isAccessibleForFree" content="True"/>
+        <meta itemprop="url" content="{{ .Permalink }}"/>
+        <meta itemprop="description" content="{{ .Summary }}"/>
+        {{ if .Params.event_location }}
+        <div itemprop="location" itemscope itemtype="http://schema.org/Place">
+            <meta itemprop="address" content="{{ .Params.event_location }}"/>
+            <meta itemprop="name" content="{{ .Params.event_location }}"/>
+        </div>
+        {{ end }}
+
         <div class="row columns small-up-2 medium-up-3 large-up-4">
 
             <details class="callout secondary" role="group" open>
@@ -23,7 +34,7 @@
                 <dl class="inline">
                     {{ if .Date }}
                     <dt><i class="fa fa-clock-o" aria-hidden="true"></i> Date</dt>
-                    <dd>
+                    <dd itemprop="startDate" content="{{ dateFormat "2006-01-02T15:04:05-07:00" .Date }}">
                         {{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}
                         {{ if lt .Date .Now }}
                         <span class="warning label">Archived</span>
@@ -62,13 +73,29 @@
                         Presenter{{ if gt (len .Params.people) 1 }}s{{ end }}
                     </dt>
                     <dd>
-                        {{ range $index, $person := .Params.people }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}person/{{ . | urlize }}">{{ . }}</a>{{ end }}
+                        {{ range $index, $person := .Params.people }}
+                            {{ if gt $index 0 }}, {{ end }}
+                                <span itemprop="performer" itemscope="" itemtype="http://schema.org/Person">
+                                    <a itemprop="url" href="{{ $.Site.BaseURL }}person/{{ . | urlize }}">
+                                        <span itemprop="name">{{ . }}</span>
+                                    </a>
+                                </span>
+                        {{ end }}
                     </dd>
                     {{ end }}
 
                     {{ if .Params.organizations }}
                     <dt><i class="fa fa-building-o" aria-hidden="true"></i> Organization{{ if gt (len .Params.organizations) 1 }}s{{ end }}</dt>
-                    <dd>{{ range $index, $organization := .Params.organizations }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
+                    <dd>
+                        {{ range $index, $organization := .Params.organizations }}
+                            {{ if gt $index 0 }}, {{ end }}
+                            <span itemprop="contributor" itemscope="" itemtype="http://schema.org/Organization">
+                                <a itemprop="url" href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">
+                                    <span itemprop="name">{{ . }}</span>
+                                </a>
+                            </span>
+                        {{ end }}
+                    </dd>
                     {{ end }}
 
                     {{ if .Params.resources }}
@@ -143,7 +170,14 @@
             {{ if .Params.event_sponsors }}
             <p class="text-center">
                 Organized in cooperation with
-                {{ range $index, $person := .Params.event_sponsors }}{{ if gt $index 0 }} & {{ end }}<a href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">{{ . }}</a>{{ end }}
+                {{ range $index, $person := .Params.event_sponsors }}
+                    {{ if gt $index 0 }} & {{ end }}
+                    <span itemprop="sponsor" itemscope="" itemtype="http://schema.org/Organization">
+                        <a itemprop="url" href="{{ $.Site.BaseURL }}organization/{{ . | urlize }}">
+                            <span itemprop="name">{{ . }}</span>
+                        </a>
+                    </span>
+                {{ end }}
             </p>
             {{ end }}
 

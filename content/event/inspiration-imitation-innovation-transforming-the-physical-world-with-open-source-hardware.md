@@ -1,7 +1,9 @@
 +++
 date = "2016-06-14T19:00:00-03:00"
+PublishDate = "2016-06-14T19:00:00-03:00"
 draft = false
 banner = "images/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/banner"
+images = ["images/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/banner-medium.jpg"]
 icon = "images/event/inspiration-imitation-innovation-transforming-the-physical-world-with-open-source-hardware/icon.jpg"
 event_eventbright = ""
 event_facebook = "https://www.facebook.com/events/1204836142890327/"

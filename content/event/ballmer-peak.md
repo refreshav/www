@@ -1,6 +1,8 @@
 +++
 banner = "images/event/ballmer-peak/banner"
+images = ["images/event/ballmer-peak/banner-medium.jpg"]
 date = "2016-07-12T19:00:00-03:00"
+PublishDate = "2016-07-12T19:00:00-03:00"
 draft = false
 event_eventbright = ""
 event_facebook = "https://www.facebook.com/events/573983326117723/"

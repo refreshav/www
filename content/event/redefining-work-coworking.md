@@ -1,6 +1,8 @@
 +++
 banner = "images/event/redefining-work-coworking/banner"
+images = ["images/event/redefining-work-coworking/banner-medium.jpg"]
 date = "2016-04-12T19:00:00-03:00"
+PublishDate = "2016-04-12T19:00:00-03:00"
 draft = false
 event_eventbright = ""
 event_facebook = "https://www.facebook.com/events/106284366445888/"

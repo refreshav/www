@@ -1,6 +1,8 @@
 +++
 banner = "images/event/10-ideas-for-your-next-social-media-campaign/banner"
+images = ["images/event/10-ideas-for-your-next-social-media-campaign/banner-medium.jpg"]
 date = "2016-10-11T19:00:00-03:00"
+PublishDate = "2016-10-11T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/355334594802721/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
