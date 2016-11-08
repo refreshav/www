@@ -3,6 +3,7 @@ date = 2014-02-21T19:00:00Z
 draft = false
 title = "F5://Food"
 banner = "images/project/f5-food/banner"
+images = ["images/project/f5-food/banner-medium.jpg"]
 icon = "images/project/f5-food/icon.jpg"
 website = "http://food.refreshannapolisvalley.org/"
 topics = ["Food", "Software", "Startups"]
