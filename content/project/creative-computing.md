@@ -33,7 +33,7 @@ Mrugakshee Palwe and Hayly Anne Thackeray are Co-President of the Acadia Compute
 
 {{< pic src="images/project/creative-computing/Mohammed_Shameer_Iqbal.png" title="Shameer Iqbal" align="left" >}}
 
-After completing his Masters in Computer Science at Acadia University, Shameer Iqbal began working with Singolar.  Singolar is a Wolfville based technology startup that uses advanced intelligence to help companies improve client interactions.  Shameer's areas of Computer Science expertise includes Machine Learning, Data Mining and Data Visualization.
+After completing his Masters in Computer Science at Acadia University, Shameer Iqbal began working with Singolar.  Singolar is a Wolfville based technology startup that uses advanced intelligence to help companies improve client interactions.  Shameer's areas of computer science interest includes Machine Learning, Data Mining and Data Visualization.
 
 We believe that offering an extracurricular course on Scratch for kids 8 to 13 will help this generation develop a fundamental literacy around the computer sciences.
 
