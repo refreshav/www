@@ -31,41 +31,48 @@ Mike Caplan is a web application developer with over 16 years experience working
 
 Mrugakshee Palwe and Hayly Anne Thackeray are Co-President of the Acadia Computer Science Society. Both are students at the Acadia University Jodrey School of Computer Science in their third year of the Bachelor of Computer Science program and active members in Women In Science and Engineering Acadia. Mrugakshee and Hayly have run programs working with girls and boys on several topics within the computer sciences.
 
+{{< pic src="images/project/creative-computing/Mohammed_Shameer_Iqbal.png" title="Shameer Iqbal" align="left" >}}
+
+After completing his Masters in Computer Science at Acadia University, Shameer Iqbal began working with Singolar.  Singolar is a Wolfville based technology startup that uses advanced intelligence to help companies improve client interactions.  Shameer's areas of Computer Science expertise includes Machine Learning, Data Mining and Data Visualization.
+
 We believe that offering an extracurricular course on Scratch for kids 8 to 13 will help this generation develop a fundamental literacy around the computer sciences.
 
 ## Format ##
 
-{{< pic src="images/project/creative-computing/format.jpg" title="Format" align="left" >}}
+{{< pic src="images/project/creative-computing/format.jpg" title="Format" align="right" >}}
 
-Creative Computing will run weekly starting January 9th, 2017 following the Wolfville Elementary School academic schedule for Mondays.  Each class will run for 2 hours and 15 minutes, from 6 PM to 8:15 PM.  Snow days will bump the class to the Thursday of the same week (weather permitting).
+Creative Computing will run weekly with two different classes. Each class will run for 2 hours and 15 minutes for a total of 19 classes.
 
-The course will be made up of 19 classes with the final Monday class taking place on June 12th.  A weekend "Innovation Fest" will cap off the course (date TBA). 
+ * Mondays 6 PM to 8:15 PM starting January 9th, 2017.  Snow days will bump the class to the Thursday (weather permitting).  The final Monday class will take place on June 12th.
+ * Sundays 1 PM to 3:15 PM starting January 15th, 2017.  Snow days will bump the class to the Friday (weather permitting).  The final Sunday class will take place on June 18th.
+   
+A weekend "#ScratchFest" will cap off the course June 24 and 25. 
 
 The class will follow a six unit curriculum.  Units are broken down into several exercises that range from 15 to 60 minutes a piece.   The class mentors will share teaching and mentoring responsibilities.  We will aim to have a 5 students to 1 mentor ratio.
 
-During the course, in addition to covering foundational exercises, participants will produce there own project using an iterative plan-make-reflect cycle.  The course project will provide an excellent opportunity for participants to invent their own relevant projects to work on, and demonstrate their knowledge in Scratch within a collaborative, creative, flexible, and playful environment. 
+During #ScartchFest, participants will brainstorm an idea, develop a project, and showcase a final prototype using an iterative plan-make-reflect cycle.  It will provide an excellent opportunity for participants to invent their own relevant projects to work on, which can be developed as independent projects or in collaborative teams, and demonstrate their knowledge in Scratch within a collaborative, creative, flexible, and playful environment.  
 
 ## Guest Speakers ##
 
-{{< pic src="images/project/creative-computing/guests.jpg" title="Guest Speakers" align="right" >}}
+{{< pic src="images/project/creative-computing/guests.jpg" title="Guest Speakers" align="left" >}}
 
 We have designed the class to have upwards to 12 guest speaker slots of 20 minutes to 30 minutes each.  With the guest speakers we aim to illustrate how the classwork can translate to industry application.  We also would like to introduce other topics in and around the computer sciences to give the student a wider sense of the world beyond our Scratch development environment.
 
 ## Class Size ##
 
-{{< pic src="images/project/creative-computing/size.jpg" title="Class Size" align="left" >}}
+{{< pic src="images/project/creative-computing/size.jpg" title="Class Size" align="right" >}}
 
 The course class size will be capped at 20 learners.  The age range of the students sought will be between 8 and 13, but not limited to.  Where historically such classes tend to be predominantly male, we will limit student spots for boys to 50% in order to promote diverse gender participation.
 
 ## Class Location ##
 
-{{< pic src="images/organization/acadia-entrepreneurship-centre/icon.png" title="Class Location" align="right" >}}
+{{< pic src="images/organization/acadia-entrepreneurship-centre/icon.png" title="Class Location" align="left" >}}
 
 The class will be hosted by the Acadia Entrepreneurship Centre Rural Innovation Centre at Acadia University.  The Rural Innovation Centre supports entrepreneurs and businesses in the Annapolis Valley and provides an incubator program for start up companies. This location gives us both an opportunity to introduce young learners to the Acadia campus, and alows us to draw from works of entrepreneurship taking place at this specific campus location.
 
 ## Requirements ##
 
-{{< pic src="images/project/creative-computing/requirements.jpg" title="Requirements" align="left" >}}
+{{< pic src="images/project/creative-computing/requirements.jpg" title="Requirements" align="right" >}}
 
 The total cost for the course is $190 ($10 per class) per student.  We realize that this fee will not scale to meet everyone's budget.  We will provide a number of as needed reduced tuition rates at $114 and as low as $0.
 
