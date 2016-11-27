@@ -12,6 +12,13 @@ event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
 people = ["Trevor Avery"]
 title = "Understanding The World Through R"
 topics = ["Data Analytics"]
+pics = [
+    "https://scontent.xx.fbcdn.net/t31.0-8/15250945_1281267605248415_3402048953573833050_o.jpg",
+    "https://scontent.xx.fbcdn.net/t31.0-8/15195876_1281267588581750_7582388375556882887_o.jpg",
+    "https://scontent.xx.fbcdn.net/t31.0-8/15271823_1281267618581747_8678393793674041192_o.jpg",
+    "https://scontent.xx.fbcdn.net/t31.0-8/15272006_1281267611915081_745289675922417621_o.jpg",
+    "https://scontent.xx.fbcdn.net/t31.0-8/15167491_1281267681915074_7491903914583250155_o.jpg"
+]
 +++
 
 The world is bubbling over with data.   When analyzed, data can provide the inquiring mind with useful information that can suggest outcomes and support decision-making.  Be it the data generated about business practices, human behaviours, the biological world; being able to understand what your data is telling you is incredibly empowering.  "R" is a free, accessible, and powerful programming language that offers a suite of tools for data analysis.
