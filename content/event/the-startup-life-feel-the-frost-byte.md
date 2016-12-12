@@ -9,7 +9,7 @@ event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 Uni
 icon = "images/event/the-startup-life-feel-the-frost-byte/icon.jpg"
 organizations = ["PrecisionHawk"]
 event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
-people = ["John Frost"]
+people = ["John Frost", "Emily Konrath"]
 title = "The Startup Life: Feel The Frost Byte"
 topics = ["Startups", "Agriculture"]
 +++
@@ -20,4 +20,4 @@ From the early days of Frostbyte Interactive, Aerhyve Aerial Technologies, and n
 
 John's story is one also of the Annapolis Valley startup community.  As a tenant of the Rural Innovation Centre at Acadia University from day one, we will also explore how we are fairing in incubating innovative within our community. 
 
-A continuation of their always entertaining profiles of amazing Nova Scotia talent, {{<organization "We Are NS">}} champions Wes Booth and Jessy Gervais will be our guides for the evening.  
+{{<person "Emily Konrath">}}, Economic Development Officer, with the Valley Regional Enterprise Network will be our tour guide at our meetup.
