@@ -238,3 +238,10 @@ footer#pageFooter ul.menu li a:hover, footer#pageFooter ul.menu li a:focus {
         height: 750px;
     }
 }
+
+/* Large and up */
+@media screen and (min-width: 74.9375em) {
+    article.article header h1 {
+        width: calc(100% - 4rem);
+    }
+}
