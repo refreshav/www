@@ -7,7 +7,7 @@ icon = "images/person/ian-mckay/icon.jpg"
 facebook = "ian.mckay"
 website = "http://www.monkeydreammonkeydo.com/"
 email = "ian@amimckay.com"
-topics = ["Hardware Hacking"]
+topics = ["Hardware Hacking", "Tech-Ed", "Makers"]
 +++
 
 “Creative Technician”...what the heck is that?

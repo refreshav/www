@@ -6,7 +6,7 @@ banner = "images/project/creative-computing/banner"
 images = ["images/project/creative-computing/banner-medium.jpg"]
 icon = "images/project/creative-computing/icon.jpg"
 topics = ["Computer Science", "Tech-Ed"]
-people = ["Michael Caplan"]
+people = ["Michael Caplan", "Max Caplan"]
 +++
 
 Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.  Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.
