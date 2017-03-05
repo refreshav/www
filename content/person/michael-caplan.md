@@ -13,6 +13,6 @@ website = "http://www.eggplant.ws"
 linkedin = "https://www.linkedin.com/in/michael-caplan-40b37a1"
 +++
 
-Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries. He is a founding partner of {{< organization "HarvestHand" >}}, a platform that services Community Shared Agriculture farms. More recently, Mike founded {{< organization "Refresh Annapolis Valley" >}}, a new media professional association to help grow the Valley's technology industry.
+Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries. He is a founding partner of {{< organization "HarvestHand" >}}, a platform that services Community Shared Agriculture farms. Mike founded {{< organization "Refresh Annapolis Valley" >}}, a new media professional association to help grow the Valley's technology industry.
 
 Mike is the Software Development Manager for the {{< organization "Labnet Dental Lab Systems" >}} division of Henry Schein - a Fortune 300 company with a small footprint here in Wolfville.

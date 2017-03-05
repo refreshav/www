@@ -1,8 +1,8 @@
 function initMap() {
     var mapNode = document.getElementById('map'),
-        address = document.getElementById('location');
+        location = document.getElementById('location');
 
-    if (mapNode && address) {
+    if (mapNode && location) {
 
         var map = new google.maps.Map(mapNode, {
                 zoom: 16,
@@ -11,16 +11,22 @@ function initMap() {
             }),
             geocoder = new google.maps.Geocoder();
 
-        geocoder.geocode({'address': address.innerText}, function (results, status) {
+        var address = location.innerText;
+
+        if (address.indexOf('Acadia Entrepreneurship Centre Rural Innovation Centre') !== -1) {
+            address = '45.088470, -64.368316';
+        }
+
+        geocoder.geocode({'address': address}, function (results, status) {
             if (status === google.maps.GeocoderStatus.OK) {
 
-                address.innerHTML = '<a href="http://maps.google.com/?q=' + encodeURIComponent(results[0].geometry.location) + '" target="_blank">' + address.innerText + '</a>';
+                location.innerHTML = '<a href="http://maps.google.com/?q=' + encodeURIComponent(results[0].geometry.location) + '" target="_blank">' + location.innerText + '</a>';
 
                 map.setCenter(results[0].geometry.location);
                 var marker = new google.maps.Marker({
                     map: map,
                     position: results[0].geometry.location,
-                    title: address.innerText
+                    title: location.innerText
                 });
             } else {
                 mapNode.style.display = 'none';
