@@ -10,7 +10,7 @@ icon = "images/event/project-management-sucks/icon.png"
 organizations = ["Labnet Dental Lab Systems"]
 event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
 people = ["Michael Caplan"]
-title = "Projet Management Sucks"
+title = "Project Management Sucks"
 topics = ["Project Management"]
 +++
 
