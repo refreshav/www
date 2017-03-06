@@ -18,6 +18,6 @@ Project management seems to be one of those areas of necessary evil. Disconnecte
 
 {{< figure src="/images/event/project-management-sucks/dilbert.gif" >}}
 
-In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.  Based on a simple board, this technique helps visualize workflow, expose operational problems, and reduce waisted time from excessive multitasking.  Best of all, it is a team tool that helps decentralize project management to the group.
+In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.  Based on a simple board, this technique helps visualize workflow, expose operational problems, and reduce wasted time from excessive multitasking.  Best of all, it is a team tool that helps decentralize project management to the group.
 
-From creative project work, software development, or many knowedge based areas of work, this simple workflow visualization tool scales from small teams, to large groups, and is based off of simple rules that anyone can pick up at a short Refresh Annapolis Valley meetup.
+From creative project work, software development, or many knowledge based areas of work, this simple workflow visualization tool scales from small teams, to large groups, and is based off of simple rules that anyone can pick up at a short Refresh Annapolis Valley meetup.
