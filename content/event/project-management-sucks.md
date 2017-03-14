@@ -1,7 +1,7 @@
 +++
 banner = "images/event/project-management-sucks/banner"
 images = ["images/event/project-management-sucks/banner-medium.jpg"]
-date = "2017-03-14T19:00:00-03:00"
+date = "2017-04-11T19:00:00-03:00"
 PublishDate = "2017-02-24T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/1660001487629636/"
