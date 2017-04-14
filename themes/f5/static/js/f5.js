@@ -36,3 +36,33 @@ function initMap() {
 }
 
 $(document).foundation();
+
+Foundation.Abide.defaults['validators']['checkbox_limit'] =
+    function($el, required, parent) {
+        var group = parent.closest('.checkbox-group');
+        var min = group.attr('data-validator-min');
+        var checked = group.find(':checked').length;
+        if (checked >= min) {
+            // clear label highlight
+            group.find('label').each(function() {
+                $(this).removeClass('is-invalid-label');
+            });
+            // clear checkbox error
+            group.find(':checkbox').each(function() {
+                $(this).removeClass('is-invalid-input').removeAttr('data-invalid');
+            });
+            group.find('small.form-error').hide();
+            return true;
+        } else {
+            // label highlight
+            group.find('label').each(function() {
+                $(this).addClass('is-invalid-label');
+            });
+            // checkbox error
+            group.find(':checkbox').each(function() {
+                $(this).addClass('is-invalid-input').attr('data-invalid');
+            });
+            group.find('small.form-error').show();
+            return false;
+        }
+    };

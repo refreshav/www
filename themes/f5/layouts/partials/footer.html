@@ -8,7 +8,7 @@
                     <h3>Refresh Annapolis Valley</h3>
 
                     <p>
-                        <strong>Refresh</strong> is a community of designers and developers working to refresh the creative, technical, and professional culture of New Media endeavors in the Annapolis Valley while promoting design, technology, usability, and standards.
+                        <strong>Refresh</strong> is a community of designers, developers and innovators working to refresh the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley while promoting design, technology, and entrepreneurship.
                     </p>
 
                     <p>
@@ -38,17 +38,26 @@
 
                         <label>
                             Email
-                            <input type="email" placeholder="your@domain.com" name="MERGE0" required pattern="email">
+                            <input type="email" placeholder="your@domain.com" name="EMAIL" required pattern="email">
                             <span class="form-error">Hello?</span>
                         </label>
                         <label>
                             First Name
-                            <input type="text" placeholder="Given Name" name="MERGE1">
+                            <input type="text" placeholder="Given Name" name="FNAME">
                         </label>
                         <label>
                             Last Name
-                            <input type="text" placeholder="Family Name" name="MERGE2">
+                            <input type="text" placeholder="Family Name" name="LNAME">
                         </label>
+                        <fieldset class="checkbox-group" data-validator-min="1">
+                            <legend>Interests</legend>
+                            <input id="refresh-events" type="checkbox" name="group[13385][1]" checked data-validator="checkbox_limit"><label for="refresh-events">Refresh Events &amp; Activities</label>
+                            <br>
+                            <input id="cc-events" type="checkbox" name="group[13385][2]" checked data-validator="checkbox_limit"><label for="cc-events">Creative Computing for Kids</label>
+                            <br>
+                            <input id="hoist-events" type="checkbox" name="group[13385][4]" checked data-validator="checkbox_limit"><label for="hoist-events">Hoist AV Teen Tech + Entrepreneurship</label>
+                        </fieldset>
+
                         <input type="submit" class="button expanded" value="Don&apos;t Miss a Beat">
 
                     </form>
@@ -62,12 +71,12 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/jquery/2.2.4/jquery.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/foundation/6.2.3/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/js/foundation.min.js"></script>
 <script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
 {{ if .Site.Params.googleAPIKey }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ .Site.Params.googleAPIKey }}"></script>
 {{ end }}
-<script src="{{ .Site.BaseURL }}js/f5.js?v2"></script>
+<script src="{{ .Site.BaseURL }}js/f5.js?v3"></script>
 {{ template "_internal/google_analytics_async.html" . }}
 
 </body>
