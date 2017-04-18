@@ -8,9 +8,12 @@ icon = "images/project/hoist/icon.png"
 topics = ["Tech-Ed", "Entrepreneurship", "Design"]
 +++
 
+
 Hoist Annapolis Valley is a tech club for teens interested in coding, design and entrepreneurship. If you’re age 12 to 19 and have an interest in startups or coding, then come check it out! Everyone is welcome, and it’s free!
 
-Meet up with Hoist members once per month, with occasional one-time events like attending an entrepreneurship class at a local university.
+Meet up with Hoist members once per month at Acadia University's Rural Innovation Centre -- like attending an tech + entrepreneurship class at university.
+
+<!--more-->
 
 ### The Hoist Way 
 
