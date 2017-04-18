@@ -22,7 +22,7 @@ Meet up with Hoist members once per month, with occasional one-time events like 
 
 **Discuss!** Reflect and discuss the day…what did you find challenging or exciting? Chill out and talk to your new pals about what you created! 
 
-Join our **mailing list** (see below) to stay in up-to-date about our upcoming meetups.  
+Join our **mailing list** (see below) to stay up-to-date about our upcoming meetups.  
 
 ## Special Thanks ##
 
