@@ -2,7 +2,7 @@
 draft = true
 title = ""
 banner = ""
-icon = ""
+project = "refresh"
 event_location = ""
 event_facebook = ""
 event_eventbright = ""

@@ -4,7 +4,7 @@ draft = false
 title = "Creative Computing"
 banner = "images/project/creative-computing/banner"
 images = ["images/project/creative-computing/banner-medium.jpg"]
-icon = "images/project/creative-computing/icon.jpg"
+icon = "images/project/creative-computing/icon.png"
 topics = ["Computer Science", "Tech-Ed"]
 people = ["Michael Caplan", "Max Caplan"]
 +++

@@ -47,6 +47,19 @@
                     <dd id="location">{{ .Params.event_location }}</dd>
                     {{ end }}
 
+                    {{ if .Params.project }}
+                    <dt><i class="fa fa-fire" aria-hidden="true"></i> Hosted By</dt>
+                    <dd id="host">
+                        {{ if eq .Params.project "meetups" }}
+                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Refresh AV Meetups</a>.  All are welcome!
+                        {{ else if eq .Params.project "hoist" }}
+                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Hoist AV</a> is a monthly series of workshops for teens interested in design, entrepreneurship and programming.
+                        {{ else if eq .Params.project "creative-computing" }}
+                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Creative Computing</a> is a series of workshops for kids 8 to 13 interested in computer science.
+                        {{ end }}
+                    </dd>
+                    {{ end }}
+
                     {{ if .Params.event_facebook }}
                     <dt><i class="fa fa-calendar-check-o" aria-hidden="true"></i>
                         {{ if lt "Date" .Now }}
@@ -130,6 +143,18 @@
 
         <main class="row columns small-up-2 medium-up-3 large-up-4">
             {{ .Content }}
+
+            {{ if .Params.project }}
+            <p>Hosted by
+                {{ if eq .Params.project "meetups" }}
+                <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Refresh Annopolis Valley</a>.  All are welcome!
+                {{ else if eq .Params.project "hoist" }}
+                <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Hoist Annopolis Valley</a>.  A monthly series of workshops for teens interested in design, entrepreneurship and programming.
+                {{ else if eq .Params.project "creative-computing" }}
+                <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Creative Computing</a>. A series of workshops for kids 8 to 13 interested in computer science.
+                {{ end }}
+            </p>
+            {{ end }}
         </main>
 
         <footer class="row columns small-up-2 medium-up-3 large-up-4">

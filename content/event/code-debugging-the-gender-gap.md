@@ -7,7 +7,7 @@ draft = false
 event_eventbright = "https://www.eventbrite.ca/e/code-debugging-the-gender-gap-tickets-27255542060"
 event_facebook = "https://www.facebook.com/events/1237734266258425/"
 event_location = "Al Whittle Theatre, 450 Main St, Wolfville, NS"
-icon = "images/event/code-debugging-the-gender-gap/icon.jpg"
+project = "meetups"
 organizations = ["Digital Nova Scotia"]
 event_sponsors = [
     "Acadia Computer Science Society", 

@@ -1,34 +1,84 @@
 {{ partial "header.html" . }}
 
-{{ range first 1 (where .Data.Pages "Type" "event") }}
+{{ $newposts := (where (where .Data.Pages.Reverse "Type" "event") "Date" ">=" .Now) }}
 
-    <article class="article">
+{{ if $newposts }}
 
-        <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+    {{ range $index, $element := $newposts }}
 
-            <div class="row columns small-up-2 medium-up-3 large-up-4">
-                <h1 class="article-title">
-                    <a href="{{ .Permalink }}" itemprop="url">
-                        {{ .Title }}
-                    </a>
-                </h1>
-            </div>
+        {{ if eq $index 0 }}
 
-        </header>
+            <article class="article">
 
-        <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+
+                <div class="row columns small-up-2 medium-up-3 large-up-4">
+                    <h1 class="article-title">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            {{ .Title }}
+                        </a>
+                    </h1>
+                </div>
+
+                </header>
+
+                <div class="row columns small-up-2 medium-up-3 large-up-4">
+
+                    <div class="media-object">
+                        <div class="media-object-section">
+                            <div class="thumbnail">
+                                <a href="{{ .Permalink }}" itemprop="url">
+                                    <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="media-object-section">
+                            <p><strong>{{ dateFormat "January 2, 2006 at 3:04pm" .Date }}</strong></p>
+
+                            <p class="article-style">
+                                {{ if .Truncated }}
+                                {{ .Summary }}
+                                {{ else }}
+                                {{ .Content }}
+                                {{ end }}
+                            </p>
+                            <p class="read-more">
+                                <strong><a href="{{ .Permalink }}">
+                                    Get the deets...
+                                </a></strong>
+                            </p>
+                        </div>
+                    </div>
+
+
+                </div>
+            </article>
+        {{ else }}
+
+            {{ if eq $index 1 }}
+
+                <div class="row">
+                    <div id="upcoming" class="large-12 columns">
+
+                <h3>Other Upcoming Events</h3>
+
+            {{ end }}
 
             <div class="media-object">
                 <div class="media-object-section">
                     <div class="thumbnail">
-                        {{ if .Params.icon }}
-                        <a href="{{ .Permalink }}">
-                            <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
                         </a>
-                        {{end}}
                     </div>
                 </div>
                 <div class="media-object-section">
+                    <h5 class="article-title">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            {{ .Title }}
+                        </a>
+                    </h5>
+
                     <p><strong>{{ dateFormat "January 2, 2006 at 3:04pm" .Date }}</strong></p>
 
                     <p class="article-style">
@@ -46,10 +96,66 @@
                 </div>
             </div>
 
+        {{ end }}
 
-        </div>
-    </article>
+    {{ end }}
 
+    {{ if gt (len $newposts) 1 }}
+                    </div>
+                </div>
+    {{ end }}
+
+{{ else }}
+
+    {{ range first 1 (where .Data.Pages "Type" "event") }}
+
+        <article class="article">
+
+            <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]" class="article-banner" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+
+                <div class="row columns small-up-2 medium-up-3 large-up-4">
+                    <h1 class="article-title">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            {{ .Title }}
+                        </a>
+                    </h1>
+                </div>
+
+            </header>
+
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+
+                <div class="media-object">
+                    <div class="media-object-section">
+                        <div class="thumbnail">
+                            <a href="{{ .Permalink }}" itemprop="url">
+                                <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="media-object-section">
+                        <p><strong>{{ dateFormat "January 2, 2006 at 3:04pm" .Date }}</strong></p>
+
+                        <p class="article-style">
+                            {{ if .Truncated }}
+                            {{ .Summary }}
+                            {{ else }}
+                            {{ .Content }}
+                            {{ end }}
+                        </p>
+                        <p class="read-more">
+                            <strong><a href="{{ .Permalink }}">
+                                Get the deets...
+                            </a></strong>
+                        </p>
+                    </div>
+                </div>
+
+
+            </div>
+        </article>
+
+    {{ end }}
 {{ end }}
 
 <div class="row">
@@ -61,11 +167,9 @@
         <div class="media-object">
             <div class="media-object-section">
                 <div class="thumbnail">
-                    {{ if .Params.icon }}
                     <a href="{{ .Permalink }}" itemprop="url">
-                        <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                        <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
                     </a>
-                    {{end}}
                 </div>
             </div>
             <div class="media-object-section">

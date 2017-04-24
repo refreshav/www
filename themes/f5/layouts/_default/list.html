@@ -56,9 +56,9 @@
                 <div class="media-object">
                     <div class="media-object-section">
                         <div class="thumbnail">
-                            {{ if .Params.icon }}
-                            <img src="{{ .Params.icon | absURL }}" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
-                            {{end}}
+                            <a href="{{ .Permalink }}" itemprop="url">
+                                <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                            </a>
                         </div>
                     </div>
                     <div class="media-object-section">
