@@ -14,4 +14,4 @@ title = "Bootstrapping The Web"
 topics = ["HTML5"]
 +++
 
-For our first Hoist meetup, we'll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot.  We'll with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.
+For our first Hoist meetup, we'll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot.  We'll start with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.
