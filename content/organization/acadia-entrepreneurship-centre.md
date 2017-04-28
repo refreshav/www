@@ -10,7 +10,7 @@ twitter = "AcadiaECentre"
 linkedin = "https://www.linkedin.com/company/acadia-entrepreneurship-centre"
 phone = "902-585-1835"
 email = "entrepreneurship@acadiau.ca"
-topics = ["Startups"]
+topics = ["Startups", "Entrepreneurship"]
 website = "http://www.acadiaentrepreneurshipcentre.com/"
 +++
 
@@ -22,4 +22,4 @@ The Rural Innovation Centre (RIC) supports entrepreneurs and businesses in the A
 
 ### Launchbox
 
-Launchbox is the centre for student entrepreneurs, located on the 4th floor of Patterson Hall at Acadia University. We support students in their entrepreneurial pursuits by providing free programming, networking, access to mentors, and other entrepreneurs, working space and competitions.
+{{< organization "Launchbox" >}} is the centre for student entrepreneurs, located on the 4th floor of Patterson Hall at Acadia University. We support students in their entrepreneurial pursuits by providing free programming, networking, access to mentors, and other entrepreneurs, working space and competitions.

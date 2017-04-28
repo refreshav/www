@@ -17,9 +17,9 @@ Meet up with Hoist members once per month at Acadia University's Rural Innovatio
 
 ### The Hoist Way 
 
-**Learn!** The first half-hour will be a lesson from a pro on the topic of the day – coding…design or business.
-
 **Lunch!** Have some pizza with your new friends.
+
+**Learn!** The first half-hour will be a lesson from a pro on the topic of the day – coding…design or business.
 
 **Hack!** Build or design something, apply what you just learned…it’s a mini hackathon. Work in a group or on your own to create the next big product or service!
 
@@ -29,4 +29,4 @@ Join our **mailing list** (see below) to stay up-to-date about our upcoming meet
 
 ## Special Thanks ##
 
-Big tip of the hat to the {{< organization "Acadia Entrepreneurship Centre" >}} for hosting our meetup.  And <a href="http://hoisthalifax.com/">Hoist Halifax</a> for paving the way.
+Big tip of the hat to the {{< organization "Acadia Entrepreneurship Centre" >}} for hosting our meetup, and {{< organization "launchbox" >}} for helping out in numerous ways.  And <a href="http://hoisthalifax.com/">Hoist Halifax</a> for paving the way.

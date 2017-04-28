@@ -8,7 +8,6 @@ event_eventbright = "https://www.eventbrite.ca/e/bootstrapping-the-web-tickets-3
 event_facebook = "https://www.facebook.com/events/215646652255311/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "hoist"
-organizations = ["Hoist"]
 event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
 people = ["Michael Caplan"]
 title = "Bootstrapping The Web"
