@@ -2,7 +2,7 @@
 banner = "images/event/scratchfest/banner"
 images = ["images/event/scratchfest/banner-medium.jpg"]
 date = "2017-06-24T12:00:00-04:00"
-PublishDate = "2017-05-22T19:00:00-03:00"
+PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/355334594802721/"
 event_eventbright = "https://www.eventbrite.ca/e/scratchfest-tickets-34931270370"

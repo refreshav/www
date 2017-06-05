@@ -2,7 +2,7 @@
 banner = "images/event/against-flat-screens-learn-3d-design/banner"
 images = ["images/event/against-flat-screens-learn-3d-design/banner-medium.jpg"]
 date = "2017-06-17T12:30:00-03:00"
-PublishDate = "2017-04-21T19:00:00-03:00"
+PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
 event_eventbright = "https://www.eventbrite.ca/e/against-flat-screens-learn-3d-design-tickets-35110705064"
 event_facebook = "https://www.facebook.com/events/657351884465592/"
