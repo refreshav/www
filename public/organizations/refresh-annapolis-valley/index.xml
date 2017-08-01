@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Refresh Annapolis Valley</title>
+    <link>http://refreshannapolisvalley.com/organizations/refresh-annapolis-valley/</link>
+    <description>Recent content on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 10 Aug 2016 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://refreshannapolisvalley.com/organizations/refresh-annapolis-valley/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Michael Caplan</title>
+      <link>http://refreshannapolisvalley.com/person/michael-caplan/</link>
+      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
+      
+      <guid>http://refreshannapolisvalley.com/person/michael-caplan/</guid>
+      <description>Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries. He is a founding partner of HarvestHand, a platform that services Community Shared Agriculture farms. Mike founded Refresh Annapolis Valley, a new media professional association to help grow the Valley&amp;rsquo;s technology industry.
+Mike is the Software Development Manager for the Labnet Dental Lab Systemsdivision of Henry Schein - a Fortune 300 company with a small footprint here in Wolfville.</description>
+    </item>
+    
+  </channel>
+</rss>

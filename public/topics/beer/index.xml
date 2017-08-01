@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beer on Refresh Annapolis Valley</title>
+    <link>http://refreshannapolisvalley.com/topics/beer/</link>
+    <description>Recent content in Beer on Refresh Annapolis Valley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Tue, 12 Jul 2016 19:00:00 -0300</lastBuildDate>
+    
+	<atom:link href="http://refreshannapolisvalley.com/topics/beer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ballmer Peak</title>
+      <link>http://refreshannapolisvalley.com/event/ballmer-peak/</link>
+      <pubDate>Tue, 12 Jul 2016 19:00:00 -0300</pubDate>
+      
+      <guid>http://refreshannapolisvalley.com/event/ballmer-peak/</guid>
+      <description>When surveying a bunch of #Refreshers what we should do for July:
+A) Take off and enjoy the sun (47.1%)
+B) Keep on trucking - regular Refresh meetup for July (35.3%)
+C) Other - drink beer (17.6%)
+&amp;hellip; so we drink beer!
+Join us for a crazy selection of craft beer, pizza and banter. Bring your laptop and we can put the Ballmer Peak to the test**. Come chat about the BIG plans for Refresh in September and beyond&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
