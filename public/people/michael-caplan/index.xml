@@ -1,119 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Michael Caplan on Refresh Annapolis Valley</title>
-    <link>http://refreshannapolisvalley.com/people/michael-caplan/</link>
-    <description>Recent content in Michael Caplan on Refresh Annapolis Valley</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-ca</language>
-    <lastBuildDate>Sat, 13 May 2017 12:30:00 -0300</lastBuildDate>
-    
-	<atom:link href="http://refreshannapolisvalley.com/people/michael-caplan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Bootstrapping The Web</title>
-      <link>http://refreshannapolisvalley.com/event/bootstrapping-the-web/</link>
-      <pubDate>Sat, 13 May 2017 12:30:00 -0300</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/event/bootstrapping-the-web/</guid>
-      <description>For our first Hoist meetup, we&amp;rsquo;ll be learning how to use the Twitter Bootstrap code library to create beautiful front-end websites. Bootstrap is a combination of HTML, CSS, and JavaScript that allow you to write very little but get a whole lot. We&amp;rsquo;ll start with the basics of HTML and CSS and then dive into using Bootstrap to jump-start your web project.
-Pizza + workshop + building
-Bring your own laptop.</description>
-    </item>
-    
-    <item>
-      <title>Project Management Sucks</title>
-      <link>http://refreshannapolisvalley.com/event/project-management-sucks/</link>
-      <pubDate>Tue, 11 Apr 2017 19:00:00 -0300</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/event/project-management-sucks/</guid>
-      <description>Project management seems to be one of those areas of necessary evil. Disconnected project managers who don&amp;rsquo;t really understand your work coupled with never ending meetings, charts, spreadsheets, forms, paperwork, complicated management software&amp;hellip; Project management can feel like it is more of a barrier than a help to team productivity.
- In this talk, Mike Caplan, a reluctant Software Development Manager, will explore a lightweight tool for overseeing the project processes.</description>
-    </item>
-    
-    <item>
-      <title>Creative Computing</title>
-      <link>http://refreshannapolisvalley.com/project/creative-computing/</link>
-      <pubDate>Sun, 11 Sep 2016 19:00:00 +0000</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/project/creative-computing/</guid>
-      <description>Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences. Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development. Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.</description>
-    </item>
-    
-    <item>
-      <title>HarvestHand</title>
-      <link>http://refreshannapolisvalley.com/organization/harvesthand/</link>
-      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/organization/harvesthand/</guid>
-      <description>HarvestHand is a community platform dedicated to strengthening regional food systems. We&amp;rsquo;re passionate about supporting farms with CSA&amp;rsquo;s to become more profitable using HarvestHand CSA Software, helping communities eat better through the HarvestHand Community, creating good jobs in rural communities, and building new media solutions that make sharing the harvest easier.
-Our vision is to create new media solutions that strengthen regional food systems&amp;rsquo; ability to succeed in value oriented approaches to production, distribution, consumption and community.</description>
-    </item>
-    
-    <item>
-      <title>Labnet Dental Lab Systems</title>
-      <link>http://refreshannapolisvalley.com/organization/labnet-dental-lab-systems/</link>
-      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/organization/labnet-dental-lab-systems/</guid>
-      <description>Labnet Dental Lab Systems offers the Dental Lab industry&amp;rsquo;s most comprehensive and powerful management systems with solutions suited for labs of all sizes and budgets. Whether your lab is a thriving multi-site corporation or a one-technician miracle lab, we have a perfect fit for you.
-As a Henry Schein company, you can depend on Labnet Dental Lab Systems for stability and providing your dentists with the latest technological advancements. When you are operating within tight deadlines, the last thing you should worry about is your software.</description>
-    </item>
-    
-    <item>
-      <title>Refresh Annapolis Valley</title>
-      <link>http://refreshannapolisvalley.com/organization/refresh-annapolis-valley/</link>
-      <pubDate>Wed, 10 Aug 2016 19:00:00 +0000</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/organization/refresh-annapolis-valley/</guid>
-      <description>&lt;h3 id=&#34;terminal-error&#34;&gt;Terminal Error&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Recursive meta loop&lt;/strong&gt;.  Stack overflow.  Core now being dumped&amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>F5://Food</title>
-      <link>http://refreshannapolisvalley.com/project/f5-food/</link>
-      <pubDate>Fri, 21 Feb 2014 19:00:00 +0000</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/project/f5-food/</guid>
-      <description>Measure and mix together:
-1 cup of farmers
-½ pound regional food distributors
-2 tbsp chefs
-1 cup food policy experts
-1 dash of deep concern about making our regional bounty more accessible
-Stir in:
-2 tbsp software developers
-½ cup interactive designers
-4 tbsp marketers
-1 pound new media entrepreneurs
-Stir new media ingredients into agricultural mixture. Mix thoroughly with a group of mentors. Broil for 48 hours. Serve hot to a group of judges.</description>
-    </item>
-    
-    <item>
-      <title>HTML5 and Semantic Markup</title>
-      <link>http://refreshannapolisvalley.com/event/html5-and-semantic-markup/</link>
-      <pubDate>Mon, 14 Jan 2013 19:00:00 -0300</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/event/html5-and-semantic-markup/</guid>
-      <description>Come join us for &amp;ldquo;HTML5 and Semantic Markup,&amp;rdquo; a discussion about HTML5, markup, and HTML5 websites that rock.
-Open Web Platform: HTML5 and Semantic Markup Mike Caplan will give a talk about HTML5&amp;rsquo;s new elements and attributes that allow us to define semantically meaningful HTML. Semantics you say? What is the meaning of this? Come find out.
-HTML5 Websites Show and Tell Dust off your favorite website that uses anything under the HTML5 sun – offline storage, connectivity, file access, semantics, audio/video, 3D/graphics, presentation, performance, big features, or small.</description>
-    </item>
-    
-    <item>
-      <title>Local Projects Roundup: Round One</title>
-      <link>http://refreshannapolisvalley.com/event/local-projects-roundup-round-one/</link>
-      <pubDate>Mon, 12 Nov 2012 19:30:00 -0300</pubDate>
-      
-      <guid>http://refreshannapolisvalley.com/event/local-projects-roundup-round-one/</guid>
-      <description>Come join us for Local Projects Roundup - Round One, a discussion about interesting local web projects, and initiatives supporting startups.
-HUB Kentville with Frances SchagenCalling all forward-thinking entrepreneurs, start ups, creatives, artists, freelancers, coders and non-profits. HUB Kentvilleis a membership-based coworking spaces where people share an address, resources, equipment and community.HarvestHand with Michael CaplanCommunity Supported Agriculture (CSA) is a member based model for food production and distribution that unites local communities with local farms.</description>
-    </item>
-    
-  </channel>
-</rss>
