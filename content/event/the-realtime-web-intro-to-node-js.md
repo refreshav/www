@@ -1,6 +1,6 @@
 +++
 banner = "images/event/the-realtime-web-intro-to-node-js/banner"
-images = ["images/event/the-realtime-web-intro-to-node-js/banner-medium.png"]
+images = ["images/event/the-realtime-web-intro-to-node-js/banner-medium.jpg"]
 date = "2016-10-11T19:00:00-03:00"
 PublishDate = "2016-10-11T19:00:00-03:00"
 draft = false
