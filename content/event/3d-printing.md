@@ -14,7 +14,7 @@ title = "3D Printing: From Concept to the Palm of Your Hand"
 topics = ["3D"]
 +++
 
-Welcome to the new world of of 3D printing, where you can produce 3D objects almost as easily as you can dream of them.  Emoji figurines, jewelery, nick nacks, to the more practical, in this hands on workshop you will learn how to design a 3D project.  We will cap off the event by printing your original work.
+Welcome to the new world of of 3D printing, where you can produce 3D objects almost as easily as you can dream of them.  Emoji figurines, jewellery, nick nacks, to the more practical, in this hands on workshop you will learn how to design a 3D project.  We will cap off the event by printing your original work.
 
 **Pizza + workshop + building**
 
