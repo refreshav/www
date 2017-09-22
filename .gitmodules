@@ -1,0 +1,3 @@
+[submodule "static/intro-to-ai"]
+	path = static/intro-to-ai
+	url = https://github.com/RefreshAV/llc-intro-to-ai-master.git
