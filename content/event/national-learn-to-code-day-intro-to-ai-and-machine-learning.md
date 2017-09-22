@@ -33,3 +33,6 @@ What you must bring:
 
 * A potluck item
 * A laptop, and power cord. (Don't have a laptop? We will have a few available for borrowing)
+* 6 hours of your time!  This is a deep learning workshop!
+
+Don't forget to get your ticket for the event. Space is limited! Dudes welcome!
