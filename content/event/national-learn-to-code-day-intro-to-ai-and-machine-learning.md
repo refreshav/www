@@ -8,7 +8,7 @@ event_eventbright = "https://www.eventbrite.ca/e/national-learn-to-code-day-intr
 event_facebook = "https://www.facebook.com/events/1925906760980809/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "meetups"
-event_sponsors = ["Women in Science and Engineering at Acadia University", "Jodrey School of Computer Science at Acadia University", "Acadia Entrepreneurship Centre"]
+event_sponsors = ["Women in Science and Engineering at Acadia University", "Acadia Institute for Data Analytics", "Jodrey School of Computer Science at Acadia University", "Acadia Entrepreneurship Centre"]
 title = "National Learn to Code Day: Intro to AI and Machine Learning"
 topics = ["Artificial Intelligence", "Women In Tech"]
 +++
