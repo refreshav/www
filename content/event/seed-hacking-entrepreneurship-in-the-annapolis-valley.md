@@ -22,9 +22,10 @@ organizations = [
     "launchbox",
     "Common Good Solutions",
     "Acadia Institute for Data Analytics",
-    "Enactus",
+    "Enactus Acadia",
     "Office of Industry & Community Engagement - Acadia University",
-    "Canopy Creative"
+    "Canopy Creative",
+    "The Spot/Shift! Mobile Interactive"
 ]
 event_sponsors = [
     "Valley Regional Enterprise Network",
