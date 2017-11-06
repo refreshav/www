@@ -25,7 +25,8 @@ organizations = [
     "Enactus Acadia",
     "Office of Industry & Community Engagement - Acadia University",
     "Canopy Creative",
-    "The Spot/Shift! Mobile Interactive"
+    "The Spot/Shift! Mobile Interactive", 
+    "Acadia Computer Science Society"
 ]
 event_sponsors = [
     "Valley Regional Enterprise Network",
@@ -36,7 +37,7 @@ title = "Seed: Hacking Entrepreneurship in the Annapolis Valley"
 topics = ["Entrepreneurship"]
 +++
 
-**Seed** is a documentary that follows an international group of programmer entrepreneurs at Angelhack: one of the most competitive global hackathons.  This digital business ideation competition follows entrepreneurs over the course of this intense competition.  Three minutes to pitch.  One shot to fund their proposals.
+**Seed** is a documentary that follows an international group of programmer entrepreneurs at Angelhack: one of the most competitive global hackathons and digital business ideation competitions. Three minutes to pitch. One shot to fund their proposals.
 
 **Seed** is also a gathering of our Annapolis Valley startup community.  The event will feature the diversity of associations, businesses, and individuals who comprise our digital tech startup community.  An assembly of our entrepreneurial family.  Come mingle and build your network.  
 

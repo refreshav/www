@@ -10,4 +10,4 @@ email = "cs.society@acadiau.ca"
 topics = ["Computer Science"]
 +++
 
-Need some info....
+The Acadia Computer Science Society welcomes not only Computer Science students but all students enrolled at Acadia University. We endeavour to be an advocate for students with interests in computer science and technology. We plan events like banquets, CaCHe, LAN parties, and seminars.
