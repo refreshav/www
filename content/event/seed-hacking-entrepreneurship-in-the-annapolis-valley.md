@@ -26,7 +26,9 @@ organizations = [
     "Office of Industry & Community Engagement - Acadia University",
     "Canopy Creative",
     "The Spot/Shift! Mobile Interactive", 
-    "Acadia Computer Science Society"
+    "Acadia Computer Science Society",
+    "ACENET",
+    "Jodrey School of Computer Science"
 ]
 event_sponsors = [
     "Valley Regional Enterprise Network",
