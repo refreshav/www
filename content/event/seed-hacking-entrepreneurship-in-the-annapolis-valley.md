@@ -25,7 +25,7 @@ organizations = [
     "Enactus Acadia",
     "Office of Industry & Community Engagement - Acadia University",
     "Canopy Creative",
-    "The Spot/Shift! Mobile Interactive", 
+    "Shift! Mobile Interactive", 
     "Acadia Computer Science Society",
     "ACENET",
     "Jodrey School of Computer Science"
