@@ -57,3 +57,7 @@ In a riveting behind-the-scenes look at the preparation behind an investor pitch
 Andrew paints a vivid picture of the raw drive and passion that fuels each team. Their backstories come to life as the viewer watches each person experience both the lows from unexpected setbacks and highs when something finally goes right. Andrew captures these tensions, victories, and sacrifices through his organic observational approach; his keen eye draws out the humanity and spirit of each character’s unique story.
 
 The film focuses on a hackathon competition hosted by AngelHack, a female-owned, female-majority company and the world’s largest and most diverse hacker community. “I’m grateful to AngelHack for the access they gave us and the teams for always being willing to share and let us in. It’s not easy to show how hard the path can be when all you want is for everyone else to see you as a success,” Andrew says of the partnership.
+
+<img src="http://www.valleyren.ca/wp-content/uploads/2016/05/vren_logo.png">
+
+This event is supported by the amazing folks at the **Valley Regional Enterprise Network** via their Collective Impact Project.
