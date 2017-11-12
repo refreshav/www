@@ -45,6 +45,8 @@ Submissions are being accepted till midnight December 13.  To submit, fill out t
 ></script>
 
 <script>
+
+var isInit = 0;
 var lines =  3;
 
 var lineProps = [];
@@ -60,6 +62,8 @@ function getIP(json) {
         'Hello ' + json.ip + '. Come explore digital imagination with us.  refresh imagination.  A digital art exhibit',
         'How do you express your creativity digitally? ' + json.ip + '?  refresh imagination.  A digital art exhibit'
     ];
+    
+    isInit++;
 }
 
 function setup() {
@@ -87,6 +91,7 @@ function setup() {
   }
   
   frameRate(30);
+  isInit++;
 }
 
 function draw() {
@@ -120,8 +125,17 @@ function draw() {
 
 }
 
-setTimeout(function(){
+var intervalId = setInterval(function(){
 
+    if (isInit > 1) {
+        talk();
+        clearInterval(intervalId);
+    }
+    
+}, 2000);
+
+
+function talk() {
     var voices = [];
     
     for (var i = 0; i < myVoice.voices.length; i++) {
@@ -133,8 +147,7 @@ setTimeout(function(){
     myVoice.setVoice(random(voices));
     myVoice.setRate(0.7);
     myVoice.speak(random(welcome));
-    
-}, 2000);
+}
 </script>
 
 <script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
