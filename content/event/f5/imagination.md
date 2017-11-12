@@ -1,6 +1,6 @@
 +++
 banner = "images/event/f5/imagination/banner"
-images = ["images/event/f5/imagination/banner-medium.jpg"]
+images = ["images/event/f5/imagination/banner.png"]
 date = "2017-12-17T13:00:00-03:00"
 PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
