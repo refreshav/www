@@ -27,9 +27,9 @@ We are accepting submissions in the following categories:
 * AI investigations
 * Miscellaneous computer experiments
 
-f5://imagination serves as a platform for digital artistic experimentation. It promotes exploration into all forms of new media art, providing the public with an opportunity to experience your innovative work. f5://imagination is committed to making this extraordinary form, at the intersection of art and technology, available to everyone.
+f5://imagination serves as a platform for digital artistic experimentation. It promotes exploration in all forms of new media art, providing the public with an opportunity to experience your innovative work. f5://imagination is committed to making this extraordinary form, at the intersection of art and technology, available to everyone.
 
-Submissions are being accepted till midnight December 13.  To submit, fill out the below form.
+Submissions are being accepted until midnight December 13.  To submit, fill out the below form.
 
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSco_QD5Lo5vCD_FDwCZT5BlUX78t9QbdeSWv4h4QYIyQ_Sy1g/viewform?embedded=true" frameborder="0" style="overflow:hidden;height:100vh;width:100%; border: 1px solid hsla(0,0%,4%,.25)">Loading...</iframe>
@@ -82,11 +82,12 @@ function setup() {
         range: Math.floor(random(5, 20))
     };
   
-    var d = random(2, li * 2);
+    var w = random(0, width);
+    var h = random(0, height);
   
     for ( var i = 0; i < lineProps[li].num; i++ ) {
-      lx[li][i] = constrain(width / d, 0, width);
-      ly[li][i] = constrain(height / d, 0, height);
+      lx[li][i] = w;
+      ly[li][i] = h;
     }
   }
   
@@ -128,8 +129,8 @@ function draw() {
 var intervalId = setInterval(function(){
 
     if (isInit > 1) {
-        talk();
         clearInterval(intervalId);
+        talk();
     }
     
 }, 2000);
