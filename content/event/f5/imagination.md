@@ -1,10 +1,10 @@
 +++
 banner = "images/event/f5/imagination/banner"
-images = ["images/event/f5/imagination/banner.png"]
+images = ["images/event/f5/imagination/banner.jpg"]
 date = "2017-12-17T13:00:00-03:00"
 PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
-#event_facebook = "https://www.facebook.com/events/336588213425907/"
+event_facebook = "https://www.facebook.com/events/1649776135075184/"
 event_location = "TBA, Annapolis Valley, NS"
 project = "meetups"
 event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
