@@ -8,6 +8,7 @@ event_eventbright = "https://www.eventbrite.ca/e/creative-entrepreneurship-turni
 event_facebook = "https://www.facebook.com/events/1697599100292604/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "hoist"
+people = ["Sara Baxter", "Noah Tomkins"]
 event_sponsors = ["Acadia Entrepreneurship Centre", "Launchbox"]
 organizations = ["Acadia Entrepreneurship Centre"]
 title = "Creative Entrepreneurship: Turning Ideas into Action"
