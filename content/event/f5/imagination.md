@@ -211,16 +211,16 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
       </div>
         <div class="column medium-4">
           <div class="card">
-            <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+            <img src="https://www.gravatar.com/avatar/cf44a84db154f9068dfb9636e4bd5bd1?d=retro&f=y&s=500">
             <div class="card-section">
               <h4>
-                  <strong>You</strong> <br>
-                  <em>Your Project</em>, 2017<br>
-                  Your Medium
+                  <strong>Holly Carr & Ian McKay</strong> <br>
+                  <em>The Raven's Tale</em>, 2016<br>
+                  Silk Painting, Woodwork, Arduino, Sound.Motion and LED
               </h4>
-              <p>Your project description.</p>
+              <p>The Raven's Tale is part of a series of collaborations between Holly Carr and Ian McKay. Viewers are invited to interact with the piece and become part of the story. </p>
               
-              <p>Your bio.  Submit today!</p>
+              <p>Holly has gained national acclaim for her unique style of silk painting and public installations.  Holly has exhibited her work throughout Canada and designed for theatre.  In recent years Holly has branched out in to performance art, working with numerous musicians and performers including a cross Canada tour with Stuart McLean and the Vinyl Café, as well as performances with world renowned violinist Min Lee in Singapore, The National Art Center Orchestra in Ottawa, the Winnipeg Symphony Orchestra as well as her own production with Symphony Nova Scotia. Her recent work has included collaborations with local Maker, Ian McKay, which explore the power of digital interactivity and traditional art to tell a story.</p>
             </div>
           </div>
         </div>
