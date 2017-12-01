@@ -39,6 +39,7 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
   <li class="tabs-title is-active"><a data-tabs-target="panel2" href="#ComputerGeneratedArt"><strong>Computer Generated Art</strong></a></li>
   <li class="tabs-title"><a data-tabs-target="panel2" href="#DigitalGadgetsandGizmos"><strong>Digital Gadgets and Gizmos</strong></a></li>
   <li class="tabs-title"><a href="#DigitalGames" aria-selected="true"><strong>Digital Games</strong></a></li>
+  <li class="tabs-title"><a href="#InteractiveStory" aria-selected="true"><strong>Interactive Story</strong></a></li>
   <li class="tabs-title"><a href="#MiscellaneousComputerExperiments" aria-selected="true"><strong>Miscellaneous Computer Experiments</strong></a></li>
   <li class="tabs-title"><a href="#AIinvestigations" aria-selected="true"><strong>AI investigations</strong></a></li>
 </ul>
@@ -63,21 +64,6 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
         </div>
         <div class="column medium-4">
           <div class="card">
-            <img src="https://www.gravatar.com/avatar/0afca49306b28c1650a1d4130a6a0ce1?d=retro&f=y&s=500">
-            <div class="card-section">
-              <h4>
-                  <strong>Clara</strong> <br>
-                  <em>Whales</em>, 2017<br>
-                  Scratch
-              </h4>
-              <p>Feed & love the whales!</p>
-              
-              <p>Clara is in grade 4.  She is involved in Refresh Annapolis Valley's Girls' Code Club.  She loves whales!!!</p>
-            </div>
-          </div>
-        </div>
-        <div class="column medium-4">
-          <div class="card">
             <img src="https://www.gravatar.com/avatar/161a5ffcff82faef2df0328cfde05523?d=retro&f=y&s=500">
             <div class="card-section">
               <h4>
@@ -91,8 +77,6 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
             </div>
           </div>
         </div>
-     </div>
-     <div class="row medium-unstack">
         <div class="column medium-4">
           <div class="card">
             <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
@@ -163,7 +147,7 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
     <div class="row medium-unstack">
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/a599d3878fa721ec565aad128466aefb?d=retro&f=y&s=500">
+          <a href="http://xona.com/"><img src="https://www.gravatar.com/avatar/a599d3878fa721ec565aad128466aefb?d=retro&f=y&s=500"></a>
           <div class="card-section">
             <h4>
                 <strong>Xonatron</strong> <br>
@@ -172,7 +156,56 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
             </h4>
             <p>This is procedurally generated fractal art, created in Unity, using a old-school demoscene trick known as a feedback effect. It is specifically accomplished using Render Textures and multiple cameras, along with aesthetic tweaking for visual effect.</p>
             
-            <p>Matthew Doucette, Game Producer at Xona Games, an award-winning Xbox and PlayStation indie games studio, known for #1 Japan shmup hits and winning $180,000 in awards: http://xona.com/</p>
+            <p>Matthew Doucette, Game Producer at Xona Games, an award-winning Xbox and PlayStation indie games studio, known for #1 Japan shmup hits and winning $180,000 in awards.</p>
+          </div>
+        </div>
+      </div>
+        <div class="column medium-4">
+          <div class="card">
+            <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+            <div class="card-section">
+              <h4>
+                  <strong>You</strong> <br>
+                  <em>Your Project</em>, 2017<br>
+                  Your Medium
+              </h4>
+              <p>Your project description.</p>
+              
+              <p>Your bio.  Submit today!</p>
+            </div>
+          </div>
+        </div>
+      <div class="column medium-4">
+        <div class="card">
+          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <div class="card-section">
+            <h4>
+                <strong>You</strong> <br>
+                <em>Your Project</em>, 2017<br>
+                Your Medium
+            </h4>
+            <p>Your project description.</p>
+            
+            <p>Your bio.  Submit today!</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="tabs-panel" id="InteractiveStory">
+    <div class="row medium-unstack">
+      <div class="column medium-4">
+        <div class="card">
+          <img src="https://www.gravatar.com/avatar/0afca49306b28c1650a1d4130a6a0ce1?d=retro&f=y&s=500">
+          <div class="card-section">
+            <h4>
+                <strong>Clara</strong> <br>
+                <em>Whales</em>, 2017<br>
+                Scratch
+            </h4>
+            <p>Feed & love the whales!</p>
+            
+            <p>Clara is in grade 4.  She is involved in Refresh Annapolis Valley's Girls' Code Club.  She loves whales!!!</p>
           </div>
         </div>
       </div>
@@ -270,7 +303,7 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
             </h4>
             <p>Faces explores the digital eye and its ability to interact and interpret your face.</p>
             
-            <p>Mike has been active as a web application developer and web designer for 16 years, working in the non-profit, university, retail, agricultural, and dental industries.</p>
+            <p>Mike has been active as a web application developer and web designer for close to 20 years, working in the non-profit, university, retail, agricultural, and dental industries.</p>
           </div>
         </div>
       </div>
