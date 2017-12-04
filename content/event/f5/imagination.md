@@ -1,7 +1,7 @@
 +++
 banner = "images/event/f5/imagination/banner"
 images = ["images/event/f5/imagination/banner.jpg"]
-date = "2017-12-17T13:00:00-03:00"
+date = "2017-12-17T10:00:00-03:00"
 PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/1649776135075184/"
