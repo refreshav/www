@@ -10,4 +10,6 @@ website = "http://keegan-lee.ca"
 linkedin = "https://ca.linkedin.com/in/keegan-francis-359487100"
 +++
 
-Keegan Francis is a software engineer, investor, entrepreneur and a technology enthusiast. Keegan was born and raised in Truro, Nova Scotia and went to school at Acadia University. Keegan graduated with a Bachelor of Computer Science with an focus on data structures, web languages and databases. Keegan now works at PBSA (Peerplays Blockchain Standards Association), a non-profit organization based out of the Diefenbunker in Debert, Nova Scotia. Keegan spends his days working on, and building the Peerplays Blockchain and associated decentralized applications (DAPPS) that run on top of the Blockchain.
+Have you ever wondered what it would be like to walk on the bottom of the ocean? Or scale the highest mountain? Maybe you would like to experience what it's like to look down upon earth from space. Everything you can imagine, will soon be a virtual reality. Enter your imagination and experience the new medium that is sweeping the globe.
+
+Keegan Francis is an software engineer, entrepreneur and an alumnus of Acadia University's Computer Science department. Driven by innovation and education, Keegan will be sharing his experience working with virtual reality and talking about the various applications of it. He believes there are many practical uses of virtual reality such as gaming, exploration, learning/education, therapy and much more. Come and learn about experiences that lay just beyond the digital ether.

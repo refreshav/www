@@ -9,25 +9,21 @@ event_location = "461 Main Street, Wolfville, NS"
 project = "meetups"
 event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
 title = "f5://imagination"
-topics = ["Art", "Makers", "Hardware Hacking"]
+topics = ["Art", "Makers", "Hardware Hacking", "Women in Tech"]
 organizations = ["Refresh Annapolis Valley"]
-people = ["Ian Mckay", "Max Caplan", "Michael Caplan"]
+people = ["Ian Mckay", "Max Caplan", "Michael Caplan", "Dr Randy Newman"]
 +++
 
-f5://imagination is a pop up exhibit focused on digital creativity.  This one day temporary exhibit is seeking submissions from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers...  digital builders of all shapes, sizes, and credentials.
+f5://imagination is a pop up exhibit focused on digital creativity.  This one day temporary exhibit features work from digital artists, makers, scratchers, computer scientists, engineers and pretendgineer, hardware hackers, lego robotics warriors, indy game developers, new media innovators, VR and AR pioneers...  digital builders of all shapes, sizes, and credentials.
 
-We are accepting submissions in the following categories:
+<h3>Schedule</h3>
 
-* Computer generated art
-* Digital games
-* Interactive story
-* Digital gadgets and gizmos
-* VR / AR environments
-* Animation
-* AI investigations
-* Miscellaneous computer experiments
-
-f5://imagination serves as a platform for digital artistic experimentation. It promotes exploration in all forms of new media art, providing the public with an opportunity to experience your innovative work. f5://imagination is committed to making this extraordinary form, at the intersection of art and technology, available to everyone.
+<dl>
+    <dd><strong>10 AM to 12:30 PM</strong></dd>
+    <dl>Screening & discussion of <em>Hidden Figures</em>:  The story of a team of female African-American mathematicians who served a vital role in NASA during the early years of the U.S. space program.  Hosted by Dr. Randy Newman (Professor of Psychology, Acadia University.  {{< organization "Women in Science and Engineering at Acadia University" >}}).  An area of Dr. Newman's work is in understanding factors responsible for the gender gap that persists in some areas of science, notably computer science and engineering.  <strong>Limited Space: <a href="https://www.eventbrite.ca/e/f5imagination-hidden-figures-screening-discussion-tickets-40998671129">get your free ticket to secure your spot</a>.</strong></dl>
+    <dd><strong>1 PM to 4:00 PM</strong></dd>
+    <dl>f5://imagination reception. Artists will be in attendance, light refreshments served.</dl>
+</dl>
 
 Submissions are being accepted until midnight December 13.  To submit, fill out the below form (bottom of the page).
 
@@ -387,6 +383,23 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
     </div>
   </div>
 </div>
+
+<hr>
+
+<h1>Submissions</h1>
+
+We are accepting submissions in the following categories:
+
+* Computer generated art
+* Digital games
+* Interactive story
+* Digital gadgets and gizmos
+* VR / AR environments
+* Animation
+* AI investigations
+* Miscellaneous computer experiments
+
+f5://imagination serves as a platform for digital artistic experimentation. It promotes exploration in all forms of new media art, providing the public with an opportunity to experience your innovative work. f5://imagination is committed to making this extraordinary form, at the intersection of art and technology, available to everyone.
 
 <div style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSco_QD5Lo5vCD_FDwCZT5BlUX78t9QbdeSWv4h4QYIyQ_Sy1g/viewform?embedded=true" frameborder="0" style="overflow:hidden;height:100vh;width:100%; border: 1px solid hsla(0,0%,4%,.25)">Loading...</iframe>

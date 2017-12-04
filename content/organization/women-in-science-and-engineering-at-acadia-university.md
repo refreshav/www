@@ -8,6 +8,7 @@ email = "barb.anderson@acadiau.ca"
 facebook = "WISEacadia"
 topics = ["Women in Tech"]
 website = "http://wise.acadiau.ca/"
+people = ["Dr Randy Newman"]
 +++
 
 WISE (Women in Science and Engineering) at Acadia is a group of female faculty members from the [Faculty of Pure and Applied Science](http://science.acadiau.ca/) and [Kinesiology](http://kinesiology.acadiau.ca/) who gather together to address the unique issues that women in academia face. The group has supported learning opportunities and award applications for Acadia women faculty members. After a [gathering held in October 2014](http://bit.ly/WISEacadia) additional WISE priorities have been identified related to mentoring, science camps for young women, and a course offering for undergraduates in Women and Science. 
