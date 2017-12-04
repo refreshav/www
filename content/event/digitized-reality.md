@@ -14,7 +14,7 @@ title = "Digitized Reality"
 topics = ["VR"]
 +++
 
-Come slap on a headset and enter the world of virtual reality.  In this workshop, we will explore virtual reality by both examining the capabilities of commercial headsets, as well as learn how to build our own VR environments.  If you can, bring a smart phone to test your uniquely constructed VR world.  We can only accomodate a limited number of people for this event, so get your free ticket fast.
+Come slap on a headset and enter the world of virtual reality.  In this workshop, we will explore virtual reality by both examining the capabilities of commercial headsets, as well as learn how to build our own VR environments.  If you can, bring a smart phone to test your uniquely constructed VR world.  We can only accommodate a limited number of people for this event, so get your free ticket fast.
 
 **Pizza + workshop + building**
 

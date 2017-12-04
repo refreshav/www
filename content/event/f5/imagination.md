@@ -79,19 +79,66 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
         </div>
         <div class="column medium-4">
           <div class="card">
-            <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+            <img src="https://www.gravatar.com/avatar/27c07e1c9bcd1ac7e5e995ed92534d77?d=retro&f=y&s=500">
             <div class="card-section">
               <h4>
-                  <strong>You</strong> <br>
-                  <em>Your Project</em>, 2017<br>
-                  Your Medium
+                  <strong>skittles</strong> <br>
+                  <em>Blue Thunder</em>, 2017<br>
+                  Scratch
               </h4>
-              <p>Your project description.</p>
+              <p>An interactive, flying game where you move in the opposite direction from the mouse and dodge bullets,spikes,saws, and balls of fire!</p>
               
-              <p>Your bio.  Submit today!</p>
+              <p>Sam is 11 and has been doing Scratch for 2 years. He likes to draw, play video games, and play with lego. Sam also attended the Scratch fest in June.</p>
             </div>
           </div>
         </div>
+     </div>
+     <div class="row medium-unstack">
+       <div class="column medium-4">
+        <div class="card">
+          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <div class="card-section">
+            <h4>
+                <strong>You</strong> <br>
+                <em>Your Project</em>, 2017<br>
+                Your Medium
+            </h4>
+            <p>Your project description.</p>
+            
+            <p>Your bio.  Submit today!</p>
+          </div>
+        </div>
+      </div>
+       <div class="column medium-4">
+         <div class="card">
+           <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+           <div class="card-section">
+             <h4>
+                 <strong>You</strong> <br>
+                 <em>Your Project</em>, 2017<br>
+                 Your Medium
+             </h4>
+             <p>Your project description.</p>
+             
+             <p>Your bio.  Submit today!</p>
+           </div>
+         </div>
+       </div>      
+       <div class="column medium-4">
+         <div class="card">
+           <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+           <div class="card-section">
+             <h4>
+                 <strong>You</strong> <br>
+                 <em>Your Project</em>, 2017<br>
+                 Your Medium
+             </h4>
+             <p>Your project description.</p>
+             
+             <p>Your bio.  Submit today!</p>
+           </div>
+         </div>
+       </div>
      </div>
   </div>
   <div class="tabs-panel" id="DigitalGadgetsandGizmos">
