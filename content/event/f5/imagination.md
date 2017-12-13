@@ -92,50 +92,97 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
      <div class="row medium-unstack">
        <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/ffe3123e2ece4d04bd5193bda01684a1?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Alec</strong> <br>
+                <em>Super Mario Odyssey 2D</em>, 2017<br>
+                Scratch
             </h4>
-            <p>Your project description.</p>
+            <p>A 2D Super Mario Odyssey engine built in Scratch.</p>
             
-            <p>Your bio.  Submit today!</p>
+            <p></p>
           </div>
         </div>
       </div>
        <div class="column medium-4">
          <div class="card">
-           <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+           <img src="https://www.gravatar.com/avatar/897f60dc1e90931f76ccfe39ed0cc81a?d=retro&f=y&s=500">
            <div class="card-section">
              <h4>
-                 <strong>You</strong> <br>
-                 <em>Your Project</em>, 2017<br>
-                 Your Medium
+                 <strong>cheeystrings</strong> <br>
+                 <em>Paddle Ball</em>, 2017<br>
+                 Scratch
              </h4>
-             <p>Your project description.</p>
+             <p>My game is about paddle ball.</p>
              
-             <p>Your bio.  Submit today!</p>
+             <p>I like to do basketball. I like to build games in scratch.</p>
            </div>
          </div>
        </div>      
        <div class="column medium-4">
          <div class="card">
-           <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+           <img src="https://www.gravatar.com/avatar/2ca3e729c8db8b37b97aa4dfe59d7ef7?d=retro&f=y&s=500">
            <div class="card-section">
              <h4>
-                 <strong>You</strong> <br>
-                 <em>Your Project</em>, 2017<br>
-                 Your Medium
+                 <strong>tbgic</strong> <br>
+                 <em>Protect The Earth</em>, 2017<br>
+                 Scratch
              </h4>
-             <p>Your project description.</p>
+             <p>Protect the earth is about a ship that protects the earth like in a scroll game.</p>
              
-             <p>Your bio.  Submit today!</p>
+             <p>I'm a guy with 4 pets.  I have a craving for lasagna.</p>
            </div>
          </div>
        </div>
      </div>
+     <div class="row medium-unstack">
+            <div class="column medium-4">
+             <div class="card">
+               <img src="https://www.gravatar.com/avatar/2ca3e729c8db8b37b97aa4dfe59d7ef7?d=retro&f=y&s=500">
+               <div class="card-section">
+                 <h4>
+                     <strong>Tbgic</strong> <br>
+                     <em>Crash Landing</em>, 2017<br>
+                     Scratch
+                 </h4>
+                 <p>Aliens come up and run to you.  If they touch you your life goes down.</p>
+                 
+                 <p>I'm a guy with 4 pets.  I have a craving for lasagna.</p>
+               </div>
+             </div>
+           </div>
+            <div class="column medium-4">
+              <div class="card">
+                <img src="https://www.gravatar.com/avatar/07b46fbe1aa56deb7b34f6f915e6bd2a?d=retro&f=y&s=500">
+                <div class="card-section">
+                  <h4>
+                      <strong>TheYak</strong> <br>
+                      <em>Galaxy #1</em>, 2017<br>
+                      Scratch
+                  </h4>
+                  <p>A digital boardgame that has instructions and you can shoot using one ship.</p>
+                  
+                  <p>Jake is a digital art newb, a veteran conference speaker, and avid soccer player. </p>
+                </div>
+              </div>
+            </div>      
+            <div class="column medium-4">
+              <div class="card">
+                <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+                <div class="card-section">
+                  <h4>
+                      <strong>You</strong> <br>
+                      <em>Your Project</em>, 2017<br>
+                      Your Medium
+                  </h4>
+                  <p>Your project description.</p>
+                  
+                  <p>Your bio.  Submit today!</p>
+                </div>
+              </div>
+            </div>
+          </div>
   </div>
   <div class="tabs-panel" id="DigitalGadgetsandGizmos">
     <div class="row medium-unstack">
@@ -156,16 +203,16 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
       </div>
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/1136a40fafc2a2add212c5680674828d?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Max Caplan</strong> <br>
+                <em>Pi Boy</em>, 2017<br>
+                3d Print, Raspberry PI, Assorted Materials
             </h4>
-            <p>Your project description.</p>
+            <p>The Pi Boy is a handheld retro gaming console designed to look like a gameboy, and runs of a Raspberry Pi 2. It can play most games from the Atari to the Game Cube.</p>
             
-            <p>Your bio.  Submit today!</p>
+            <p>Max is a grade 11 Horton student,  Hacker, Coder, and Artist (traditional and otherwise).</p>
           </div>
         </div>
       </div>      
@@ -205,31 +252,31 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
       </div>
         <div class="column medium-4">
           <div class="card">
-            <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+            <img src="https://www.gravatar.com/avatar/5f9f21452126aeebd9165ab725f0ce0a?d=retro&f=y&s=500">
             <div class="card-section">
               <h4>
-                  <strong>You</strong> <br>
-                  <em>Your Project</em>, 2017<br>
-                  Your Medium
+                  <strong>Alec Cameron</strong> <br>
+                  <em>3D</em>, 2017<br>
+                  Blender and Maya
               </h4>
-              <p>Your project description.</p>
+              <p>These are various pieces done in 3D softwares Blender and Maya. They represent my creative and technical abilities put into an art piece. </p>
               
-              <p>Your bio.  Submit today!</p>
+              <p>My name is Alec Cameron. I am 19 years old from Halifax, Nova Scotia. I am a first student at NSCC Truro taking the Game Development course.</p>
             </div>
           </div>
         </div>
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/161a5ffcff82faef2df0328cfde05523?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Solomon</strong> <br>
+                <em>The Tunnel</em>, 2017<br>
+                Processing, Javascript
             </h4>
-            <p>Your project description.</p>
+            <p>This is an randomly generated tunnel-looking processing project.</p>
             
-            <p>Your bio.  Submit today!</p>
+            <p>Solomon is very new to processing, although he has been involved in coding for near five years.</p>
           </div>
         </div>
       </div>
@@ -257,7 +304,7 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
             <img src="https://www.gravatar.com/avatar/cf44a84db154f9068dfb9636e4bd5bd1?d=retro&f=y&s=500">
             <div class="card-section">
               <h4>
-                  <strong>Holly Carr & Ian McKay</strong> <br>
+                  <strong>Holly Carr & Ian McKay & Jonah McKay</strong> <br>
                   <em>The Raven's Tale</em>, 2016<br>
                   Silk Painting, Woodwork, Arduino, Sound.Motion and LED
               </h4>
@@ -269,20 +316,165 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
         </div>
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/d2c23a24283d0ad4a84c4d401b45d721?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Nutella37</strong> <br>
+                <em>The Forest Adventure</em>, 2017<br>
+                Scratch
             </h4>
-            <p>Your project description.</p>
+            <p>a choose your own adventure.
+               your brother's toy is in the woods.
+               and you must go find it.</p>
             
-            <p>Your bio.  Submit today!</p>
+            <p>i am too crazy.
+               i just love cats.
+               and i'm in love with otters.</p>
           </div>
         </div>
       </div>
     </div>
+    <div class="row medium-unstack">
+          <div class="column medium-4">
+            <div class="card">
+              <img src="https://www.gravatar.com/avatar/ba546f8d6d55634ce9106423ee4c5275?d=retro&f=y&s=500">
+              <div class="card-section">
+                <h4>
+                    <strong>Olivia</strong> <br>
+                    <em>The Run</em>, 2017<br>
+                    Scratch
+                </h4>
+                <p>It's about a run</p>
+                
+                <p>I like scratch</p>
+              </div>
+            </div>
+          </div>
+            <div class="column medium-4">
+              <div class="card">
+                <img src="https://www.gravatar.com/avatar/e15130d2eabf454dcc288e62c3c4d4b8?d=retro&f=y&s=500">
+                <div class="card-section">
+                  <h4>
+                      <strong>Evelyn</strong> <br>
+                      <em>On The Farm</em>, 2017<br>
+                      Scratch
+                  </h4>
+                  <p>A chose your own adventure about a farm </p>
+                  
+                  <p>I love cats. I am crazy and nice.</p>
+                </div>
+              </div>
+            </div>
+          <div class="column medium-4">
+            <div class="card">
+              <img src="https://www.gravatar.com/avatar/d1b0438537e8a08423054ffcba58663e?d=retro&f=y&s=500">
+              <div class="card-section">
+                <h4>
+                    <strong>MC Glitter Girl</strong> <br>
+                    <em>A Day At The Park</em>, 2017<br>
+                    Scratch
+                </h4>
+                <p>A person having a bad day at the park! </p>
+                
+                <p>I really like Scratch. It's my favorite coding program. I like the colour pink.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+            <div class="row medium-unstack">
+                  <div class="column medium-4">
+                    <div class="card">
+                      <img src="https://www.gravatar.com/avatar/3b477b978db5ec4ec9e9f4de91aba75c?d=retro&f=y&s=500">
+                      <div class="card-section">
+                        <h4>
+                            <strong>Emily</strong> <br>
+                            <em>The Fork</em>, 2017<br>
+                            Scratch
+                        </h4>
+                        <p>Someone who has the choice to take a fork out of the road or keep walking.If you chose to keep walking you can go to a beach or a really big rock. I hope that you have fun making your choices. </p>
+                        
+                        <p>My favourite animal is a pig. My favourite colour is pink. I have a pet fish named Larry. </p>
+                      </div>
+                    </div>
+                  </div>
+                    <div class="column medium-4">
+                      <div class="card">
+                        <img src="https://www.gravatar.com/avatar/e15130d2eabf454dcc288e62c3c4d4b8?d=retro&f=y&s=500">
+                        <div class="card-section">
+                          <h4>
+                              <strong>Evelyn</strong> <br>
+                              <em>On The Farm</em>, 2017<br>
+                              Scratch
+                          </h4>
+                          <p>A chose your own adventure about a farm </p>
+                          
+                          <p>I love cats. I am crazy and nice.</p>
+                        </div>
+                      </div>
+                    </div>
+                  <div class="column medium-4">
+                    <div class="card">
+                      <img src="https://www.gravatar.com/avatar/84a5c659418c774575bab151d921d60f?d=retro&f=y&s=500">
+                      <div class="card-section">
+                        <h4>
+                            <strong>Manal & Riemin</strong> <br>
+                            <em>Playing Outside</em>, 2017<br>
+                            Scratch
+                        </h4>
+                        <p>This project is about having fun outside.</p>
+                        
+                        <p>Manal and Riemin like living on a farm.  Scratch is fun.  </p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+    <div class="row medium-unstack">
+                      <div class="column medium-4">
+                        <div class="card">
+                          <img src="https://www.gravatar.com/avatar/2d4355a3595bb5ed011036821041b680?d=retro&f=y&s=500">
+                          <div class="card-section">
+                            <h4>
+                                <strong>Kaitlyn</strong> <br>
+                                <em>Waspy Day!</em>, 2017<br>
+                                Scratch
+                            </h4>
+                            <p>It is about a soccer ball and their are wasps everywhere.  He needs to get out of there.  Kill them and get out alive!</p>
+                            
+                            <p>My favorite color is purple.  I have a twin.  My favorite animal is a chameleon.</p>
+                          </div>
+                        </div>
+                      </div>
+                        <div class="column medium-4">
+                          <div class="card">
+                            <img src="https://www.gravatar.com/avatar/97df1c7df6ce1ec718c9c662dc31f43b?d=retro&f=y&s=500">
+                            <div class="card-section">
+                              <h4>
+                                  <strong>mooagain</strong> <br>
+                                  <em>Detective Games</em>, 2017<br>
+                                  Scratch
+                              </h4>
+                              <p>This is a series of mystery games.</p>
+                              
+                              <p>I am 14, I like books, video games, and cheese. I have two and a half annoying brothers. my favorite games are PvZ, DST, OnI, ToS, WoW, DSSW, DSRoG, and PvZGW2.</p>
+                            </div>
+                          </div>
+                        </div>
+                      <div class="column medium-4">
+                        <div class="card">
+                          <img src="https://www.gravatar.com/avatar/84a5c659418c774575bab151d921d60f?d=retro&f=y&s=500">
+                          <div class="card-section">
+                            <h4>
+                                <strong>XXX</strong> <br>
+                                <em>Playing Outside</em>, 2017<br>
+                                Scratch
+                            </h4>
+                            <p>This project is about having fun outside.</p>
+                            
+                            <p>Manal and Riemin like living on a farm.  Scratch is fun.  </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
   </div>
   <div class="tabs-panel is-active" id="MiscellaneousComputerExperiments">
     <div class="row medium-unstack">
@@ -303,16 +495,16 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
       </div>
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/2a7c83affdfe1bea0dc955899eb2b1bb?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Nathaniel Fredericks</strong> <br>
+                <em>Moodr</em>, 2017<br>
+                React.js, Express.js, Windows Server
             </h4>
-            <p>Your project description.</p>
+            <p>Moodr is a web application that uses a naive bayes classifier to determine if a message is positive or negative. </p>
             
-            <p>Your bio.  Submit today!</p>
+            <p>Nathaniel is a thirteen year old programmer that started out at the age of nine, he has been learning and programming in Node.js, Golang during this year.</p>
           </div>
         </div>
       </div>
