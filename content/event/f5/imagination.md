@@ -37,7 +37,6 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
   <li class="tabs-title"><a href="#DigitalGames" aria-selected="true"><strong>Digital Games</strong></a></li>
   <li class="tabs-title"><a href="#InteractiveStory" aria-selected="true"><strong>Interactive Story</strong></a></li>
   <li class="tabs-title"><a href="#MiscellaneousComputerExperiments" aria-selected="true"><strong>Miscellaneous Computer Experiments</strong></a></li>
-  <li class="tabs-title"><a href="#AIinvestigations" aria-selected="true"><strong>AI investigations</strong></a></li>
 </ul>
 
 <div class="tabs-content" data-tabs-content="example-tabs">
@@ -137,52 +136,75 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
        </div>
      </div>
      <div class="row medium-unstack">
-            <div class="column medium-4">
-             <div class="card">
-               <img src="https://www.gravatar.com/avatar/2ca3e729c8db8b37b97aa4dfe59d7ef7?d=retro&f=y&s=500">
-               <div class="card-section">
-                 <h4>
-                     <strong>Tbgic</strong> <br>
-                     <em>Crash Landing</em>, 2017<br>
-                     Scratch
-                 </h4>
-                 <p>Aliens come up and run to you.  If they touch you your life goes down.</p>
-                 
-                 <p>I'm a guy with 4 pets.  I have a craving for lasagna.</p>
-               </div>
-             </div>
+        <div class="column medium-4">
+         <div class="card">
+           <img src="https://www.gravatar.com/avatar/2ca3e729c8db8b37b97aa4dfe59d7ef7?d=retro&f=y&s=500">
+           <div class="card-section">
+             <h4>
+                 <strong>Tbgic</strong> <br>
+                 <em>Crash Landing</em>, 2017<br>
+                 Scratch
+             </h4>
+             <p>Aliens come up and run to you.  If they touch you your life goes down.</p>
+             
+             <p>I'm a guy with 4 pets.  I have a craving for lasagna.</p>
            </div>
-            <div class="column medium-4">
-              <div class="card">
-                <img src="https://www.gravatar.com/avatar/07b46fbe1aa56deb7b34f6f915e6bd2a?d=retro&f=y&s=500">
-                <div class="card-section">
-                  <h4>
-                      <strong>TheYak</strong> <br>
-                      <em>Galaxy #1</em>, 2017<br>
-                      Scratch
-                  </h4>
-                  <p>A digital boardgame that has instructions and you can shoot using one ship.</p>
-                  
-                  <p>Jake is a digital art newb, a veteran conference speaker, and avid soccer player. </p>
-                </div>
-              </div>
-            </div>      
-            <div class="column medium-4">
-              <div class="card">
-                <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
-                <div class="card-section">
-                  <h4>
-                      <strong>You</strong> <br>
-                      <em>Your Project</em>, 2017<br>
-                      Your Medium
-                  </h4>
-                  <p>Your project description.</p>
-                  
-                  <p>Your bio.  Submit today!</p>
-                </div>
-              </div>
+         </div>
+       </div>
+        <div class="column medium-4">
+          <div class="card">
+            <img src="https://www.gravatar.com/avatar/07b46fbe1aa56deb7b34f6f915e6bd2a?d=retro&f=y&s=500">
+            <div class="card-section">
+              <h4>
+                  <strong>TheYak</strong> <br>
+                  <em>Galaxy #1</em>, 2017<br>
+                  Scratch
+              </h4>
+              <p>A digital boardgame that has instructions and you can shoot using one ship.</p>
+              
+              <p>Jake is a digital art newb, a veteran conference speaker, and avid soccer player. </p>
             </div>
           </div>
+        </div>      
+        <div class="column medium-4">
+          <div class="card">
+            <img src="https://www.gravatar.com/avatar/bfdb20a12c173fe87ba12b780594e21d?d=retro&f=y&s=500">
+            <div class="card-section">
+              <h4>
+                  <strong>Jamy</strong> <br>
+                  <em>Tank War Sim v1.2</em>, 2017<br>
+                  Scratch
+              </h4>
+              <p>This game is a tank war sim. It is a 2 player game based on my earlier game, "lazer tag xtrme". This game was created using Scratch at scratch.mit.edu.</p>
+              
+              <p>Random person who likes to play and make video games.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row medium-unstack">
+          <div class="column medium-4">
+           <div class="card">
+             <img src="https://www.gravatar.com/avatar/ba0e0cde1bf72c28d435c89a66afc61a?d=retro&f=y&s=500">
+             <div class="card-section">
+               <h4>
+                   <strong>Sam</strong> <br>
+                   <em>Super Soaker Side Scroller</em>, 2017<br>
+                   Scratch
+               </h4>
+               <p>It's a game about simulated water guns.</p>
+               
+               <p>Hi. I'm Sam Jorgensen, an 11 year old game maker. A grade 6 student at Evangeline Middle School. I've been using the scratch programming language for 4 years now, and it's awesome. I love chocolate, cats, and of course, video games.</p>
+             </div>
+           </div>
+         </div>
+          <div class="column medium-4">
+            
+          </div>      
+          <div class="column medium-4">
+            
+          </div>
+        </div>
   </div>
   <div class="tabs-panel" id="DigitalGadgetsandGizmos">
     <div class="row medium-unstack">
@@ -428,7 +450,7 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
                     </div>
                   </div>
                 </div>
-    <div class="row medium-unstack">
+                    <div class="row medium-unstack">
                       <div class="column medium-4">
                         <div class="card">
                           <img src="https://www.gravatar.com/avatar/2d4355a3595bb5ed011036821041b680?d=retro&f=y&s=500">
@@ -461,16 +483,16 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
                         </div>
                       <div class="column medium-4">
                         <div class="card">
-                          <img src="https://www.gravatar.com/avatar/84a5c659418c774575bab151d921d60f?d=retro&f=y&s=500">
+                          <img src="https://www.gravatar.com/avatar/45cf0aa0166ba9440468e717c8072d9b?d=retro&f=y&s=500">
                           <div class="card-section">
                             <h4>
-                                <strong>XXX</strong> <br>
-                                <em>Playing Outside</em>, 2017<br>
+                                <strong>Milla</strong> <br>
+                                <em>Harry Potter and the Adventure of the Hippogriff</em>, 2017<br>
                                 Scratch
                             </h4>
-                            <p>This project is about having fun outside.</p>
+                            <p>This is an adventure where you can choose to save Buckbeak the Hippogriff...or not!</p>
                             
-                            <p>Manal and Riemin like living on a farm.  Scratch is fun.  </p>
+                            <p>Milla is a creative Harry Potter superfan who is currently in Grade 4.</p>
                           </div>
                         </div>
                       </div>
@@ -510,22 +532,20 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
       </div>
       <div class="column medium-4">
         <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
+          <img src="https://www.gravatar.com/avatar/b336b67663129253694f8043f3b860f2?d=retro&f=y&s=500">
           <div class="card-section">
             <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
+                <strong>Jawad Khan</strong> <br>
+                <em>Art of Digital Communication</em>, 2017<br>
+                Google Assitant, Auto Voice, Tasker, Node-Red, Raspberry Pi, Server PC
             </h4>
-            <p>Your project description.</p>
+            <p>Control a lamp using voice. This work uses the input of voice via Google Assistant and sends appropriate commands to the server over internet. Raspberry Pi gets the status of most recent command from the server and controls the lamp appropriately. Some of the information related to the online communication is visualized via a dashboard of graphs.</p>
             
-            <p>Your bio.  Submit today!</p>
+            <p>Jawad is an Electrical Engineer and a software developer. Really passionate about interfacing hardware with software over internet. I believe that controlling any hardware over internet is the art of digital communication.</p>
           </div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="tabs-panel is-active" id="AIinvestigations">
     <div class="row medium-unstack">
       <div class="column medium-4">
         <div class="card">
@@ -543,34 +563,10 @@ Submissions are being accepted until midnight December 13.  To submit, fill out 
         </div>
       </div>
       <div class="column medium-4">
-        <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
-          <div class="card-section">
-            <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
-            </h4>
-            <p>Your project description.</p>
-            
-            <p>Your bio.  Submit today!</p>
-          </div>
-        </div>
+        
       </div>
       <div class="column medium-4">
-        <div class="card">
-          <img src="https://www.gravatar.com/avatar/cae8d14edd025e72c59dbab6f378c95a?d=retro&f=y&s=500">
-          <div class="card-section">
-            <h4>
-                <strong>You</strong> <br>
-                <em>Your Project</em>, 2017<br>
-                Your Medium
-            </h4>
-            <p>Your project description.</p>
-            
-            <p>Your bio.  Submit today!</p>
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>
