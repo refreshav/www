@@ -18,15 +18,15 @@ With an estimated 218,000 new skilled ICT workers needed in Canada by 2020 to me
 
 Join our panel discussion focused on defining challenges and solutions for Computer Science education today.
 
-Panel moderator, Genevieve Allen Hearn (The Grapevine)
+Panel moderator, {{< person "Genevieve Allen Hearn" >}} (The Grapevine)
 
 Panellists:
 
-* Mark Richards (Annapolis Valley Regional School Board - EDTech Consultant)
-* Nick Baskwill (Annapolis Valley Regional School Board - Primary Educator)
-* Darcy Benoit (Acadia University - CS Development Consultant)
-* Sarah Ryan (Brilliant Labs / Labos créatifs - Program Coordinator, NS)
-* Michael Caplan (Refresh Annapolis Valley - Extra-curricular CS Programming )
-* Daniel L. Silver (Acadia University - University Educator)
-* Scott Olszowiec (Consultant for Ulnooweg Development Group Inc - CS Programming)
-* Randy Lynn Newman (WISE Acadia)
+* {{< person "Mark Richards" >}} (Annapolis Valley Regional School Board - EDTech Consultant)
+* {{< person "Nick Baskwill" >}} (Annapolis Valley Regional School Board - Primary Educator)
+* {{< person "Dr Darcy Benoit" >}} (Acadia University - CS Development Consultant)
+* {{< person "Sarah Ryan" >}} (Brilliant Labs - Program Coordinator, NS)
+* {{< person "Michael Caplan" >}} (Refresh Annapolis Valley - Extra-curricular CS Programming )
+* {{< person "Dr Daniel Silver" >}} (Acadia University - University Educator)
+* {{< person "Scott Olszowiec" >}} (Consultant for Ulnooweg Development Group Inc - CS Programming)
+* {{< person "Dr Randy Newman" >}} (WISE Acadia)
