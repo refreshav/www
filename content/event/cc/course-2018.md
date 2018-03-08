@@ -28,7 +28,7 @@ Mike Caplan is a web application developer with over 20 years experience working
 
 {{< pic src="images/project/creative-computing/mruga.jpg" title="Mrugakshee Palwe" align="right" >}}
 
-Mrugakshee Palwe is a newly minted Computer Scientist, graduating from the Jodrey School of Computer Science at Acadia University Spring 2018.  A leader in the computer scientist community at Acadia, she was Co-President of the Acadia Computer Science Society as well as an active member in Women In Science and Engineering Acadia. Mrugakshee has run several programs working with girls and boys on divers topics within the computer sciences.
+Mrugakshee Palwe is a newly minted Computer Scientist, graduating from the Jodrey School of Computer Science at Acadia University Spring 2018.  A leader in the computer scientist community at Acadia, she was Co-President of the Acadia Computer Science Society as well as an active member in Women In Science and Engineering Acadia. Mrugakshee has run several programs working with girls and boys on diverse topics within the computer sciences.
 
 Teen mentors:
 
