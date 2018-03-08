@@ -1,11 +1,15 @@
 +++
-date = 2016-09-11T19:00:00Z
-draft = false
-title = "Creative Computing"
 banner = "images/project/creative-computing/banner"
-images = ["images/project/creative-computing/banner-medium.jpg"]
-icon = "images/project/creative-computing/icon.png"
-topics = ["Computer Science", "Tech-Ed"]
+images = ["images/event/scratchfest/banner-medium.jpg"]
+date = "2017-01-09T18:00:00-04:00"
+PublishDate = "2016-12-01T19:00:00-03:00"
+draft = false
+event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
+project = "creative-computing"
+event_sponsors = ["Acadia Entrepreneurship Centre", "Acadia University"]
+title = "Creative Computing Course 2017"
+topics = ["tech-ed"]
+pics = []
 +++
 
 Creative Computing is a course developed by an international network of educators passionate about exposing kids to the computer sciences.  Broken up into 7 units, this course uses the popular Scratch programming environment to aid young people (aged 8 to 13) in learning the basics of software development.  Scratch is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.
