@@ -1,6 +1,6 @@
 +++
 banner = "images/project/creative-computing/banner"
-images = ["images/event/scratchfest/banner-medium.jpg"]
+images = ["images/project/creative-computing/banner-medium.jpg"]
 date = "2018-04-05T18:00:00-04:00"
 PublishDate = "2016-12-01T19:00:00-03:00"
 draft = false
@@ -32,7 +32,7 @@ Mrugakshee Palwe is a newly minted Computer Scientist, graduating from the Jodre
 
 Teen mentors:
 
-* Anna is one of our teen mentors.  She is an experienced Scratcher, star student, and avid Girl Guider.
+* Anna is one of our teen mentors.  She is an experienced Scratcher, star student, and avid Girl Guider.  Besides coding, Anna loves Harry Potter, Star Wars and musical theatre.
 
 * Nia is a veteran of the Creative Computing course as well as a mentor of our Creative Computing camp in 2017.  Technically proficient in the world of Scratch, she brings amazing design skills to Scratch project work.
 

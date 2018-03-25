@@ -1,6 +1,6 @@
 +++
 banner = "images/project/creative-computing/banner"
-images = ["images/event/scratchfest/banner-medium.jpg"]
+images = ["images/project/creative-computing/banner-medium.jpg"]
 date = "2017-01-09T18:00:00-04:00"
 PublishDate = "2016-12-01T19:00:00-03:00"
 draft = false

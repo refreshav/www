@@ -11,6 +11,10 @@ twitter = "AshleyKGreene"
 linkedin = "https://www.linkedin.com/in/ashleykatherinegreene/"
 +++
 
-Lawyer by training, reformed growth-hacker and marketer, and qualitative #datageek, Ashley is the CEO & Founder of Instratify and on a mission to empower the customer value maximization movement. Happier, more successful customers = happier investors. 
-
-When Ashley's not doing Instratify duties or speaking at conferences, she's travelling for fun, a slight adrenaline junkie, obsessed with anything HBO produces, and fits in as many tennis matches as possible.
+Ashley Greene, J.D., is the Founder & CEO of <a href="http://www.instratify.co/">Instratify</a>, a growth-focused customer research firm for software and e-commerce businesses. Ashley is known for using her legal training to help companies get inside their customers’ heads, so they can achieve and maintain sustainable hypergrowth.
+ 
+Ashley’s advised dozens of tech companies and has worked on projects with businesses from Fortune 500 companies to tech startups. Ashley writes and speaks on growth / customer insight, and has served as an advisor/trainer for leading startup organizations including Ryerson, Volta, and Communitech. She also contributes to publications such as the <a href="https://www.huffingtonpost.com/entry/57bde2a7e4b00c54015c110a?timestamp=1475509446959">Huffington Post</a>, Foundr, and <a href="http://entrevestor.com/kw/blog/5-startup-marketing-predictions-for-2016">Entrevestor</a>.
+ 
+Ashley holds a B.B.A. from Acadia and a J.D. (specializing in corporate law) from the Schulich School of Law at Dalhousie University.
+ 
+Ashley is currently working on a forthcoming book entitled _Humanizing Business: The Secret to Rapid Growth._
