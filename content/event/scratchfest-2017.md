@@ -1,6 +1,6 @@
 +++
-banner = "images/event/scratchfest/banner"
-images = ["images/event/scratchfest/banner-medium.jpg"]
+banner = "images/event/scratchfest-2017/banner"
+images = ["images/event/scratchfest-2017/banner-medium.jpg"]
 date = "2017-06-24T12:00:00-04:00"
 PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
@@ -60,13 +60,13 @@ Several amazing Valley business tossed support our way to pull off this event.  
 <div class="row">
   <div class="large-4 columns">
     <div class="card">
-      <img src="/images/event/scratchfest/acadia.png">
+      <img src="/images/event/scratchfest-2017/acadia.png">
     </div>
   </div>
   
   <div class="large-4 columns">
       <div class="card">
-        <img src="/images/event/scratchfest/colibri.png">
+        <img src="/images/event/scratchfest-2017/colibri.png">
         <div class="card-section">
           <p>Colibri Software</p>
         </div>
@@ -75,7 +75,7 @@ Several amazing Valley business tossed support our way to pull off this event.  
  
  <div class="large-4 columns">
      <div class="card">
-       <img src="/images/event/scratchfest/progeny.png">
+       <img src="/images/event/scratchfest-2017/progeny.png">
      </div>
    </div>
   
@@ -84,20 +84,20 @@ Several amazing Valley business tossed support our way to pull off this event.  
 <div class="row">
   <div class="large-4 columns">
     <div class="card">
-      <img src="/images/event/scratchfest/precisionhawk.png">
+      <img src="/images/event/scratchfest-2017/precisionhawk.png">
     </div>
   </div>
   
   
   <div class="large-4 columns">
     <div class="card">
-      <img src="/images/event/scratchfest/henryschein.png">
+      <img src="/images/event/scratchfest-2017/henryschein.png">
     </div>
   </div>
   
   <div class="large-4 columns">
     <div class="card">
-      <img src="/images/event/scratchfest/singolar.png">
+      <img src="/images/event/scratchfest-2017/singolar.png">
     </div>
   </div>
 </div>
@@ -106,19 +106,19 @@ Several amazing Valley business tossed support our way to pull off this event.  
 <div class="row">
   <div class="large-4 columns">
     <div class="card">
-      <img src="/images/event/scratchfest/frostbyte.png">
+      <img src="/images/event/scratchfest-2017/frostbyte.png">
     </div>
   </div>
   
   <div class="large-4 columns">
       <div class="card">
-        <img src="/images/event/scratchfest/automattic.png">
+        <img src="/images/event/scratchfest-2017/automattic.png">
       </div>
     </div>
   
   <div class="large-4 columns">
         <div class="card">
-          <img src="/images/event/scratchfest/aec.png">
+          <img src="/images/event/scratchfest-2017/aec.png">
         </div>
       </div>
   

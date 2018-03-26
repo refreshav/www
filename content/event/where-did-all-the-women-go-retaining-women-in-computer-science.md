@@ -14,5 +14,5 @@ topics = ["Education", "Women in Tech"]
 organizations = ["Jodery School of Computer Science at Acadia University", "Women in Science and Engeering at Acadia University", "Acadia University"]
 +++
 
-Over the last 30 years, the number of women entering Computer Science university programs has dropped from 50% to around 10%. Once in the program, women have a higher drop out rate than men.  And women graduating with Computer Science degrees often leave the field and pursue alternate careers. {{< person "Dr Randy Newman" >}} and {{< person "Cindy Trudel" >}} have been actively researching this phenomenon over that last few years. In this Refresh Annapolis Valley talk, Randy and Cindy will discuss the problem, the programs that Acadia has in place, and the needs for the future.
+Over the last 30 years, the number of women entering Computer Science university programs has dropped from 50% to around 10%. Once in the program, women have a higher drop out rate than men.  And women graduating with Computer Science degrees often leave the field and pursue alternate careers. {{< person "Dr Randy Newman" >}} and {{< person "Cindy Trudel" >}} have been actively researching this phenomenon over the last few years. In this Refresh Annapolis Valley talk, Randy and Cindy will discuss the problem, the programs that Acadia has in place, and the needs for the future.
 
