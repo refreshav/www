@@ -1,18 +1,20 @@
 +++
 banner = "images/event/scratchfest-2018/banner"
-images = ["images/event/scratchfest-2018/banner-medium.jpg"]
+images = ["images/event/scratchfest-2018/banner-medium.png"]
 date = "2018-06-23T12:00:00-04:00"
 PublishDate = "2018-03-01T19:00:00-03:00"
 draft = false
-event_facebook = "https://www.facebook.com/events/355334594802721/"
-event_eventbright = "https://www.eventbrite.ca/e/scratchfest-tickets-34931270370"
+event_facebook = "https://www.facebook.com/events/935284203316308/"
+event_eventbright = "https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"
 event_location = "Sheldon L. Fountain Learning Commons, 26 Crowell Dr.,  Wolfville, NS"
-project = "creative-computing"
+project = "meetups"
 event_sponsors = ["Acadia Entrepreneurship Centre", "Acadia University"]
 title = "#ScratchFest"
 topics = ["tech-ed"]
 pics = []
 +++
+
+{{< youtube 0O9qtmW4tSY >}}
 
 # Calling all Digital Builders
 
