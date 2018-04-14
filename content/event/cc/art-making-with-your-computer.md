@@ -4,6 +4,7 @@ images = ["images/event/cc/art-making-with-your-computer/banner-medium.jpg"]
 date = "2018-05-01T16:00:00-03:00"
 PublishDate = "2018-01-01T19:00:00-03:00"
 draft = false
+event_facebook = "https://www.facebook.com/events/569584653409780/"
 event_eventbright = "http://www.valleylibrary.ca/event/art-making-your-computer"
 event_location = "Wolfville Memorial Library, 21 Elm Avenue, Wolfville, NS"
 project = "creative-computing"

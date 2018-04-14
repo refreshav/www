@@ -4,6 +4,7 @@ images = ["images/event/cc/animating-stories-interactive-stories-with-scratch/ba
 date = "2018-05-08T16:00:00-03:00"
 PublishDate = "2018-01-01T19:00:00-03:00"
 draft = false
+event_facebook = "https://www.facebook.com/events/1689972901092881/"
 event_eventbright = "http://www.valleylibrary.ca/event/animating-stories-interactive-stories-scratch"
 event_location = "Wolfville Memorial Library, 21 Elm Avenue, Wolfville, NS"
 project = "creative-computing"

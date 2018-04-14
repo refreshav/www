@@ -4,6 +4,7 @@ images = ["images/event/cc/video-game-making-and-circuitry/banner-medium.jpg"]
 date = "2018-05-15T16:00:00-03:00"
 PublishDate = "2018-01-01T19:00:00-03:00"
 draft = false
+event_facebook = "https://www.facebook.com/events/579273155781424/"
 event_eventbright = "http://www.valleylibrary.ca/event/video-game-making-and-circuitry"
 event_location = "Wolfville Memorial Library, 21 Elm Avenue, Wolfville, NS"
 project = "creative-computing"
