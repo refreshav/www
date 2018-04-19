@@ -1,6 +1,6 @@
 [submodule "static/slides/processing"]
 	path = static/slides/processing
 	url = https://github.com/RefreshAV/klc-generative-art-with-processing
-[submodule "static/slides/into-to-ai"]
-	path = static/slides/into-to-ai
-	url = https://github.com/RefreshAV/llc-intro-to-ai-master.git
+[submodule "static/slides/intro-to-ai"]
+	path = static/slides/intro-to-ai
+	url = https://github.com/RefreshAV/llc-intro-to-ai-master
