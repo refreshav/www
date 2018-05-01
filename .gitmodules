@@ -4,3 +4,6 @@
 [submodule "static/slides/intro-to-ai"]
 	path = static/slides/intro-to-ai
 	url = https://github.com/RefreshAV/llc-intro-to-ai-master
+[submodule "static/slides/scratch-art"]
+	path = static/slides/scratch-art
+	url = https://github.com/RefreshAV/klc-artmaking-with-scratch.git
