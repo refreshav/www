@@ -13,7 +13,7 @@ title = "Hacking Hardware - Programming The Physical World "
 topics = ["Hardware Hacking"]
 +++
 
-Interactive jewelry, DIY laser tag, robots you design and build.  In this Hoist workshop, teens will will explore electronics by learning how to build and program robots .  No coding or electronics experience?  No worries.  This fun introductory workshop is meant for the beginner.  Using the Circuit Playground, participants will learn how coding and circuits are being used to create amazing creations.  This workshop is for teens with no prior experience with programming required. 
+Interactive jewelry, DIY laser tag, robots you design and build.  In this Hoist workshop, teens will explore electronics by learning how to build and program robots .  No coding or electronics experience?  No worries.  This fun introductory workshop is meant for the beginner.  Using the Circuit Playground, participants will learn how coding and circuits are being used to create amazing creations.  This workshop is for teens with no prior experience with programming required. 
 
 Build your skills for <a href="/event/scratchfest-2018">#ScratchFest - a digital builders competition</a>.  June 23 to 24.  Over $500 in prizes to be won.
 
