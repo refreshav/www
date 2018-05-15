@@ -7,3 +7,6 @@
 [submodule "static/slides/scratch-art"]
 	path = static/slides/scratch-art
 	url = https://github.com/RefreshAV/klc-artmaking-with-scratch.git
+[submodule "static/slides/scratch-stories"]
+	path = static/slides/scratch-stories
+	url = https://github.com/RefreshAV/klc-animating-with-scratch.git
