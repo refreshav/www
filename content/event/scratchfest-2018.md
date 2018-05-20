@@ -45,7 +45,7 @@ Over **$500** in prizes will be awarded for the best in category projects.
 
 Pre-registration is required.  
 
-<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-tickets-34931270370"><i class="fa fa-rocket" aria-hidden="true"></i> Get It Done! <i class="fa fa-rocket" aria-hidden="true"></i></a>
+<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"><i class="fa fa-rocket" aria-hidden="true"></i> Get It Done! <i class="fa fa-rocket" aria-hidden="true"></i></a>
 
 ## FAQ
 
