@@ -36,7 +36,7 @@
                     <dt><i class="fa fa-clock-o" aria-hidden="true"></i> Date</dt>
                     <dd itemprop="startDate" content="{{ dateFormat "2006-01-02T15:04:05-07:00" .Date }}">
                         {{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}
-                        {{ if lt .Date .Now }}
+                        {{ if lt .Date now }}
                         <span class="warning label">Archived</span>
                         {{ end }}
                     </dd>
@@ -55,14 +55,14 @@
                         {{ else if eq .Params.project "hoist" }}
                             <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Hoist AV</a> is a monthly series of workshops for teens interested in design, entrepreneurship and programming.
                         {{ else if eq .Params.project "creative-computing" }}
-                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Creative Computing</a> is a series of workshops for kids 8 to 13 interested in computer science.
+                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Creative Computing</a> is a series of workshops for kids interested in computer science.
                         {{ end }}
                     </dd>
                     {{ end }}
 
                     {{ if .Params.event_facebook }}
                     <dt><i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-                        {{ if lt "Date" .Now }}
+                        {{ if lt "Date" now }}
                         Event Page
                         {{ else }}
                         RSVP
@@ -159,7 +159,7 @@
 
         <footer class="row columns small-up-2 medium-up-3 large-up-4">
 
-            {{ if gt .Date .Now }}
+            {{ if gt .Date now }}
 
                 <h3 class="text-center">{{ dateFormat "Monday, Jan 2, 2006 at 3:04PM" .Date }}</h3>
 

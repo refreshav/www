@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ $newposts := (where (where .Data.Pages.Reverse "Type" "event") "Date" ">=" .Now) }}
+{{ $newposts := (where (where .Data.Pages.Reverse "Type" "event") "Date" ">=" now) }}
 
 {{ if $newposts }}
 
@@ -162,7 +162,7 @@
     <div id="past" class="large-6 columns">
         <h3>Past Events (A Sampling)</h3>
 
-        {{ range (where (where .Data.Pages "Type" "event") "Date" "<" .Now) }}
+        {{ range (where (where .Data.Pages "Type" "event") "Date" "<" now) }}
 
         <div class="media-object">
             <div class="media-object-section">
