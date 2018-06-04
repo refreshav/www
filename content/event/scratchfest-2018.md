@@ -28,7 +28,7 @@ Kids (8 to 13 years old) will work on Scratch projects in 1 of 3 categories:
 - **Interactive Stories:**  With Scratch interactive story projects, you will take your audience through an amazing world of your own creation. 
 - **Video Games:**  Action, strategy, roll playing, sports.... build your own game for your players to compete at.
 
-Teens (13 to 17 years old) will work on projects using **whatever software technologies they choose**.  We will have on hands experts able to assist teens with:
+Teens (13 to 17 years old) will work on projects using **whatever software technologies they choose**.  We will have workshops and hands experts able to assist teens with:
 
 - **Scratch:** See how far you can take the Scratch environment to build unique wonders.
 - **Web Development:** HTML, CSS, JavaScript... what sort of web application will you prototype?
@@ -51,6 +51,7 @@ Pre-registration is required.
 
 - **What is Scratch?**  <a href="https://scratch.mit.edu/" target="_blank">Scratch</a> is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.
 - **Do I need to know Scratch to participate?**  Having some basic prior knowledge of the Scratch programming environment is advantageous.  There will be some workshops at the event to help you out.
+- **Do I need to know how to code to participate?**  Having some basic prior knowledge of any coding environment is advantageous, but unnecessary.  There will be workshops at the event to help you out.
 - **How many days is _#ScratchFest_?**  _#ScratchFest_ runs both Saturday June 23th, and Sunday June 24th.  The event each day runs from 12 to 4PM.
 - **What is the age range for participants?**  Scratchers at _#ScratchFest_ are aged 8 to 13.  Coders at _#ScratchFest_ are aged 13 to 17.
 - **I'm 13 and want to work on a Scratch project.  Am I in the kids category or the teen category?**  If you are an experienced Scratcher, you are in the teen category.
