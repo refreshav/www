@@ -30,6 +30,8 @@ project = "projects"
 
   facebookAppId = "641839162645576"
 
+  facebookPixelId = "1716195941798152"
+
   # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.
   math = false
 

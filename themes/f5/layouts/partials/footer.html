@@ -78,6 +78,9 @@
 {{ end }}
 <script src="{{ .Site.BaseURL }}js/f5.js?v3"></script>
 {{ template "_internal/google_analytics_async.html" . }}
-
+{{ if .Site.Params.facebookPixelId }}
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id={{ .Site.Params.facebookPixelId }}&ev=PageView&noscript=1" /></noscript>
+{{ end }}
 </body>
 </html>
