@@ -43,6 +43,7 @@
             'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '{{ .Site.Params.facebookPixelId }}');
         fbq('track', 'PageView');
+        fbq('track', 'ViewContent');
     </script>
     {{ end }}
 
