@@ -62,9 +62,96 @@ Pre-registration is required.
 - **What about food?**  This is a bring your own food event.  Please pack enough food to fuel yourself for the 4 hour workday.  Please do not bring food items that are common food allergies.  
 - **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids. 
 
+## Mentors and Judges
+
+It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class="fa fa-handshake-o"></i>** dedicate their time to helping you be all that you can be at #ScratchFest.  **Judges <i class="fa fa-gavel"></i>** review your projects offering critical feedback and your gateway to winning!
+
+<div class="row">
+    <div class="large-6 columns">
+    <ul>
+        <li>Mike Caplan - Henry Schein <i class="fa fa-handshake-o"></i></li>
+        <li>Shameer - Singolar <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        <li>Andrew Ramanujam <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        <li>Hoang Q. Bun <i class="fa fa-handshake-o"></i></li>
+        <li>Pierre Clouthier - Progeny Genealogy <i class="fa fa-handshake-o"></i></li>
+        <li>Brent Morine <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        <li>Nia <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        <li>Cindy Trudel - WISE Acadia <i class="fa fa-gavel"></i></li>
+        <li>Randy Newman - WISE Acadia <i class="fa fa-gavel"></i></li>
+        <li>Tyler Farmer - Digital Nova Scotia <i class="fa fa-handshake-o"></i></li>
+        <li>Gary Gaudet - Brilliant Labs <i class="fa fa-handshake-o"></i></li>
+    </ul>
+    </div>
+    <div class="large-6 columns">
+        <ul>
+            <li>Nellie Keating - Brilliant Labs <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Jonathan Paturel <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Roger Haynes <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Margaret Hopkins - Robats <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Lydia Wilks - Robats <i class="fa fa-handshake-o"></i></li>
+            <li>Xiaoqi Cai - IBM <i class="fa fa-handshake-o"></i></li>
+            <li>Adam Conner - AVRCE <i class="fa fa-handshake-o"></i></li>
+            <li>Keith Diehl <i class="fa fa-handshake-o"></i></li>
+            <li>Will Macdonald <i class="fa fa-handshake-o"></i></li>
+            <li>Ariane Hanlon - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        </ul>
+    </div>
+</div>
+
 ## Sponsors
 
-It takes a community.  If you are interested in sponsoring #ScratchFest, drop us a line.
+Several amazing business tossed support our way to pull off this event.  Hats off to our Valley IT community.
+
+<div class="row">
+  <div class="large-4 columns">
+    <div class="card">
+      <a href="https://www2.acadiau.ca/home.html"><img src="/images/event/scratchfest-2018/acadia.png"></a>
+    </div>
+  </div>
+  <div class="large-4 columns">
+      <div class="card">
+        <a href="https://www.henryschein.com/"><img src="/images/event/scratchfest-2017/henryschein.png"></a>
+      </div>
+    </div>
+  <div class="large-4 columns">
+     <div class="card">
+       <a href="http://progenygenealogy.com/"><img src="/images/event/scratchfest-2017/progeny.png"></a>
+     </div>
+   </div>
+</div>
+
+<div class="row">
+  <div class="large-4 columns">
+    <div class="card">
+      <a href="http://frostbyteinteractive.com/"><img src="/images/event/scratchfest-2017/frostbyte.png"></a>
+    </div>
+  </div>
+  <div class="large-4 columns">
+    <div class="card">
+      <a href="http://www.makerswindsor.com/"><img src="/images/event/scratchfest-2018/makers.png"></a>
+    </div>
+  </div>
+  <div class="large-4 columns">
+    <div class="card">
+      <a href="http://www.acadiaentrepreneurshipcentre.com/"><img src="/images/event/scratchfest-2017/aec.png"></a>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="large-6 columns">
+    <div class="card">
+      <a href="http://www.mashuplab.ca/"><img src="/images/event/scratchfest-2018/mashuplab.jpg"></a>
+    </div>
+  </div>
+  <div class="large-6 columns">
+      <div class="card">
+        <a href="http://www.acadiaentrepreneurshipcentre.com/launchbox/about-launchbox/"><img src="/images/event/scratchfest-2018/launchbox.jpg"></a>
+      </div>
+    </div>
+</div>
+
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js" integrity="sha256-GDuv15eqQpLqWvLkRnd+EvvsHLngEUnerY5BDSYfLuM=" crossorigin="anonymous"></script>
 <script
