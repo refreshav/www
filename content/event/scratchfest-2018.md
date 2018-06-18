@@ -94,6 +94,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
             <li>Keith Diehl <i class="fa fa-handshake-o"></i></li>
             <li>Will Macdonald <i class="fa fa-handshake-o"></i></li>
             <li>Ariane Hanlon - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Sarah Li - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
         </ul>
     </div>
 </div>
