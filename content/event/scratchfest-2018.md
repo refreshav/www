@@ -167,6 +167,14 @@ Several amazing business tossed support our way to pull off this event.  Hats of
 </div>
 
 
+<style>
+.card img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+</style>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js" integrity="sha256-GDuv15eqQpLqWvLkRnd+EvvsHLngEUnerY5BDSYfLuM=" crossorigin="anonymous"></script>
 <script
    type="text/javascript"
@@ -273,10 +281,3 @@ function talk() {
 
 </script>
 <script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
-<style>
-.card img {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-</style>
