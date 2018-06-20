@@ -153,6 +153,19 @@ Several amazing business tossed support our way to pull off this event.  Hats of
 </div>
 
 
+<div class="row">
+  <div class="large-6 columns">
+    <div class="card">
+      <a href="https://cs.acadiau.ca/"><img src="/images/event/scratchfest-2018/jsocs.png"></a>
+    </div>
+  </div>
+  <div class="large-6 columns">
+      <div class="card">
+        <a href="https://www.brilliantlabs.ca/"><img src="/images/event/scratchfest-2018/bl-big.png"></a>
+      </div>
+    </div>
+</div>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.0/p5.min.js" integrity="sha256-GDuv15eqQpLqWvLkRnd+EvvsHLngEUnerY5BDSYfLuM=" crossorigin="anonymous"></script>
 <script
@@ -260,3 +273,10 @@ function talk() {
 
 </script>
 <script src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+<style>
+.card img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+</style>
