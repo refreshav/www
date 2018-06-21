@@ -70,8 +70,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
     <div class="large-6 columns">
     <ul>
         <li>Mike Caplan - Henry Schein <i class="fa fa-handshake-o"></i></li>
-        <li>Shameer - Singolar <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-        <li>Andrew Ramanujam <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+        <li>Shameer - Singolar <i class="fa fa-handshake-o"></i></li>
         <li>Hoang Q. Bun <i class="fa fa-handshake-o"></i></li>
         <li>Pierre Clouthier - Progeny Genealogy <i class="fa fa-handshake-o"></i></li>
         <li>Brent Morine <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
