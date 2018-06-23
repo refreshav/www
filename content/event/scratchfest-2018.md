@@ -71,7 +71,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
     <ul>
         <li>Mike Caplan - Henry Schein <i class="fa fa-handshake-o"></i></li>
         <li>Shameer - Singolar <i class="fa fa-handshake-o"></i></li>
-        <li>Hoang Q. Bun <i class="fa fa-handshake-o"></i></li>
+        <li>Afnan Farooqui <i class="fa fa-gavel-o"></i></li>
         <li>Pierre Clouthier - Progeny Genealogy <i class="fa fa-handshake-o"></i></li>
         <li>Brent Morine <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
         <li>Nia <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
@@ -94,6 +94,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
             <li>Will Macdonald <i class="fa fa-handshake-o"></i></li>
             <li>Ariane Hanlon - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
             <li>Sarah Li - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
+            <li>Vistassja Williams <i class="fa fa-gavel"></i></li>
         </ul>
     </div>
 </div>
