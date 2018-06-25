@@ -79,6 +79,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
         <li>Randy Newman - WISE Acadia <i class="fa fa-gavel"></i></li>
         <li>Tyler Farmer - Digital Nova Scotia <i class="fa fa-handshake-o"></i></li>
         <li>Gary Gaudet - Brilliant Labs <i class="fa fa-handshake-o"></i></li>
+        <li>Darcy Benoit - Jodery School of Computer Science at Acadia University <i class="fa fa-gavel"></i></li>
     </ul>
     </div>
     <div class="large-6 columns">
@@ -95,6 +96,7 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
             <li>Ariane Hanlon - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
             <li>Sarah Li - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
             <li>Vistassja Williams <i class="fa fa-gavel"></i></li>
+            <li>Danny Silver - Jodery School of Computer Science at Acadia University <i class="fa fa-handshake-o"></i> <i class="fa fa-gavel"></i></li>
         </ul>
     </div>
 </div>
