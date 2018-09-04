@@ -9,7 +9,6 @@ facebook = "RefreshAnnapolisValley"
 twitter = "refreshav"
 email = "refreshannapolisvalley@gmail.com"
 topics = ["Everything"]
-people = ["Michael Caplan", "Paul Richards", "Pierre Clouthier", "Sandy Mcfadden", "Elizabeth Garrett", "Vincent Grovestein"]
 website = "http://refreshannapolisvalley.org/"
 linkedin = "https://www.linkedin.com/groups/5171504"
 +++
