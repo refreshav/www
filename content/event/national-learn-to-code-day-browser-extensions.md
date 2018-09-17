@@ -8,7 +8,7 @@ event_eventbright = "https://www.eventbrite.ca/e/national-learn-to-code-day-buil
 event_facebook = "https://www.facebook.com/events/1084419055016000/"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "meetups"
-event_sponsors = ["Acadia Entrepreneurship Centre"]
+event_sponsors = ["Acadia Entrepreneurship Centre", "Women in Science and Engineering at Acadia"]
 title = "National Learn to Code Day: Build a Browser Extension!"
 topics = ["Web Dev", "Women In Tech"]
 +++
@@ -23,7 +23,7 @@ Never coded before? Have no prior experience with Computer Science? No problem! 
 
 During the workshop, you'll learn:
 
-* learn basic programming techniques and concepts that are translatable to other programming languages
+* basic programming techniques and concepts that are translatable to other programming languages
 * review the basic building blocks of how HTML, CSS, and JavaScript work together to create richer online experiences
 * load and update extensions using Chrome’s developer mode
 * modify and replace elements using JavaScript (more kittens on the web!)
@@ -40,3 +40,5 @@ What you must bring:
 Don't forget to get your ticket for the event. Space is limited! 
 
 
+
+Please note that this is not a Canada Learning Code affiliated event, but we want to acknowledge the organization for the creation of the event and educational content delivered under a Creative Commons license!

@@ -10,3 +10,6 @@
 [submodule "static/slides/scratch-stories"]
 	path = static/slides/scratch-stories
 	url = https://github.com/RefreshAV/klc-animating-with-scratch.git
+[submodule "static/slides/extensions"]
+	path = static/slides/extensions
+	url = https://github.com/RefreshAV/llc-intro-to-browser-extensions.git
