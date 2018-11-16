@@ -27,7 +27,7 @@ Join **Dr. M. Lynn Aylward** (Acadia, School of Education - research interests i
 
 
 
-#kidsCanTeachThemself #selfDirectedEducation #MinimallyInvasiveEducation #doTeachersMatter? #futureOfLearning #InternetAsEducator
+#selfDirectedEducation #MinimallyInvasiveEducation #doTeachersMatter? #futureOfLearning #InternetAsEducator #kidsCanTeachThemself
 
 
 
