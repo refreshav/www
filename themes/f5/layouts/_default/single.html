@@ -1,22 +1,29 @@
 {{ partial "header.html" . }}
-<div class="container">
+<main role="main">
 
     <article class="article" itemscope itemtype="http://schema.org/Article">
 
-        {{ if .Params.image }}
-        <img src="{{ $.Site.BaseURL }}img/{{ .Params.image }}" class="article-banner" itemprop="image">
-        {{end}}
+        <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]">
 
-        <h1 itemprop="name">{{ .Title }}</h1>
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 itemprop="name">
+                    {{ .Title }}
+                </h1>
+            </div>
 
+        </header>
 
         <div class="article-style" itemprop="articleBody">
-            {{ .Content }}
+            <main class="row columns small-up-2 medium-up-3 large-up-4">
+
+                {{ .Content }}
+
+            </main>
         </div>
 
     </article>
 
     {{ partial "section_pager.html" . }}
 
-</div>
+</main>
 {{ partial "footer.html" . }}

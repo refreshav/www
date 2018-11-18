@@ -39,6 +39,10 @@ dl.inline dd {
     margin-top: .9375rem;
 }
 
+#global-call {
+    margin: 0;
+}
+
 #my-info ul.menu li a {
     color: #395d76;
 }

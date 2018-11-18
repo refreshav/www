@@ -11,11 +11,11 @@
     {{ with .Site.Params.name }}<meta name="author" content="{{ . }}">{{ end }}
     {{ with .Site.Params.role }}<meta name="description" content="{{ . }}">{{ end }}
 
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.1/motion-ui.min.css" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
-    <link rel="stylesheet" href="https://unpkg.com/flickity@2.0/dist/flickity.min.css">
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/f5.css?6">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0/css/foundation-float.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/2.0.3/motion-ui.min.css" />
+    <script defer src="https://use.fontawesome.com/releases/v5.5.0/js/all.js" integrity="sha384-GqVMZRt5Gn7tB9D9q7ONtcp4gtHIUEW/yG7h98J7IpE3kpi+srfFyyB/04OV6pG0" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/f5.css?7">
 
     <link rel="shortcut icon" href="{{ .Site.BaseURL }}images/favicon.ico" type="image/x-icon">
     <link rel="canonical" href="{{ .Permalink }}">
@@ -29,6 +29,10 @@
 
     {{ if .Site.Params.facebookAppId }}
     <meta property="fb:app_id" content="{{ .Site.Params.facebookAppId }}" />
+    {{ end }}
+
+    {{ if .Site.Params.googleSiteVerification }}
+    <meta name="google-site-verification" content="{{ .Site.Params.googleSiteVerification }}" />
     {{ end }}
 
     {{ if .Site.Params.facebookPixelId }}
@@ -48,6 +52,9 @@
     {{ end }}
 
 
+    <script src="https://donorbox.org/install-popup-button.js" type="text/javascript" defer></script>
+    <script> window.DonorBox = { widgetLinkClassName: 'custom-dbox-popup' } </script>
+
 </head>
 <body id="top">
 
@@ -63,7 +70,7 @@
                     {{ $baseUrl := .Site.BaseURL }}
                     {{ range .Site.Menus.main }}
                     <li>
-                        <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} active{{end}}" href="{{ $baseUrl }}{{.URL}}">{{ .Name }}</a>
+                        <a class="{{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} is-active{{end}}" href="{{ $baseUrl }}{{.URL}}">{{ .Name }}</a>
                     </li>
                     {{ end }}
 
@@ -80,4 +87,10 @@
                         <span class="title-bar-title">Refresh Annapolis Valley</span>
                     </div>
                 </div>
+            </div>
+
+            <div id="global-call" class="primary callout">
+                <h3><i class="fas fa-info-circle"></i> Dear Refresh Annapolis Valley Community,</h3>
+                <p class="lead">If you believe in our mandate to support the creative, technical, and professional culture of digital technology endeavours in the Annapolis Valley, then please lend us your support.  Help us make 2019 awesome!</p>
+                <a class="button large custom-dbox-popup" href="https://donorbox.org/refresh-annapolis-valley?default_interval=m&amount=25"><i class="fas fa-hand-holding-usd"></i> Donate</a>
             </div>

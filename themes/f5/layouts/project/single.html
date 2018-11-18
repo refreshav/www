@@ -29,48 +29,48 @@
                     <dl class="inline">
 
                         {{ if .Params.location }}
-                        <dt><i class="fa fa-map-marker" aria-hidden="true"></i> Location</dt>
+                        <dt><i class="fas fa-map-marked-alt"></i> Location</dt>
                         <dd id="location">{{ .Params.location }}</dd>
                         {{ end }}
 
                         {{ if .Params.topics }}
-                        <dt><i class="fa fa fa-comments-o" aria-hidden="true"></i> Topic{{ if gt (len .Params.topics) 1 }}s{{ end }}</dt>
+                        <dt><i class="far fa-comments"></i> Topic{{ if gt (len .Params.topics) 1 }}s{{ end }}</dt>
                         <dd>{{ range $index, $topic := .Params.topics }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}topics/{{ . | urlize }}">{{ . }}</a>{{ end }}</dd>
                         {{ end }}
 
                         {{ if .Params.email }}
-                        <dt><i class="fa fa-envelope-o" aria-hidden="true"></i> Email</dt>
+                        <dt><i class="far fa-envelope"></i> Email</dt>
                         <dd><a href="mailto:{{ .Params.email }}">{{ .Params.email }}</a></dd>
                         {{ end }}
 
                         {{ if .Params.facebook }}
-                        <dt><i class="fa fa-facebook" aria-hidden="true"></i> Facebook</dt>
+                        <dt><i class="fab fa-facebook"></i> Facebook</dt>
                         <dd><a href="https://www.facebook.com/{{ .Params.facebook }}">Facebook</a></dd>
                         {{ end }}
 
                         {{ if .Params.twitter }}
-                        <dt><i class="fa fa-twitter" aria-hidden="true"></i> Twitter</dt>
+                        <dt><i class="fab fa-twitter"></i> Twitter</dt>
                         <dd><a href="https://twitter.com/{{ .Params.twitter }}">@{{ .Params.twitter }}</a></dd>
                         {{ end }}
 
                         {{ if .Params.linkedin }}
-                        <dt><i class="fa fa-linkedin" aria-hidden="true"></i> LinkedIn</dt>
+                        <dt><i class="fab fa-linkedin"></i> LinkedIn</dt>
                         <dd><a href="{{ .Params.linkedin }}">@LinkedIn</a></dd>
                         {{ end }}
 
                         {{ if .Params.website }}
-                        <dt><i class="fa fa-link" aria-hidden="true"></i> Website</dt>
+                        <dt><i class="fas fa-link"></i> Website</dt>
                         <dd><a href="{{ .Params.website }}">@www</a></dd>
                         {{ end }}
 
                         {{ if .Params.phone }}
-                        <dt><i class="fa fa-phone" aria-hidden="true"></i> Phone</dt>
+                        <dt><i class="fas fa-phone"></i> Phone</dt>
                         <dd><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></dd>
                         {{ end }}
 
 
                         {{ if .Params.people }}
-                        <dt><i class="fa fa-users" aria-hidden="true"></i> People</dt>
+                        <dt><i class="fas fa-users"></i> People</dt>
                         <dd>
 
                             {{ range $index, $person := .Params.people }}{{ if gt $index 0 }}, {{ end }}<a href="{{ $.Site.BaseURL }}person/{{ . | urlize }}">{{ . }}</a>{{ end }}

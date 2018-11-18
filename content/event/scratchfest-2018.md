@@ -25,7 +25,7 @@ During _#ScartchFest_, participants will brainstorm an idea, develop their proje
 Kids (8 to 13 years old) will work on Scratch projects in 1 of 3 categories:
 
 - **Interactive Artwork:**  Abstract, conceptual, or just plain weird, interactive artwork projects explore the combination of visuals and sound to create unique interactive presentations.
-- **Interactive Stories:**  With Scratch interactive story projects, you will take your audience through an amazing world of your own creation. 
+- **Interactive Stories:**  With Scratch interactive story projects, you will take your audience through an amazing world of your own creation.
 - **Video Games:**  Action, strategy, roll playing, sports.... build your own game for your players to compete at.
 
 Teens (13 to 17 years old) will work on projects using **whatever software technologies they choose**.  We will have workshops and hands experts able to assist teens with:
@@ -43,9 +43,9 @@ Over **$500** in prizes will be awarded for the best in category projects.
 
 ## Register
 
-Pre-registration is required.  
+Pre-registration is required.
 
-<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"><i class="fa fa-rocket" aria-hidden="true"></i> Get It Done! <i class="fa fa-rocket" aria-hidden="true"></i></a>
+<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"><i class="fas fa-rocket"></i> Get It Done! <i class="fas fa-rocket"></i></a>
 
 ## FAQ
 
@@ -59,44 +59,44 @@ Pre-registration is required.
 - **Can I work on a pre-existing project?**  Projects need to be created from "scratch" at the event.  You will have two days to begin, develop, tweak and complete your original project over the course of the weekend.
 - **How do I win?**  Participants will earn points from the community.  The projects with the highest points win.  Points will be awarded to individuals who help their neighbours with their tough Scratch programming problems.  The community will also award points to what they think are the best projects.  Finally, judges will award points to projects who best meet the judging criteria.
 - **When Does Judging Take Place?**  Project judging will happen "science fair style" starting at 2:30 PM on Sunday.  All participants, including parents, will be able to award points to each project.  Invite your friends and Grandma and Grandpa.
-- **What about food?**  This is a bring your own food event.  Please pack enough food to fuel yourself for the 4 hour workday.  Please do not bring food items that are common food allergies.  
-- **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids. 
+- **What about food?**  This is a bring your own food event.  Please pack enough food to fuel yourself for the 4 hour workday.  Please do not bring food items that are common food allergies.
+- **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids.
 
 ## Mentors and Judges
 
-It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class="fa fa-handshake-o"></i>** dedicate their time to helping you be all that you can be at #ScratchFest.  **Judges <i class="fa fa-gavel"></i>** review your projects offering critical feedback and your gateway to winning!
+It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class="far fa-handshake"></i>** dedicate their time to helping you be all that you can be at #ScratchFest.  **Judges <i class="fas fa-gavel"></i>** review your projects offering critical feedback and your gateway to winning!
 
 <div class="row">
     <div class="large-6 columns">
     <ul>
-        <li>Mike Caplan - Henry Schein <i class="fa fa-handshake-o"></i></li>
-        <li>Shameer - Singolar <i class="fa fa-handshake-o"></i></li>
-        <li>Afnan Farooqui <i class="fa fa-gavel-o"></i></li>
-        <li>Pierre Clouthier - Progeny Genealogy <i class="fa fa-handshake-o"></i></li>
-        <li>Brent Morine <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-        <li>Nia <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-        <li>Cindy Trudel - WISE Acadia <i class="fa fa-gavel"></i></li>
-        <li>Randy Newman - WISE Acadia <i class="fa fa-gavel"></i></li>
-        <li>Tyler Farmer - Digital Nova Scotia <i class="fa fa-handshake-o"></i></li>
-        <li>Gary Gaudet - Brilliant Labs <i class="fa fa-handshake-o"></i></li>
-        <li>Darcy Benoit - Jodery School of Computer Science at Acadia University <i class="fa fa-gavel"></i></li>
+        <li>Mike Caplan - Henry Schein <i class="far fa-handshake"></i></li>
+        <li>Shameer - Singolar <i class="far fa-handshake"></i></li>
+        <li>Afnan Farooqui <i class="fas fa-gavel"></i></li>
+        <li>Pierre Clouthier - Progeny Genealogy <i class="far fa-handshake"></i></li>
+        <li>Brent Morine <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+        <li>Nia <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+        <li>Cindy Trudel - WISE Acadia <i class="fas fa-gavel"></i></li>
+        <li>Randy Newman - WISE Acadia <i class="fas fa-gavel"></i></li>
+        <li>Tyler Farmer - Digital Nova Scotia <i class="far fa-handshake"></i></li>
+        <li>Gary Gaudet - Brilliant Labs <i class="far fa-handshake"></i></li>
+        <li>Darcy Benoit - Jodery School of Computer Science at Acadia University <i class="fas fa-gavel"></i></li>
     </ul>
     </div>
     <div class="large-6 columns">
         <ul>
-            <li>Nellie Keating - Brilliant Labs <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Jonathan Paturel <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Roger Haynes <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Margaret Hopkins - Robats <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Lydia Wilks - Robats <i class="fa fa-handshake-o"></i></li>
-            <li>Xiaoqi Cai - IBM <i class="fa fa-handshake-o"></i></li>
-            <li>Adam Conner - AVRCE <i class="fa fa-handshake-o"></i></li>
-            <li>Keith Diehl <i class="fa fa-handshake-o"></i></li>
-            <li>Will Macdonald <i class="fa fa-handshake-o"></i></li>
-            <li>Ariane Hanlon - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Sarah Li - IBM <i class="fa fa-gavel"></i> <i class="fa fa-handshake-o"></i></li>
-            <li>Vistassja Williams <i class="fa fa-gavel"></i></li>
-            <li>Danny Silver - Jodery School of Computer Science at Acadia University <i class="fa fa-handshake-o"></i> <i class="fa fa-gavel"></i></li>
+            <li>Nellie Keating - Brilliant Labs <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Jonathan Paturel <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Roger Haynes <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Margaret Hopkins - Robats <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Lydia Wilks - Robats <i class="far fa-handshake"></i></li>
+            <li>Xiaoqi Cai - IBM <i class="far fa-handshake"></i></li>
+            <li>Adam Conner - AVRCE <i class="far fa-handshake"></i></li>
+            <li>Keith Diehl <i class="far fa-handshake"></i></li>
+            <li>Will Macdonald <i class="far fa-handshake"></i></li>
+            <li>Ariane Hanlon - IBM <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Sarah Li - IBM <i class="fas fa-gavel"></i> <i class="far fa-handshake"></i></li>
+            <li>Vistassja Williams <i class="fas fa-gavel"></i></li>
+            <li>Danny Silver - Jodery School of Computer Science at Acadia University <i class="far fa-handshake"></i> <i class="fas fa-gavel"></i></li>
         </ul>
     </div>
 </div>
@@ -199,13 +199,13 @@ function getIP(json) {
         'Hello ' + json.ip + '. Come build with us.  Scratch Fest.  A digital builders competition',
         'How do you express your creativity digitally? ' + json.ip + '?  Scratch Fest.  Come build with us'
     ];
-    
+
     isInit++;
 }
 
 function setup() {
   var header = document.querySelector('main article header');
-  
+
   canvas = createCanvas(header.offsetWidth, header.offsetHeight);
   canvas.parent(header);
 
@@ -214,7 +214,7 @@ function setup() {
   for (var i = 0; i < 100; i++) {
     b[i] = new T(random(width), random(height))
   }
-  
+
   isInit++;
 }
 
@@ -233,7 +233,7 @@ function T(x, y) {
   this.s = 10
 
   this.update = function() {
-   
+
     this.pos.x += cos(this.angle);
     this.pos.y += sin(this.angle);
     this.angle += random(-0.2, 0.2);
@@ -263,13 +263,13 @@ var intervalId = setInterval(function(){
         clearInterval(intervalId);
         talk();
     }
-    
+
 }, 2000);
 
 
 function talk() {
     var voices = [];
-    
+
     for (var i = 0; i < myVoice.voices.length; i++) {
         if (myVoice.voices[i].lang.substr(0,2) == 'en') {
             voices.push(i);

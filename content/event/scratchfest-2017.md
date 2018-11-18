@@ -25,7 +25,7 @@ During _#ScartchFest_, kids will brainstorm an idea, develop their project, and 
 Scratchers will work on projects in 1 of 3 categories:
 
 - **Interactive Artwork:**  Abstract, conceptual, or just plain weird, interactive artwork projects explore the combination of visuals and sound to create unique interactive presentations.
-- **Interactive Stories:**  With Scratch interactive story projects, you will take your audience through an amazing world of your own creation. 
+- **Interactive Stories:**  With Scratch interactive story projects, you will take your audience through an amazing world of your own creation.
 - **Video Games:**  Action, strategy, roll playing, sports.... build your own game for your players to compete at.
 
 Working in teams of up to 2, or working solo, Scratchers aged 8 to 13 of various skill levels will earn points from the community to take home top dog prizes.
@@ -36,9 +36,9 @@ Over **$500** in prizes will be awarded for the best in category projects.  Hint
 
 ## Register
 
-Pre-registration is required.  
+Pre-registration is required.
 
-<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-tickets-34931270370"><i class="fa fa-rocket" aria-hidden="true"></i> Get It Done! <i class="fa fa-rocket" aria-hidden="true"></i></a>
+<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-tickets-34931270370"><i class="fas fa-rocket"></i> Get It Done! <i class="fas fa-rocket"></i></a>
 
 ## FAQ
 
@@ -51,7 +51,7 @@ Pre-registration is required.
 - **How do I win?**  Participants will earn points from the community.  The projects with the highest points win.  Points will be awarded to individuals who help their neighbours with their tough Scratch programming problems.  The community will also award points to what they think are the best projects.  Finally, judges will award points to projects who best meet the judging criteria.
 - **When Does Judging Take Place?**  Project judging will happen "science fair style" starting at 2:30 PM on Sunday.  All participants, including parents, will be able to award points to each project.  Invite your friends and Grandma and Grandpa.
 - **What about food?**  This is a bring your own food event.  Please pack enough food to fuel yourself for the 4 hour workday.  Please do not bring food items that are common food allergies.  Also, please no citrus.  There are a few folks participating who are highly allergic to citrus.
-- **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids. 
+- **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids.
 
 ## Sponsors
 
@@ -63,7 +63,7 @@ Several amazing Valley business tossed support our way to pull off this event.  
       <img src="/images/event/scratchfest-2017/acadia.png">
     </div>
   </div>
-  
+
   <div class="large-4 columns">
       <div class="card">
         <img src="/images/event/scratchfest-2017/colibri.png">
@@ -72,13 +72,13 @@ Several amazing Valley business tossed support our way to pull off this event.  
         </div>
       </div>
     </div>
- 
+
  <div class="large-4 columns">
      <div class="card">
        <img src="/images/event/scratchfest-2017/progeny.png">
      </div>
    </div>
-  
+
 </div>
 
 <div class="row">
@@ -87,14 +87,14 @@ Several amazing Valley business tossed support our way to pull off this event.  
       <img src="/images/event/scratchfest-2017/precisionhawk.png">
     </div>
   </div>
-  
-  
+
+
   <div class="large-4 columns">
     <div class="card">
       <img src="/images/event/scratchfest-2017/henryschein.png">
     </div>
   </div>
-  
+
   <div class="large-4 columns">
     <div class="card">
       <img src="/images/event/scratchfest-2017/singolar.png">
@@ -109,17 +109,17 @@ Several amazing Valley business tossed support our way to pull off this event.  
       <img src="/images/event/scratchfest-2017/frostbyte.png">
     </div>
   </div>
-  
+
   <div class="large-4 columns">
       <div class="card">
         <img src="/images/event/scratchfest-2017/automattic.png">
       </div>
     </div>
-  
+
   <div class="large-4 columns">
         <div class="card">
           <img src="/images/event/scratchfest-2017/aec.png">
         </div>
       </div>
-  
+
 </div>
