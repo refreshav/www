@@ -32,6 +32,8 @@ project = "projects"
 
   facebookPixelId = "1716195941798152"
 
+  facebookPage = "RefreshAnnapolisValley"
+
   googleSiteVerification = "mP_EL_wJIw8NvUckIyH7Pvr2u4tXhqnWwj81zdn3i3Q"
 
   # Enable global LaTeX math rendering? If false, you can enable it locally on a per page basis.

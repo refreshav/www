@@ -1,5 +1,16 @@
 {{ partial "header.html" . }}
 
+{{ if (and (.Site.Params.facebookPage) (.Site.Params.facebookAppId)) }}
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&autoLogAppEvents=1&version=v3.2&appId={{ .Site.Params.facebookAppId }}';
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+{{ end }}
+
 {{ $newposts := (where (where .Data.Pages.Reverse "Type" "event") "Date" ">=" now) }}
 
 {{ if $newposts }}
@@ -160,44 +171,74 @@
 
 <div class="row">
     <div id="past" class="large-6 columns">
-        <h3>Past Events (A Sampling)</h3>
-
-        {{ range (where (where .Data.Pages "Type" "event") "Date" "<" now) }}
-
-        <div class="media-object">
-            <div class="media-object-section">
-                <div class="thumbnail">
-                    <a href="{{ .Permalink }}" itemprop="url">
-                        <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
-                    </a>
-                </div>
+        <div class="card">
+            <div class="card-divider">
+                <h3>Past Events (A Sampling)</h3>
             </div>
-            <div class="media-object-section">
-                <h5 class="article-title">
-                    <a href="{{ .Permalink }}" itemprop="url">
-                        {{ .Title }}
-                    </a>
-                </h5>
+            <div class="card-section">
+                {{ range first 8 (where (where .Data.Pages "Type" "event") "Date" "<" now) }}
+
+                <div class="media-object">
+                    <div class="media-object-section">
+                        <div class="thumbnail">
+                            <a href="{{ .Permalink }}" itemprop="url">
+                                <img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="media-object-section">
+                        <h5 class="article-title">
+                            <a href="{{ .Permalink }}" itemprop="url">
+                                {{ .Title }}
+                            </a>
+                        </h5>
+                    </div>
+                </div>
+                {{ end }}
+
+                <p class="text-right">
+                    <a href="/events" class="button">View All</a>
+                </p>
+            </div>
+        </div>
+
+    </div>
+    <div id="topics" class="large-6 columns">
+
+        {{ if (and (.Site.Params.facebookPage) (.Site.Params.facebookAppId)) }}
+        <div class="card">
+            <div class="card-divider">
+                <h3>In Action</h3>
+            </div>
+            <div class="card-section">
+
+                <div class="fb-page" data-href="https://www.facebook.com/{{ .Site.Params.facebookPage }}/" data-tabs="timeline,events" data-small-header="true" data-adapt-container-width="true" data-hide-cover="true" data-width="500" data-height="760" data-show-facepile="false"><blockquote cite="https://www.facebook.com/RefreshAnnapolisValley/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/RefreshAnnapolisValley/">Refresh Annapolis Valley</a></blockquote></div>
             </div>
         </div>
         {{ end }}
 
     </div>
-    <div id="topics" class="large-6 columns">
-
-        <h3>Topics</h3>
-
-            {{ $data := .Site.Taxonomies.topics }}
-            {{ range $key, $value := .Site.Taxonomies.topics }}
-            <a href="/topics{{ $data.Plural }}/{{ $key | urlize }}" class="small button hollow">
-                {{ $key }}
-                <span class="badge">{{ len $value }}</span>
-            </a>
-
-            {{ end }}
-
-    </div>
 </div>
 
+<div class="row">
+    <div class="large-12 columns">
+
+        <div class="card">
+            <div class="card-divider">
+                <h4>Topics</h4>
+            </div>
+            <div class="card-section">
+                {{ $data := .Site.Taxonomies.topics }}
+                {{ range $key, $value := .Site.Taxonomies.topics }}
+                <a href="/topics{{ $data.Plural }}/{{ $key | urlize }}" class="small button hollow">
+                    {{ $key }}
+                    <span class="badge">{{ len $value }}</span>
+                </a>
+
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>
 
 {{ partial "footer.html" . }}
