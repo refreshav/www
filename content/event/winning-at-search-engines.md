@@ -1,7 +1,7 @@
 +++
 banner = "images/event/winning-at-search-engines/banner"
 images = ["images/event/winning-at-search-engines/banner-medium.jpg"]
-date = "2018-12-11T19:00:00-03:00"
+date = "2019-01-08T19:00:00-03:00"
 PublishDate = "2016-10-11T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/212300159692041/"
