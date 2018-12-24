@@ -28,6 +28,11 @@ First and foremost, we aim to provide opportunities for young learners to become
 
 Mike Caplan is a web application developer with over 20 years experience working in non-profit, university, retail, agricultural, and health industries.  Mike also runs Refresh Annapolis Valley, a new media professional association to help grow the Valley’s digital technology industry.
 
+{{< pic src="images/project/creative-computing/vistassja.jpg" title="Vistassja Williams" align="right" >}}
+
+Vistassja Williams is a student at the Acadia University Jodrey School of Computer Science in her fourth year of the Bachelor of Computer Science program and active members in Women In Science and Engineering Acadia. Vistassja is a regular contributor to Refresh programming, mentoring our summer camp and co-teaching National Learn to Code Day.
+
+
 Teen mentors:
 
 * Anna is one of our teen mentors.  She is an experienced Scratcher, star student, and avid Girl Guider.  Besides coding, Anna loves Harry Potter, Star Wars and musical theatre.

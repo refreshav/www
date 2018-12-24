@@ -1,0 +1,56 @@
+{{ partial "header.html" . }}
+
+<article class="article" id="list">
+
+    <header data-interchange="[{{ "/images/events-small.jpg" | absURL }}, small], [{{ "/images/blog-medium.jpg" | absURL }}, medium], [{{ "/images/blog-large.jpg" | absURL }}, large]" title="Blog" alt="Blog">
+
+        <div class="row columns small-up-2 medium-up-3 large-up-4">
+            <h1>
+                <i class="fas fa-newspaper"></i>
+                Blog
+            </h1>
+        </div>
+    </header>
+
+
+    <div class="row">
+        <div id="past" class="columns small-up-2 medium-up-3 large-up-4">
+
+            {{ $paginator := .Paginate .Data.Pages }}
+            {{ range $paginator.Pages }}
+            <div class="media-object">
+                <!--<div class="media-object-section">-->
+                    <!--<div class="thumbnail">-->
+                        <!--<a href="{{ .Permalink }}" itemprop="url">-->
+                            <!--<img src="{{ .Site.BaseURL }}images/project/{{ .Params.project }}/icon.png" itemprop="image" title="{{ .Title }}" alt="{{ .Title }}">-->
+                        <!--</a>-->
+                    <!--</div>-->
+                <!--</div>-->
+                <div class="media-object-section">
+                    <h4 class="article-title">
+                        <a href="{{ .Permalink }}" itemprop="url">
+                            {{ .Title }}
+                        </a>
+                    </h4>
+
+                    <p><strong>{{ dateFormat "January 2, 2006 at 3:04pm" .Date }}</strong></p>
+
+                    <p>{{ .Summary }}</p>
+
+                    <p class="read-more">
+                        <strong><a href="{{ .Permalink }}">
+                            Get the deets...
+                        </a></strong>
+                    </p>
+                </div>
+            </div>
+
+            {{ end }}
+
+            {{ partial "pagination" . }}
+
+        </div>
+    </div>
+
+</article>
+{{ partial "footer.html" . }}

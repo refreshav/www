@@ -71,6 +71,11 @@ project = "projects"
   weight = 5
 
 [[menu.main]]
+  name = "Blog"
+  url = "post"
+  weight = 6
+
+[[menu.main]]
   name = "Support"
   url = "support"
-  weight = 6
+  weight = 7

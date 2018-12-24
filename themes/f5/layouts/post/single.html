@@ -1,0 +1,35 @@
+{{ partial "header.html" . }}
+
+
+<main role="main">
+    <article class="article" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+        <header data-interchange="[{{ (print .Params.banner "-small" ".jpg") | absURL }}, small], [{{ (print .Params.banner "-medium" ".jpg") | absURL }}, medium], [{{ (print .Params.banner "-large" ".jpg") | absURL }}, large]">
+
+            <div class="row columns small-up-2 medium-up-3 large-up-4">
+                <h1 itemprop="name">
+                    {{ .Title }}
+                </h1>
+            </div>
+
+
+        </header>
+
+        <meta itemprop="image" content="{{ (print .Params.banner "-large" ".jpg") | absURL }}"/>
+        <meta itemprop="url" content="{{ .Permalink }}"/>
+        <meta itemprop="description" content="{{ .Summary }}"/>
+
+        <main class="row columns small-up-2 medium-up-3 large-up-4" itemprop="articleBody">
+            {{ .Content }}
+
+        </main>
+
+    </article>
+
+    {{ if .Site.Params.disqusShortname }}
+    <section>
+        {{ template "_internal/disqus.html" . }}
+    </section>
+    {{ end }}
+
+</main>
+{{ partial "footer.html" . }}
