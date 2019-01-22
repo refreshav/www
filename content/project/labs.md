@@ -34,6 +34,15 @@ Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Ru
         <td>We are looking for a web developer/business person combo</td>
     </tr>
     <tr>
+      <td><img src="/images/project/labs/tamagoshido.png"></td>
+      <td>
+          <h4>Tamagoshido</h4>
+          Tamagoshido is a virtual platform that helps you to improve your pets' lives.  Inspired by the Tamagotchi electronic toy for kids from the 1990s and 2000s, with Tamagoshido you would record care of your real life pet giving you feedback on how well you are taking care of it with your pet's avatar.
+      </td>
+      <td>No vacancies</td>
+    </tr>
+
+    <tr>
         <td><img src="/images/project/labs/swn.png"></td>
         <td>
             <h3>Spark West Network</h3>
