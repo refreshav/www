@@ -12,9 +12,9 @@ event_sponsors = ["Innovacorp", "Acadia Entrepreneurship Centre"]
 people = ["Gary Morton", "Dr Daniel Silver", "Doug Armour", "Matthew Winchester"]
 title = "Ag + Tech = Innovation"
 topics = ["Agriculture"]
-organizations = ["Annapolis Valley Chamber of Commerce", "Acadia Institute for Data Analytics", "FoodByte", "SKUFood"]
+organizations = ["Annapolis Valley Chamber of Commerce", "Acadia Institute for Data Analytics", "FoodByte", "Morton Horticultural Associates"]
 +++
 
 Agriculture globally is a 12 trillion dollar annual industry ripe for technology startups looking to bring new hi-tech innovations to market.  Where does digital technology and agriculture meet, and what are the opportunities?  
 
-Gary Morton (SKUFood, Annapolis Valley Chamber of Commerce) will discuss this exciting technology space, and the over $160,000 (cash and in-kind services) that the AVCC has awarded locally to spark agriculture innovation.  Dr. Danny Silver (Acadia Institute for Data Analytics) will look at the opportunities around ag. and the field of data analytics.  Finally, we will also explore the locally grown startup FoodByte, and how they are making big waves in the ag. tech space. 
+Gary Morton (Morton Horticultural Associates, Annapolis Valley Chamber of Commerce Agriculture Committee) will discuss this exciting technology space, and the over $160,000 (cash and in-kind services) that the AVCC has awarded locally to spark agriculture innovation.  Dr. Danny Silver (Acadia Institute for Data Analytics) will look at the opportunities around ag. and the field of data analytics.  Finally, we will also explore the locally grown startup FoodByte, and how they are making big waves in the ag. tech space. 
