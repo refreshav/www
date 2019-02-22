@@ -3,9 +3,9 @@ banner = "images/event/scratchfest-2019/banner"
 images = ["images/event/scratchfest-2019/banner-medium.png"]
 date = "2019-04-06T12:00:00-04:00"
 PublishDate = "2019-01-01T19:00:00-03:00"
-draft = true
-event_facebook = "https://www.facebook.com/events/935284203316308/"
-event_eventbright = "https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"
+draft = false
+event_facebook = "https://www.facebook.com/events/389779455131805/"
+event_eventbright = "https://www.eventbrite.ca/e/scratchfest-2019-tickets-56643090007"
 event_location = "Sheldon L. Fountain Learning Commons, 26 Crowell Dr.,  Wolfville, NS"
 project = "meetups"
 event_sponsors = ["Acadia Entrepreneurship Centre", "Acadia University"]
@@ -14,11 +14,9 @@ topics = ["tech-ed"]
 pics = []
 +++
 
-{{< youtube 0O9qtmW4tSY >}}
-
 # Calling all Digital Builders
 
-_#ScratchFest_ is a weekend (June 23th and June 24th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.
+_#ScratchFest_ is a weekend (April 6th and April 7th) Build-a-thon for kids and teens interested in creating amazing original work with digital technologies, such as the Scratch programming environment, Processing, Virtual Reality, and more.
 
 During _#ScartchFest_, participants will brainstorm an idea, develop their project, and showcase a final prototype.  This weekend warrior event provides an excellent opportunity for coders to invent their own projects and demonstrate their knowledge within a collaborative, creative, and playful environment.
 
@@ -41,23 +39,27 @@ Working in teams of up to 2, or working solo, Scratchers aged 8 to 13 and coders
 
 Over **$500** in prizes will be awarded for the best in category projects.
 
+## Join The Party
+
+The day before #ScratchFest, we are hosting a [Retro Game Carnival](/event/retro-game-fest/).  Join us for a night of video gaming and workshops to inspire you for #ScratchFest!
+
 ## Register
 
 Pre-registration is required.
 
-<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-2018-tickets-44566710230"><i class="fas fa-rocket"></i> Get It Done! <i class="fas fa-rocket"></i></a>
+<a class="expanded large button" href="https://www.eventbrite.ca/e/scratchfest-2019-tickets-44566710230"><i class="fas fa-rocket"></i> Get It Done! <i class="fas fa-rocket"></i></a>
 
 ## FAQ
 
 - **What is Scratch?**  <a href="https://scratch.mit.edu/" target="_blank">Scratch</a> is used over the world by students to easily create animations and games while acting as a stepping stone to the more advanced world of computer science.
 - **Do I need to know Scratch to participate?**  Having some basic prior knowledge of the Scratch programming environment is advantageous.  There will be some workshops at the event to help you out.
 - **Do I need to know how to code to participate?**  Having some basic prior knowledge of any coding environment is advantageous, but unnecessary.  There will be workshops at the event to help you out.
-- **How many days is _#ScratchFest_?**  _#ScratchFest_ runs both Saturday June 23th, and Sunday June 24th.  The event each day runs from 12 to 4PM.
+- **How many days is _#ScratchFest_?**  _#ScratchFest_ runs both Saturday April 6th, and Sunday April 7th.  The event each day runs from 12 to 4PM.
 - **What is the age range for participants?**  Scratchers at _#ScratchFest_ are aged 8 to 13.  Coders at _#ScratchFest_ are aged 13 to 17.
 - **I'm 13 and want to work on a Scratch project.  Am I in the kids category or the teen category?**  If you are an experienced Scratcher, you are in the teen category.
 - **Can I work on my project with a group?**  Groups of up to 2 people can be formed.
 - **Can I work on a pre-existing project?**  Projects need to be created from "scratch" at the event.  You will have two days to begin, develop, tweak and complete your original project over the course of the weekend.
-- **How do I win?**  Participants will earn points from the community.  The projects with the highest points win.  Points will be awarded to individuals who help their neighbours with their tough Scratch programming problems.  The community will also award points to what they think are the best projects.  Finally, judges will award points to projects who best meet the judging criteria.
+- **How do I win?**  Participants will earn points from the community.  The projects with the highest points win.  Points will be awarded to individuals who help their neighbours with their tough programming problems.  The community will also award points to what they think are the best projects.  Finally, judges will award points to projects who best meet the judging criteria.
 - **When Does Judging Take Place?**  Project judging will happen "science fair style" starting at 2:30 PM on Sunday.  All participants, including parents, will be able to award points to each project.  Invite your friends and Grandma and Grandpa.
 - **What about food?**  This is a bring your own food event.  Please pack enough food to fuel yourself for the 4 hour workday.  Please do not bring food items that are common food allergies.
 - **Can parents hang out at the event?** Absolutely.  Pull up a chair, get comfy, and help cheer on all the kids.
@@ -66,7 +68,7 @@ Pre-registration is required.
 
 It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class="far fa-handshake"></i>** dedicate their time to helping you be all that you can be at #ScratchFest.  **Judges <i class="fas fa-gavel"></i>** review your projects offering critical feedback and your gateway to winning!
 
-<div class="row">
+<!--<div class="row">
     <div class="large-6 columns">
     <ul>
         <li>Mike Caplan - Henry Schein <i class="far fa-handshake"></i></li>
@@ -99,8 +101,10 @@ It takes a community of volunteers to pull off #ScratchFest.  **Mentors <i class
             <li>Danny Silver - Jodery School of Computer Science at Acadia University <i class="far fa-handshake"></i> <i class="fas fa-gavel"></i></li>
         </ul>
     </div>
-</div>
+</div>-->
 
+
+<!--
 ## Sponsors
 
 Several amazing business tossed support our way to pull off this event.  Hats off to our Valley IT community.
@@ -168,6 +172,7 @@ Several amazing business tossed support our way to pull off this event.  Hats of
     </div>
 </div>
 
+-->
 
 <style>
 .card img {

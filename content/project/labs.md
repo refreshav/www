@@ -29,10 +29,24 @@ Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Ru
         <td><img src="/images/project/labs/hikingo.png"></td>
         <td>
             <h4>Hikingo</h4>
-            Hikingo is a map-based story game based in Nova Scotia that creates captivating tours for families and students. We provide tours of historic landmarks in your community for different age and skill levels. We call our tours “expeditions.” When you go on an expedition you can learn new facts about your community and take pictures to share with friends. After finishing an expedition you can rate your experience and pass on hints for future adventurers. If your interested in helping bring Hikingo to life you can email me at <a href="mailto:nathaniel@hikingo.app">nathaniel@hikingo.app</a>.
+            Hikingo is a map-based story game based in Nova Scotia that creates captivating tours for families and students. We provide tours of historic landmarks in your community for different age and skill levels. We call our tours “expeditions.” When you go on an expedition you can learn new facts about your community and take pictures to share with friends. After finishing an expedition you can rate your experience and pass on hints for future adventurers.
         </td>
-        <td>We are looking for people who have experience with web development/design and business.</td>
+        <td>We are looking for people who have experience with web development/design and business.  If you're interested in helping bring Hikingo to life email us at <a href="mailto:info@refreshannapolisvalley.org">info@refreshannapolisvalley.org</a>.</td>
     </tr>
+    <tr>
+          <td><img src="/images/project/labs/big-picture.jpg"></td>
+          <td>
+              <h4>Big Picture</h4>
+              We are creating an app for youth to gain work experience through volunteering. There are many people who want to volunteer, but they can’t find the right opportunity nowadays. Our app will provide people with many volunteer resources which allows them to choose the type of volunteering jobs that are convenient and interesting for them. After volunteering, the volunteers can get ratings from their organizers based on their work, and vise versa, they can also rate the event/organization. Our app will keep track of people’s volunteering hours and experiences. This record can be automatically be updated to the volunteer’s LinkedIn account or their resume/CV for future use. If you are interested in this idea, come and join us!
+          </td>
+          <td>
+            <ul>
+            <li>You are able to come every Saturday 12:30pm to 3:30pm. The meetings will be held at the Acadia Patterson Building (24 University Ave, Wolfville).</li>
+            <li>If you are good at technology, that would be awesome.</li>
+            <li>If you're interested in this idea email us at <a href="mailto:info@refreshannapolisvalley.org">info@refreshannapolisvalley.org</a>.</li>
+            </ul>
+          </td>
+        </tr>
     <tr>
       <td><img src="/images/project/labs/tamagoshido.png"></td>
       <td>
@@ -40,20 +54,6 @@ Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Ru
           Tamagoshido is a virtual platform that helps you to improve your pets' lives.  Inspired by the Tamagotchi electronic toy for kids from the 1990s and 2000s, with Tamagoshido you would record care of your real life pet giving you feedback on how well you are taking care of it with your pet's avatar.
       </td>
       <td>No vacancies</td>
-    </tr>
-    <tr>
-      <td><img src="/images/project/labs/big-picture.jpg"></td>
-      <td>
-          <h4>Big Picture</h4>
-          We are creating an app for youth to gain work experience through volunteering. There are many people who want to volunteer, but they can’t find the right opportunity nowadays. Our app will provide people with many volunteer resources which allows them to choose the type of volunteering jobs that are convenient and interesting for them. After volunteering, the volunteers can get ratings from their organizers based on their work, and vise versa, they can also rate the event/organization. Our app will keep track of people’s volunteering hours and experiences. This record can be automatically be updated to the volunteer’s LinkedIn account or their resume/CV for future use. If you are interested in this idea, come and join us!
-      </td>
-      <td>
-        <ul>
-        <li>You are interested about this idea.</li>
-        <li>You are able to come every saturday 12:30pm to 3:30pm. The meetings will be held at the Acadia Patterson Building (24 University Ave, Wolfville).</li>
-        <li>If you are good at technology, that would be awesome.</li>
-        </ul>
-      </td>
     </tr>
     <tr>
         <td><img src="/images/project/labs/swn.png"></td>
