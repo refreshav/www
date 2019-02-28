@@ -63,6 +63,11 @@
                         <dd><a href="{{ .Params.website }}">@www</a></dd>
                         {{ end }}
 
+                        {{ if .Params.instagram }}
+                        <dt><i class="fab fa-instagram"></i> instagram</dt>
+                        <dd><a href="{{ .Params.instagram }}">@Instagram</a></dd>
+                        {{ end }}
+
                         {{ if .Params.phone }}
                         <dt><i class="fas fa-phone"></i> Phone</dt>
                         <dd><a href="tel:{{ .Params.phone }}">{{ .Params.phone }}</a></dd>
