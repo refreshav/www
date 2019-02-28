@@ -26,13 +26,12 @@ Young and inspired?  Be sure to join us for [#ScratchFest 2019](/event/scratchfe
 | ------- | --- |
 | 5:00 pm | Doors open |
 | 6:00 pm | Keynote Presentation - **Dona Bailey**, co-creator of Centipede  |
-| 6:30 pm | Retro Game Competition #1 - **Super Mario Bros**, NES. Best score out of 3 attempts to beat World 1-1 |
+| 5:30 pm to 8:30PM | Retro Game Competitions (Centipede, Super Mario Bros, Street Fighter, F-Zero)  |
 | 6:45 pm | Museum Tour |
 | 7:00 pm | Presentation #2 |
-| 7:30 pm | Retro Game Competition #2 - **Centipede**, Atari 2600. Top Score |
 | 7:45 pm | Museum Tour | 
 | 8:00 pm | Presentation #3 |
-| 8:30 pm | Retro Game Competition #3 - **Pole Position**.  Top score |
+| 8:30 pm | Retro Game Competition Awards |
 | 8:45 pm | Museum Tour |
 | 9:00 pm | Presentation #4 |
 
