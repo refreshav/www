@@ -19,3 +19,5 @@ topics = ["Digital Marketing"]
 Upon learning simple strategies for business blogging, {{< person "Anita Kirkbride" >}}'s WordPress business blog (<a href="https://twirp.ca/">https://twirp.ca/</a>) went from ZERO to HERO in a matter of weeks and she's coming to share with you her best tips for using a business blog to be found. Anita will share her best strategies, and walk you through how to use WordPress to get your search engine placement scores up.
 
 Following Anita's talk, break out your questions regarding WordPress. Get your tough questions sorted out with {{< person "Sandy McFadden" >}}, {{< person "Alex Sanford" >}}, and Anita.  All are WordPress gurus.  Sandy and Alex are even employed by the WordPress company Automattic.  
+
+Please take note, we have moved the event from the top floor of Patterson, to room 107 Patterson. Much more space for us! Bring a friend!

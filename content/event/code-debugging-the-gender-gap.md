@@ -22,39 +22,6 @@ event_sponsors = [
 people = ["Ulrike Bahr-Gedalia"]
 title = "CODE: Debugging the Gender Gap"
 topics = ["Women in Tech"]
-pics = [
-    "https://scontent-ort2-1.xx.fbcdn.net/l/t31.0-8/14445220_10154553641388659_5252897480443046533_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500741_10154553641223659_3246527420300975115_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14525217_10154553641448659_8815665975188091793_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500655_10154553641218659_846515672583104225_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468251_10154553641238659_3954763708980344261_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468195_10154553641088659_3635936541305413481_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468471_10154553641068659_2348490564881293757_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500222_10154553640478659_6399100405203362282_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14524418_10154553641073659_1579665669483430348_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14435001_10154553640803659_6033201398285330416_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14524346_10154553640733659_220859714971394599_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468165_10154553640683659_4001166723575510520_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14480651_10154553640543659_7816059810991475840_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14542542_10154553640493659_8207927283808561635_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14481760_10154553640413659_4858881584103159197_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500337_10154553640353659_2384684067118225763_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14525086_10154553640298659_5426566035301229364_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14444950_10154553640318659_6738898420125783267_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14524427_10154553640238659_6275175108009264796_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14481739_10154553640163659_1140611418662378788_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14444712_10154553640123659_295389835562215344_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500338_10154553640103659_7680449835807593259_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14424839_10154553639968659_3148187855426550050_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/l/t31.0-8/14468399_10154553639913659_2302255875694818309_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468449_10154553639898659_656611929300890369_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14481965_10154553639738659_4353678133141785676_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14468327_10154553639658659_5274727091074328989_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14480507_10154553639693659_527889089405798911_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14434994_10154553639383659_7267822693262293821_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14500554_10154553639388659_4780403049991317526_o.jpg",
-    "https://scontent-ort2-1.xx.fbcdn.net/t31.0-8/14435132_10154553639393659_465860414045899975_o.jpg"
-]
 +++
 
 {{< figure src="/images/event/code-debugging-the-gender-gap/poster.jpg" class="float-right" alt="CODE: Debugging the Gender Gap" >}}

@@ -7,7 +7,7 @@ icon = "images/person/cindy-trudel/icon.jpg"
 email = "cindy.trudel@acadiau.ca"
 topics = ["Women in Tech", "Education"]
 website = "https://cs.acadiau.ca/ctrudel.html"
-organizations = ["Acadia University", "Women in Science and Engineering at Acadia University"]
+organizations = ["Acadia University", "Women in Science and Engineering at Acadia University", "Jodrey School of Computer Science"]
 +++
 
 
