@@ -8,8 +8,14 @@ email = "keegan.lee.francis@gmail.com"
 topics = ["Web Dev", "Software", "VR", "Blockchain"]
 website = "http://keegan-lee.ca"
 linkedin = "https://ca.linkedin.com/in/keegan-francis-359487100"
+organizations = ["Atlantic Blockchain Company"]
 +++
 
-Have you ever wondered what it would be like to walk on the bottom of the ocean? Or scale the highest mountain? Maybe you would like to experience what it's like to look down upon earth from space. Everything you can imagine, will soon be a virtual reality. Enter your imagination and experience the new medium that is sweeping the globe.
+My name is Keegan Francis, i have been working with, interested in, and invested in cryptocurrencies and blockchain since 2014.
 
-Keegan Francis is an software engineer, entrepreneur and an alumnus of Acadia University's Computer Science department. Driven by innovation and education, Keegan will be sharing his experience working with virtual reality and talking about the various applications of it. He believes there are many practical uses of virtual reality such as gaming, exploration, learning/education, therapy and much more. Come and learn about experiences that lay just beyond the digital ether.
+* Invested in bitcoin and dogecoin in 2014
+* Graduated with a degree in computer science in 2015
+* Built my first mining rig in 2017
+* Have given several lectures and presentations to Nova Scotia universities in 2017 and 2018
+* Attended an international blockchain conference in Shanghai, China, 2018
+* Co-founded Atlantic Blockchain Company Inc. in November 2018
