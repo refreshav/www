@@ -20,43 +20,40 @@ The Retro Game Carnival is a celebration of the video games of yesteryear.  From
 
 Young and inspired?  Be sure to join us for [#ScratchFest 2019](/event/scratchfest-2019/) the following day and put your creativity towards building your own retro influenced games.  
 
-#### Tentative Schedule
+#### Schedule
 
 |  |  |
 | ------- | --- |
 | 5:00 pm | Doors open |
-| 6:00 pm | Keynote Presentation - **Dona Bailey**, co-creator of Centipede  |
-| 5:30 pm to 8:30PM | Retro Game Competitions (Centipede, Super Mario Bros, Street Fighter, F-Zero)  |
-| 6:45 pm | Museum Tour |
-| 7:00 pm | Presentation #2 |
-| 7:45 pm | Museum Tour | 
-| 8:00 pm | Presentation #3 |
-| 8:30 pm | Retro Game Competition Awards |
-| 8:45 pm | Museum Tour |
-| 9:00 pm | Presentation #4 |
+| 5:00 to 8:30 | Retro Game Competitions (Centipede, Super Mario Bros, Street Fighter)  |
+| 5:15 to 5:45 | Speed Workshop: Track #1: Building Robots with Lego |
+| 5:15 to 5:45 | Speed Workshop: Track #2: Building a Game Studio Team | 
+| 5:15 to 5:45 | Museum Tour |
+| 6:00 to 6:30 | Keynote Presentation - **Dona Bailey**, co-creator of Centipede  |
+| 6:45 to 7:15 | Museum Tour |
+| 6:45 to 7:15 | Speed Workshop: Track #1: Create a Truth Meter with a Circuit Playground |
+| 6:45 to 7:15 | Speed Workshop: Track #2: From the Trenches: Q&A with Game Devs |
+| 7:15 to 7:45 | Museum Tour |
+| 7:15 to 7:45 | Speed Workshop: Track #1: Building TRON: How to Build Your Own Light Cycle Game with Scratch |
+| 7:15 to 8:15 | Speed Workshop: Track #2: Intro to Game Engines & 3D Art for Games |
+| 7:45 to 8:15 | Museum Tour | 
+| 8:15 to 8:45 | Museum Tour |
+| 8:30 | Arcade Voting & Game Comps End |
+| 8:45 to 9:00 | Awards |
 
 DIY Arcade is open for guests all throughout the event.
+
+Workshops have limited capacity and will be admitted on a first come first served basis.  
 
 #### Sponsors
 
 * [Rainbow's End Books & Discs](https://www.facebook.com/RainbowsEndBD)
-* YOU!
-
-#### Call For Contributors
-
-We are currently seeking collaborators who wish to contribute to this event.  Examples of contributions could include:
-
-* Content for our pop-up museum (consoles, CRT TVs)
-* Workshops on diverse topics: history of video games, game building how-tos, etc.
-* Fan art
-* Costumes
-* 8bit DJing
-* Event volunteers (help with setup, operations, clean up)
-* Sponsors!
-* Insert your big idea here
-
-Call For Contributors will run until February 28.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdes99xcJdOBiyhB4ftk-WCun5fL4lPFuSXuDTLkRCUAfn1iA/viewform?embedded=true" width="100%" height="100%" style="height: 95vh" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+* [GameTronics](https://www.facebook.com/GameTronics)
+* [Cold Furnace Studios](https://www.coldfurnace.com/)
 
 Retro Game Fest is brought to you by RinryGameGame, FifthGearTurtle, and JuggernaughtJig, Roger, and Caleb
+
+
+#### Volunteers!  Apply here:
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe-6hn7IkfQ8rIChWf3pcDMUKpi7c4Gj97w8TDnA9oMjL8gCw/viewform?embedded=true" width="100%" height="100%" style="height: 95vh" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>

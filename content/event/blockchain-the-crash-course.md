@@ -4,8 +4,8 @@ images = ["images/event/blockchain-the-crash-course/banner-medium.jpg"]
 date = "2019-03-27T17:00:00-03:00"
 PublishDate = "2017-06-01T19:00:00-03:00"
 draft = false
-#event_facebook = "https://www.facebook.com/events/314447055803914/"
-#event_eventbright = "https://www.eventbrite.ca/e/blockchain-the-crash-course-tickets-58638569540"
+event_facebook = "https://www.facebook.com/events/515032632353846/"
+event_eventbright = "https://www.eventbrite.ca/e/cryptocurrency-and-blockchain-the-crash-course-tickets-58710583937"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "meetups"
 event_sponsors = ["Acadia School of Business", "Jodrey School of Computer Science at Acadia University", "Acadia Entrepreneurship Centre"]
@@ -33,6 +33,6 @@ This first part of the presentation we will explore why Blockchain has the poten
 
 ## Part 2: A Technical Intro to Blockchain
 
-In this technical introduction to Blockchain, we will get our hands dirty setting up Blockchain software on our laptops. Attendies will then learn how to sign transactions and transfer coins between peers for a demonstration of how it works on real wallets. 
+In this technical introduction to Blockchain, we will get our hands dirty setting up Blockchain software on our laptops. Attendees will then learn how to sign transactions and transfer coins between peers for a demonstration of how it works on real wallets. 
 
 Get a head start into setting up a blockchain on your computer. Be part of the rare and in-demand talent pool of technologists who know how to run/build/work a Blockchain! 
