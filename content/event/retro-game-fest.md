@@ -25,6 +25,7 @@ Young and inspired?  Be sure to join us for [#ScratchFest 2019](/event/scratchfe
 |  |  |
 | ------- | --- |
 | 5:00 pm | Doors open |
+| 5:00 to 8:30 | DIY Arcade featuring the works of our Creative Computing Youth  |
 | 5:00 to 8:30 | Retro Game Competitions (Centipede, Super Mario Bros, Street Fighter)  |
 | 5:15 to 5:45 | Speed Workshop: Track #1: Building Robots with Lego |
 | 5:15 to 5:45 | Speed Workshop: Track #2: Building a Game Studio Team | 
@@ -37,6 +38,7 @@ Young and inspired?  Be sure to join us for [#ScratchFest 2019](/event/scratchfe
 | 7:15 to 7:45 | Speed Workshop: Track #1: Building TRON: How to Build Your Own Light Cycle Game with Scratch |
 | 7:15 to 8:15 | Speed Workshop: Track #2: Intro to Game Engines & 3D Art for Games |
 | 7:45 to 8:15 | Museum Tour | 
+| 8:00 to 8:30 | Speed Workshop: Track #1: Why Terrible Games are the Most Important: The Impact of Retro on Modern Games |
 | 8:15 to 8:45 | Museum Tour |
 | 8:30 | Arcade Voting & Game Comps End |
 | 8:45 to 9:00 | Awards |
