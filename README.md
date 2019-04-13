@@ -1,11 +1,11 @@
-Publishing Content to Github
+Uploading Content to Github Using Git Bash
 
 Step 1: Create your document in the www directory.
 
 Step 2: In the Git Bash console, go to the www directory.
 
-Step 3: Enter "git add path/to/document/name-of-document.md" to select the document you want to publish.
+Step 3: Enter "git add path/to/document/name-of-document.md" to select the document you want to upload.
 
-Step 4: Enter "git commit" 
+Step 4: Enter "git commit". 
 
 Step 5: Enter "git push" and your document should appear on Github.
