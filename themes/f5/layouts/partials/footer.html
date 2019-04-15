@@ -71,13 +71,56 @@
     </div>
 </div>
 
+<div class="reveal" id="signupPopup" data-reveal data-close-on-click="true" data-animation-in="spin-in" data-animation-out="spin-out">
+    <h3>Hate to be an annoying popup...</h3>
+
+    <p>...but that is just what I am.  If you dig what Refresh is throwing down, get on our mailing list.  No better way to keep up with the magic.</p>
+
+    <form action="https://refreshannapolisvalley.us6.list-manage.com/subscribe/post" method="POST" data-abide novalidate>
+        <input type="hidden" name="u" value="541eedc014006742efdd2ed17">
+        <input type="hidden" name="id" value="ceb11b34fb">
+
+        <div data-abide-error class="alert callout" style="display: none;">
+            <p><i class="far fa-bell"></i> Errors!  Errors in your form!</p>
+        </div>
+
+        <label>
+            Email
+            <input type="email" placeholder="your@domain.com" name="EMAIL" required pattern="email">
+            <span class="form-error">Hello?</span>
+        </label>
+        <label>
+            First Name
+            <input type="text" placeholder="Given Name" name="FNAME">
+        </label>
+        <label>
+            Last Name
+            <input type="text" placeholder="Family Name" name="LNAME">
+        </label>
+        <fieldset class="checkbox-group" data-validator-min="1">
+            <legend>Interests</legend>
+            <input id="refresh-events-popup" type="checkbox" name="group[13385][1]" checked data-validator="checkbox_limit"><label for="refresh-events-popup">Refresh Events &amp; Activities</label>
+            <br>
+            <input id="cc-events-popup" type="checkbox" name="group[13385][2]" checked data-validator="checkbox_limit"><label for="cc-events-popup">Creative Computing for Kids</label>
+            <br>
+            <input id="hoist-events-popup" type="checkbox" name="group[13385][4]" checked data-validator="checkbox_limit"><label for="hoist-events-popup">Hoist AV Teen Tech + Entrepreneurship</label>
+        </fieldset>
+
+        <input type="submit" class="button expanded" value="Don&apos;t Miss a Beat">
+
+    </form>
+    <button class="close-button" data-close aria-label="Close reveal" type="button">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.0/js/foundation.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.5.3/js/foundation.min.js"></script>
 <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 {{ if .Site.Params.googleAPIKey }}
 <script async defer src="https://maps.googleapis.com/maps/api/js?callback=initMap&key={{ .Site.Params.googleAPIKey }}"></script>
 {{ end }}
-<script src="{{ .Site.BaseURL }}js/f5.js?v3"></script>
+<script src="{{ .Site.BaseURL }}js/f5.js?v4"></script>
 {{ template "_internal/google_analytics_async.html" . }}
 {{ if .Site.Params.facebookPixelId }}
 <noscript>

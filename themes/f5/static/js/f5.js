@@ -35,8 +35,6 @@ function initMap() {
     }
 }
 
-$(document).foundation();
-
 Foundation.Abide.defaults['validators']['checkbox_limit'] =
     function($el, required, parent) {
         var group = parent.closest('.checkbox-group');
@@ -66,3 +64,16 @@ Foundation.Abide.defaults['validators']['checkbox_limit'] =
             return false;
         }
     };
+
+$(document).foundation();
+
+$('#signupPopup').on('closed.zf.reveal', function() {
+    localStorage.tried = true;
+    alert('I\'ll try to not take this personally.  If you change your mind, the mailing list sign up is at the bottom of every page.');
+});
+
+if (!localStorage.tried) {
+    setTimeout(function() {
+        $('#signupPopup').foundation('open');
+    }, 30000);
+}
