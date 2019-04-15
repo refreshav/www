@@ -14,7 +14,7 @@ Get your kids ready for Summer with these Science, Technology, Engineering, Arts
 | ---- | -----| ------ |
 | July 4 & 5 | **Junior Marine Biologist** | Terranaut Club all girl science and nature camp - Ages 9 - 12, Wolfville |
 | July 6 & 7 | **Intermediate Marine Biologist** | Terranaut Club  all girl science and nature camp - Ages 12 - 15, Lunenburg |
-| July 8 to 12 | **Valley Math & Computer Science Camp** | A week of fun and enriching indoor and outdoor activities designed to develop a child’s curiosity and enjoyment of math and computer science. For children entering grade 5 & 6, Wolfville |
+| July 8 to 12 | **<a href="https://math.acadiau.ca/outreach/summer-camp.html" target="_blank">Valley Math & Computer Science Camp</a>** | A week of fun and enriching indoor and outdoor activities designed to develop a child’s curiosity and enjoyment of math and computer science. For children entering grade 5 & 6, Wolfville |
 | July 22 to 25 | **Junior Wildlife Conservation** | Terranaut Club all girl science and nature camp - Ages 12 - 15, Bon Portage Island (off of Barrington) |
 | July 22 to 26 | **Creative Computing Camp** | A week long adventure into the world of Computer Science and digital creativity. Ages 8 - 12, Wolfville |
 | July 29 to 30 | **Technology & Marine Conservation** | Terranaut Club all girl science and nature camp - Ages 13 - 16, Halifax & Wolfville |
