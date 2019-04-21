@@ -1,9 +1,9 @@
 +++
-date = 2019-04-19T19:00:00Z
+date = 2019-04-21T19:00:00Z
 draft = false
 title = "Alexander Petkov"
 banner = "images/person/alexander-petkov/banner"
-icon = "images/person/alexander-petkov/icon.png"
+icon = "images/person/alexander-petkov/icon.jpg"
 website = "https://sparkwest.network"
 facebook = "alexander.alexandrovalexandrovalexandrov"
 topics = ["Tech-Ed", "Hardware Hacking"]
