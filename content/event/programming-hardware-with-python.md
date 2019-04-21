@@ -2,7 +2,7 @@
 banner = "images/event/programming-hardware-with-python/banner"
 images = ["images/event/programming-hardware-with-python/banner-medium.png"]
 date = "2019-05-04T12:00:00-04:00"
-PublishDate = "2019-01-01T19:00:00-03:00"
+PublishDate = "2019-04-01T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/389779455131805/"
 event_eventbright = "https://www.eventbrite.ca/e/scratchfest-2019-tickets-56643090007"
@@ -11,7 +11,7 @@ project = "meetups"
 event_sponsors = ["Acadia Entrepreneurship Centre", "Acadia University"]
 people = ["Alexander Petkov", "Max Caplan"]
 title = "Programming Hardware with Python"
-topics = ["tech-ed"]
+topics = ["Tech-Ed", "Hardware Hacking"]
 pics = []
 +++
 
@@ -25,7 +25,7 @@ As previously mentioned, the Circuit Playground is a microcontroller or a tiny c
 
 To communicate with the Circuit Playground, we will be using the Python programming language. It uses a simple, highly human-readable syntax and can be used in a wide variety of ways such as data mining, game building, machine learning, and programming hardware, which is how we will be using it during this workshop. 
 
-The project we will be creating is the _Truth Meter_. It is composed of a servo (adjustable rotating motor) and wire that attaches it to the Circuit Playground which we will program to rotate the servo randomly to point to several options on a piece of paper. To visualize this, think of the servo as the pointer on a speedometer and the piece of paper as the dial on the speedometer except rather than numbers, the piece of paper will contain the words lie, half-lie, half-truth, and truth that the servo can point to.
+The project we will be creating is the _Truth Meter_. It is composed of a servo (adjustable rotating motor) and wire that attaches it to the Circuit Playground which we will program to rotate the servo randomly to point to several options on a piece of paper. To visualize this, think of the servo as the pointer on a speedometer and the piece of paper as the dial on the speedometer except rather than numbers, the piece of paper will contain the words "lie", "half-lie", "half-truth", and "truth" that the servo can point to.
 
 # What Will I Gain from this Workshop?
 
