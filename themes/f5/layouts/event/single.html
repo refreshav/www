@@ -53,7 +53,7 @@
                         {{ if eq .Params.project "meetups" }}
                             <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Refresh AV Meetups</a>.  All are welcome!
                         {{ else if eq .Params.project "hoist" }}
-                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Hoist AV</a> is a monthly series of workshops for teens interested in design, entrepreneurship and programming.
+                            <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Hoist AV</a> is a space for teens interested in design, entrepreneurship and programming.
                         {{ else if eq .Params.project "creative-computing" }}
                             <a href="{{ $.Site.BaseURL }}project/{{ .Params.project | urlize }}">Creative Computing</a> is a series of workshops for kids interested in computer science.
                         {{ end }}
