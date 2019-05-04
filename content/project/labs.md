@@ -26,14 +26,6 @@ Refresh Annapolis Valley Labs is hosted at the Acadia Entrepreneurship Centre Ru
       </thead>
   <tbody>
     <tr>
-        <td><img src="/images/project/labs/hikingo.png"></td>
-        <td>
-            <h4>Hikingo</h4>
-            Hikingo is a map-based story game based in Nova Scotia that creates captivating tours for families and students. We provide tours of historic landmarks in your community for different age and skill levels. We call our tours “expeditions.” When you go on an expedition you can learn new facts about your community and take pictures to share with friends. After finishing an expedition you can rate your experience and pass on hints for future adventurers.
-        </td>
-        <td>We are looking for people who have experience with web development/design and business.  If you're interested in helping bring Hikingo to life email us at <a href="mailto:info@refreshannapolisvalley.org">info@refreshannapolisvalley.org</a>.</td>
-    </tr>
-    <tr>
           <td><img src="/images/project/labs/big-picture.jpg"></td>
           <td>
               <h4>Big Picture</h4>
