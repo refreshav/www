@@ -53,6 +53,11 @@
                         <dd><a href="https://twitter.com/{{ .Params.twitter }}">@{{ .Params.twitter }}</a></dd>
                         {{ end }}
 
+                        {{ if .Params.instagram }}
+                        <dt><i class="fab fa-instagram"></i> Instagram</dt>
+                        <dd><a href="https://instagram.com/{{ .Params.twitter }}">@{{ .Params.instagram }}</a></dd>
+                        {{ end }}
+
                         {{ if .Params.linkedin }}
                         <dt><i class="fab fa-linkedin"></i> LinkedIn</dt>
                         <dd><a href="{{ .Params.linkedin }}">@LinkedIn</a></dd>
