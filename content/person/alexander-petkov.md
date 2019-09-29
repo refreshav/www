@@ -5,7 +5,7 @@ title = "Alexander Petkov"
 banner = "images/person/alexander-petkov/banner"
 icon = "images/person/alexander-petkov/icon.jpg"
 website = "https://sparkwest.network"
-facebook = "alexander.alexandrovalexandrovalexandrov"
+facebook = "alexander.ovov"
 topics = ["Tech-Ed", "Hardware Hacking"]
 +++
 
