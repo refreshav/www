@@ -22,3 +22,5 @@ Avery is the founder of Modash, a tool that enables marketing teams to find and 
 More, Avery successfully launched a Podcast which enabled him to sit down and interview world class founders and investors like Taizo Son (the billionaire CEO of Mistletoe capital), Peter Vesterbacka (Angry Birds) and many many more. He also mentors for Startupwiseguys, a leading accelerator in CEE and Scandinavia. 
 
 Come join us for a Friday after work beer (or soda) -- on us -- and chat with Avery.  Learn about influencer marketing, how Modash is poised to be a key global player in this space, and lessons from the Estonian digital tech startup ecosystem.
+
+{{<person "Richelle Brown Redden">}} of the {{<organization "Valley Regional Enterprise Network">}} will be our tour guide for this fireside chat.
