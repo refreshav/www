@@ -9,4 +9,4 @@ topics = ["Machine Learning", "Computer Science", "Agriculture"]
 organizations = ["Nexus Robotics"]
 +++
 
-Teric is the CEO of Nexus Robotics.  At Nexus, Teric is working with a team of engineers to automate the weeding of common agricultural crops.  Taric grows vegetables on a farm in Lunenburg County in addition to his work with Nexus.
+Teric is the CEO of Nexus Robotics.  At Nexus, Teric is working with a team of engineers to automate the weeding of common agricultural crops.  Teric grows vegetables on a farm in Lunenburg County in addition to his work with Nexus.

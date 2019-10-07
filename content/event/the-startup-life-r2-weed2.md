@@ -5,13 +5,13 @@ date = "2019-10-09T19:00:00-03:00"
 PublishDate = "2019-06-01T19:00:00-03:00"
 draft = false
 event_facebook = "https://www.facebook.com/events/364485354436682/"
-event_eventbright = "https://www.eventbrite.ca/e/the-startup-life-r2-weed2-tickets-55493913790"
+event_eventbright = "https://www.eventbrite.ca/e/the-startup-life-meet-r2-weed2-tickets-74616685515"
 event_location = "Acadia Entrepreneurship Centre Rural Innovation Centre, 24 University Avenue, Wolfville, NS"
 project = "meetups"
 event_sponsors = ["Acadia Entrepreneurship Centre", "Annapolis Valley Chamber of Commerce", "Acadia Institute for Data Analytics"]
 people = ["Teric Greenan", "Jeremy Lutes", "Dr Daniel Silver"]
 title = "The Startup Life: Meet R2-Weed2"
-topics = ["Agriculture", "Entrepreneurship", "Artificial Intelligence", "Machine Learning"]
+topics = ["Agriculture", "Entrepreneurship", "Artificial Intelligence", "Machine Learning", "Startups"]
 organizations = ["Nexus Robotics"]
 +++
 
